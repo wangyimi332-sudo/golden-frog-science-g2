@@ -1,0 +1,2932 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "r1-intro",
+      "voice": "af_heart",
+      "text": "Water, trees, rocks, and air are natural resources. A chair is a product made from resources.",
+      "file": "af_heart-r1-intro.mp3",
+      "duration": 6.63
+    },
+    {
+      "id": "r1-fact",
+      "voice": "af_heart",
+      "text": "One product may use several resources, such as wood, metal, water, and energy.",
+      "file": "af_heart-r1-fact.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "r1-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r1-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r1-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Water, trees, rocks, and air are natural resources. A chair is a product made from resources.",
+      "file": "af_heart-r1-clue0-source.mp3",
+      "duration": 7.66
+    },
+    {
+      "id": "r1-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. One product may use several resources, such as wood, metal, water, and energy.",
+      "file": "af_heart-r1-clue0-use.mp3",
+      "duration": 6.63
+    },
+    {
+      "id": "r1-step1",
+      "voice": "af_heart",
+      "text": "Which is a manufactured product? Choose one answer. A. River water B. A wooden chair C. A growing tree",
+      "file": "af_heart-r1-step1.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "r1-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r1-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r1-sentence",
+      "voice": "af_heart",
+      "text": "A wooden chair is a product made from natural resources.",
+      "file": "af_heart-r1-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "r2-intro",
+      "voice": "af_heart",
+      "text": "Forests supply wood, fruit, and other plant products. They also provide habitats and help protect soil.",
+      "file": "af_heart-r2-intro.mp3",
+      "duration": 6.81
+    },
+    {
+      "id": "r2-fact",
+      "voice": "af_heart",
+      "text": "Trees can regrow, but regrowth takes time. Forest care includes habitats, soil, water, and responsible harvesting.",
+      "file": "af_heart-r2-fact.mp3",
+      "duration": 7.96
+    },
+    {
+      "id": "r2-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r2-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r2-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Forests supply wood, fruit, and other plant products. They also provide habitats and help protect soil.",
+      "file": "af_heart-r2-clue0-source.mp3",
+      "duration": 7.87
+    },
+    {
+      "id": "r2-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Trees can regrow, but regrowth takes time. Forest care includes habitats, soil, water, and responsible harvesting.",
+      "file": "af_heart-r2-clue0-use.mp3",
+      "duration": 9.19
+    },
+    {
+      "id": "r2-step1",
+      "voice": "af_heart",
+      "text": "What would a timber-only count miss? Choose one answer. A. Animal habitats and soil protection B. The number of logs only C. Nothing else matters",
+      "file": "af_heart-r2-step1.mp3",
+      "duration": 9.71
+    },
+    {
+      "id": "r2-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r2-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r2-sentence",
+      "voice": "af_heart",
+      "text": "A forest provides materials and habitats. We need to care for both.",
+      "file": "af_heart-r2-sentence.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "r3-intro",
+      "voice": "af_heart",
+      "text": "Wood can become furniture, building lumber, paper pulp, and tools. Wood can also be burned for heat.",
+      "file": "af_heart-r3-intro.mp3",
+      "duration": 6.02
+    },
+    {
+      "id": "r3-fact",
+      "voice": "af_heart",
+      "text": "Burning wood uses up the material and releases smoke and carbon dioxide. A usable board can sometimes be repaired or reused first.",
+      "file": "af_heart-r3-fact.mp3",
+      "duration": 9.41
+    },
+    {
+      "id": "r3-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r3-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r3-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Wood can become furniture, building lumber, paper pulp, and tools. Wood can also be burned for heat.",
+      "file": "af_heart-r3-clue0-source.mp3",
+      "duration": 7.15
+    },
+    {
+      "id": "r3-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Burning wood uses up the material and releases smoke and carbon dioxide. A usable board can sometimes be repaired or reused first.",
+      "file": "af_heart-r3-clue0-use.mp3",
+      "duration": 10.77
+    },
+    {
+      "id": "r3-step1",
+      "voice": "af_heart",
+      "text": "Which pair can both come from wood? Choose one answer. A. A table and paper B. A steel spoon and salt C. A glass pane and copper wire",
+      "file": "af_heart-r3-step1.mp3",
+      "duration": 9.39
+    },
+    {
+      "id": "r3-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r3-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r3-sentence",
+      "voice": "af_heart",
+      "text": "Wood can become furniture, building materials, paper, or fuel.",
+      "file": "af_heart-r3-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "r4-intro",
+      "voice": "af_heart",
+      "text": "Example pathway: wood fibers are separated into pulp, spread into sheets, then dried into paper. Used paper can sometimes supply fibers too.",
+      "file": "af_heart-r4-intro.mp3",
+      "duration": 10.07
+    },
+    {
+      "id": "r4-fact",
+      "voice": "af_heart",
+      "text": "Paper recycling needs collection and processing. Fibers shorten with repeated recycling, so paper cannot be recycled endlessly.",
+      "file": "af_heart-r4-fact.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "r4-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r4-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r4-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Example pathway: wood fibers are separated into pulp, spread into sheets, then dried into paper. Used paper can sometimes supply fibers too.",
+      "file": "af_heart-r4-clue0-source.mp3",
+      "duration": 11.2
+    },
+    {
+      "id": "r4-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Paper recycling needs collection and processing. Fibers shorten with repeated recycling, so paper cannot be recycled endlessly.",
+      "file": "af_heart-r4-clue0-use.mp3",
+      "duration": 10.05
+    },
+    {
+      "id": "r4-step1",
+      "voice": "af_heart",
+      "text": "Arrange this example pathway.",
+      "file": "af_heart-r4-step1.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "r4-clue1-fibers",
+      "voice": "af_heart",
+      "text": "Wood fibers. Wood fibers",
+      "file": "af_heart-r4-clue1-fibers.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r4-clue1-pulp",
+      "voice": "af_heart",
+      "text": "Pulp. Pulp",
+      "file": "af_heart-r4-clue1-pulp.mp3",
+      "duration": 1.15
+    },
+    {
+      "id": "r4-clue1-sheet",
+      "voice": "af_heart",
+      "text": "Paper sheet. Paper sheet",
+      "file": "af_heart-r4-clue1-sheet.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "r4-step2",
+      "voice": "af_heart",
+      "text": "Which order fits this pathway? Choose one answer. A. Paper → tree → pulp B. Wood fibers → pulp → paper C. Pulp → metal → tree",
+      "file": "af_heart-r4-step2.mp3",
+      "duration": 12.31
+    },
+    {
+      "id": "r4-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r4-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r4-sentence",
+      "voice": "af_heart",
+      "text": "Wood fibers can become pulp and then paper.",
+      "file": "af_heart-r4-sentence.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "r5-intro",
+      "voice": "af_heart",
+      "text": "Cotton plants grow fibers around their seeds. Fibers can be spun into yarn and woven into cloth.",
+      "file": "af_heart-r5-intro.mp3",
+      "duration": 6.34
+    },
+    {
+      "id": "r5-fact",
+      "voice": "af_heart",
+      "text": "Clothes may use cotton, wool, synthetic fibers, or blends. Read a material label rather than assuming all clothing is cotton.",
+      "file": "af_heart-r5-fact.mp3",
+      "duration": 8.32
+    },
+    {
+      "id": "r5-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r5-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r5-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Cotton plants grow fibers around their seeds. Fibers can be spun into yarn and woven into cloth.",
+      "file": "af_heart-r5-clue0-source.mp3",
+      "duration": 7.27
+    },
+    {
+      "id": "r5-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Clothes may use cotton, wool, synthetic fibers, or blends. Read a material label rather than assuming all clothing is cotton.",
+      "file": "af_heart-r5-clue0-use.mp3",
+      "duration": 9.66
+    },
+    {
+      "id": "r5-step1",
+      "voice": "af_heart",
+      "text": "Arrange this example pathway.",
+      "file": "af_heart-r5-step1.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "r5-clue1-plant",
+      "voice": "af_heart",
+      "text": "Cotton plant. Cotton plant",
+      "file": "af_heart-r5-clue1-plant.mp3",
+      "duration": 1.96
+    },
+    {
+      "id": "r5-clue1-yarn",
+      "voice": "af_heart",
+      "text": "Yarn. Yarn",
+      "file": "af_heart-r5-clue1-yarn.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "r5-clue1-cloth",
+      "voice": "af_heart",
+      "text": "Cloth. Cloth",
+      "file": "af_heart-r5-clue1-cloth.mp3",
+      "duration": 1.41
+    },
+    {
+      "id": "r5-step2",
+      "voice": "af_heart",
+      "text": "Where do cotton fibers come from? Choose one answer. A. Cotton plants B. Sheep C. Crude oil only",
+      "file": "af_heart-r5-step2.mp3",
+      "duration": 6.55
+    },
+    {
+      "id": "r5-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r5-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r5-sentence",
+      "voice": "af_heart",
+      "text": "Cotton fibers come from plants and can become cloth.",
+      "file": "af_heart-r5-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "r6-intro",
+      "voice": "af_heart",
+      "text": "Sheep provide wool. Dairy cows provide milk. Wool can become yarn and clothing; milk can become cheese or yogurt.",
+      "file": "af_heart-r6-intro.mp3",
+      "duration": 7.81
+    },
+    {
+      "id": "r6-fact",
+      "voice": "af_heart",
+      "text": "Animal care, land, feed, and water are part of producing animal resources. Plant drinks such as oat drinks have plant sources.",
+      "file": "af_heart-r6-fact.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "r6-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r6-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r6-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Sheep provide wool. Dairy cows provide milk. Wool can become yarn and clothing; milk can become cheese or yogurt.",
+      "file": "af_heart-r6-clue0-source.mp3",
+      "duration": 8.98
+    },
+    {
+      "id": "r6-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Animal care, land, feed, and water are part of producing animal resources. Plant drinks such as oat drinks have plant sources.",
+      "file": "af_heart-r6-clue0-use.mp3",
+      "duration": 9.92
+    },
+    {
+      "id": "r6-step1",
+      "voice": "af_heart",
+      "text": "Which source-product match fits? Choose one answer. A. Sheep → wool sweater B. Cotton → dairy cheese C. Rock → wool",
+      "file": "af_heart-r6-step1.mp3",
+      "duration": 9.51
+    },
+    {
+      "id": "r6-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r6-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r6-sentence",
+      "voice": "af_heart",
+      "text": "A wool sweater uses fibers from sheep.",
+      "file": "af_heart-r6-sentence.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "r7-intro",
+      "voice": "af_heart",
+      "text": "Example record: dairy cream is shaken; fat gathers into butter and liquid separates. This is a recorded model, not a live experiment.",
+      "file": "af_heart-r7-intro.mp3",
+      "duration": 9.37
+    },
+    {
+      "id": "r7-fact",
+      "voice": "af_heart",
+      "text": "Butter uses fat from dairy cream. Not every liquid called milk has the same ingredients or behavior.",
+      "file": "af_heart-r7-fact.mp3",
+      "duration": 6.83
+    },
+    {
+      "id": "r7-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r7-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r7-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Example record: dairy cream is shaken; fat gathers into butter and liquid separates. This is a recorded model, not a live experiment.",
+      "file": "af_heart-r7-clue0-source.mp3",
+      "duration": 10.52
+    },
+    {
+      "id": "r7-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Butter uses fat from dairy cream. Not every liquid called milk has the same ingredients or behavior.",
+      "file": "af_heart-r7-clue0-use.mp3",
+      "duration": 8.04
+    },
+    {
+      "id": "r7-step1",
+      "voice": "af_heart",
+      "text": "Arrange this example pathway.",
+      "file": "af_heart-r7-step1.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "r7-clue1-cream",
+      "voice": "af_heart",
+      "text": "Dairy cream. Dairy cream",
+      "file": "af_heart-r7-clue1-cream.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "r7-clue1-shake",
+      "voice": "af_heart",
+      "text": "Shaking. Shaking",
+      "file": "af_heart-r7-clue1-shake.mp3",
+      "duration": 1.58
+    },
+    {
+      "id": "r7-clue1-butter",
+      "voice": "af_heart",
+      "text": "Butter and liquid. Butter and liquid",
+      "file": "af_heart-r7-clue1-butter.mp3",
+      "duration": 2.5
+    },
+    {
+      "id": "r7-step2",
+      "voice": "af_heart",
+      "text": "What is the source of this dairy cream? Choose one answer. A. Animal milk B. A petroleum well C. A mineral mine",
+      "file": "af_heart-r7-step2.mp3",
+      "duration": 7.59
+    },
+    {
+      "id": "r7-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r7-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r7-sentence",
+      "voice": "af_heart",
+      "text": "In this example, dairy cream can be made into butter.",
+      "file": "af_heart-r7-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "r8-intro",
+      "voice": "af_heart",
+      "text": "Soil supports crops. Roots take in water and minerals; leaves use light to make food. Crops can become food and plant materials.",
+      "file": "af_heart-r8-intro.mp3",
+      "duration": 8.45
+    },
+    {
+      "id": "r8-fact",
+      "voice": "af_heart",
+      "text": "Protecting soil from erosion helps protect a resource needed for growing crops.",
+      "file": "af_heart-r8-fact.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "r8-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r8-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r8-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Soil supports crops. Roots take in water and minerals; leaves use light to make food. Crops can become food and plant materials.",
+      "file": "af_heart-r8-clue0-source.mp3",
+      "duration": 9.56
+    },
+    {
+      "id": "r8-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Protecting soil from erosion helps protect a resource needed for growing crops.",
+      "file": "af_heart-r8-clue0-use.mp3",
+      "duration": 6.46
+    },
+    {
+      "id": "r8-step1",
+      "voice": "af_heart",
+      "text": "Which statement is supported? Choose one answer. A. Plants eat soil as food B. Crops need suitable growing conditions C. Water alone replaces every plant need",
+      "file": "af_heart-r8-step1.mp3",
+      "duration": 11.05
+    },
+    {
+      "id": "r8-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r8-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r8-sentence",
+      "voice": "af_heart",
+      "text": "Healthy soil and water help crops grow and provide resources for people.",
+      "file": "af_heart-r8-sentence.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "r9-intro",
+      "voice": "af_heart",
+      "text": "People use water for drinking, washing, growing crops, making products, and cooling some power plants. These uses need different treatment.",
+      "file": "af_heart-r9-intro.mp3",
+      "duration": 8.81
+    },
+    {
+      "id": "r9-fact",
+      "voice": "af_heart",
+      "text": "The water cycle continues, but clean freshwater is limited by place, time, pollution, and treatment capacity.",
+      "file": "af_heart-r9-fact.mp3",
+      "duration": 7.3
+    },
+    {
+      "id": "r9-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r9-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r9-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. People use water for drinking, washing, growing crops, making products, and cooling some power plants. These uses need different treatment.",
+      "file": "af_heart-r9-clue0-source.mp3",
+      "duration": 9.83
+    },
+    {
+      "id": "r9-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. The water cycle continues, but clean freshwater is limited by place, time, pollution, and treatment capacity.",
+      "file": "af_heart-r9-clue0-use.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "r9-step1",
+      "voice": "af_heart",
+      "text": "Can clear-looking river water be assumed safe to drink? Choose one answer. A. Yes, clear means safe B. No, proper testing and treatment are needed",
+      "file": "af_heart-r9-step1.mp3",
+      "duration": 9.86
+    },
+    {
+      "id": "r9-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r9-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r9-sentence",
+      "voice": "af_heart",
+      "text": "Water serves many uses. Safe drinking water needs suitable treatment.",
+      "file": "af_heart-r9-sentence.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "r10-intro",
+      "voice": "af_heart",
+      "text": "MODEL DATA: washing 12 liters, watering 8 liters, cleaning 5 liters. A repaired leak reduces washing-related loss by 3 liters.",
+      "file": "af_heart-r10-intro.mp3",
+      "duration": 9.86
+    },
+    {
+      "id": "r10-fact",
+      "voice": "af_heart",
+      "text": "The initial total is 25 liters and the new total is 22 liters. These are example values, not measurements from your home.",
+      "file": "af_heart-r10-fact.mp3",
+      "duration": 8.68
+    },
+    {
+      "id": "r10-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r10-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r10-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. MODEL DATA: washing 12 liters, watering 8 liters, cleaning 5 liters. A repaired leak reduces washing-related loss by 3 liters.",
+      "file": "af_heart-r10-clue0-source.mp3",
+      "duration": 11.01
+    },
+    {
+      "id": "r10-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. The initial total is 25 liters and the new total is 22 liters. These are example values, not measurements from your home.",
+      "file": "af_heart-r10-clue0-use.mp3",
+      "duration": 10.05
+    },
+    {
+      "id": "r10-step1",
+      "voice": "af_heart",
+      "text": "How much does the total fall after the repair? Choose one answer. A. 3 liters B. 12 liters C. 25 liters",
+      "file": "af_heart-r10-step1.mp3",
+      "duration": 8.7
+    },
+    {
+      "id": "r10-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r10-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r10-sentence",
+      "voice": "af_heart",
+      "text": "In this model, repairing the leak saves 3 liters.",
+      "file": "af_heart-r10-sentence.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "r11-intro",
+      "voice": "af_heart",
+      "text": "Stone can be cut for building. Clay can be shaped and fired into bricks. Suitable silica sand with other ingredients can be melted to make glass.",
+      "file": "af_heart-r11-intro.mp3",
+      "duration": 8.98
+    },
+    {
+      "id": "r11-fact",
+      "voice": "af_heart",
+      "text": "Glass, brick, and stone have different sources and processing steps; they are not all made the same way.",
+      "file": "af_heart-r11-fact.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "r11-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r11-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r11-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Stone can be cut for building. Clay can be shaped and fired into bricks. Suitable silica sand with other ingredients can be melted to make glass.",
+      "file": "af_heart-r11-clue0-source.mp3",
+      "duration": 10.07
+    },
+    {
+      "id": "r11-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Glass, brick, and stone have different sources and processing steps; they are not all made the same way.",
+      "file": "af_heart-r11-clue0-use.mp3",
+      "duration": 7.36
+    },
+    {
+      "id": "r11-step1",
+      "voice": "af_heart",
+      "text": "Which pathway needs heating and processing? Choose one answer. A. Clay → fired brick B. A tree grows a glass window C. A rock becomes a chair without work",
+      "file": "af_heart-r11-step1.mp3",
+      "duration": 10.94
+    },
+    {
+      "id": "r11-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r11-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r11-sentence",
+      "voice": "af_heart",
+      "text": "Natural materials need suitable processing to become many useful products.",
+      "file": "af_heart-r11-sentence.mp3",
+      "duration": 5.08
+    },
+    {
+      "id": "r12-intro",
+      "voice": "af_heart",
+      "text": "Ores contain useful minerals. Processing can produce iron, copper, or aluminum. Copper is used in wiring; aluminum in cans; steel in buildings.",
+      "file": "af_heart-r12-intro.mp3",
+      "duration": 10.75
+    },
+    {
+      "id": "r12-fact",
+      "voice": "af_heart",
+      "text": "Metal recovery still needs collection and energy. Recycling metals can reduce the need for new ore extraction.",
+      "file": "af_heart-r12-fact.mp3",
+      "duration": 7.4
+    },
+    {
+      "id": "r12-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r12-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r12-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Ores contain useful minerals. Processing can produce iron, copper, or aluminum. Copper is used in wiring; aluminum in cans; steel in buildings.",
+      "file": "af_heart-r12-clue0-source.mp3",
+      "duration": 11.82
+    },
+    {
+      "id": "r12-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Metal recovery still needs collection and energy. Recycling metals can reduce the need for new ore extraction.",
+      "file": "af_heart-r12-clue0-use.mp3",
+      "duration": 8.6
+    },
+    {
+      "id": "r12-step1",
+      "voice": "af_heart",
+      "text": "Which metal-use match is reasonable? Choose one answer. A. Copper → electrical wire B. Aluminum → cotton fiber C. Iron → tree leaves",
+      "file": "af_heart-r12-step1.mp3",
+      "duration": 11.48
+    },
+    {
+      "id": "r12-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r12-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r12-sentence",
+      "voice": "af_heart",
+      "text": "Metals from ores can become wires, cans, tools, and building parts.",
+      "file": "af_heart-r12-sentence.mp3",
+      "duration": 4.54
+    },
+    {
+      "id": "r13-intro",
+      "voice": "af_heart",
+      "text": "Crude oil is processed in refineries. Products include gasoline, diesel, jet fuel, asphalt, lubricants, and feedstocks for many plastics and synthetic fibers.",
+      "file": "af_heart-r13-intro.mp3",
+      "duration": 11.46
+    },
+    {
+      "id": "r13-fact",
+      "voice": "af_heart",
+      "text": "Plastics may use petroleum or natural-gas feedstocks; some use plant feedstocks. A plastic product does not reveal its source by shape alone.",
+      "file": "af_heart-r13-fact.mp3",
+      "duration": 9.71
+    },
+    {
+      "id": "r13-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r13-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r13-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Crude oil is processed in refineries. Products include gasoline, diesel, jet fuel, asphalt, lubricants, and feedstocks for many plastics and synthetic fibers.",
+      "file": "af_heart-r13-clue0-source.mp3",
+      "duration": 12.57
+    },
+    {
+      "id": "r13-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Plastics may use petroleum or natural-gas feedstocks; some use plant feedstocks. A plastic product does not reveal its source by shape alone.",
+      "file": "af_heart-r13-clue0-use.mp3",
+      "duration": 11.2
+    },
+    {
+      "id": "r13-step1",
+      "voice": "af_heart",
+      "text": "Which pair may use petroleum-derived materials? Choose one answer. A. Road asphalt and polyester fabric B. Raw cotton and fresh apples C. Wool growing on sheep and rain",
+      "file": "af_heart-r13-step1.mp3",
+      "duration": 12.07
+    },
+    {
+      "id": "r13-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r13-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r13-sentence",
+      "voice": "af_heart",
+      "text": "Petroleum can provide fuels and materials for many everyday products.",
+      "file": "af_heart-r13-sentence.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "r14-intro",
+      "voice": "af_heart",
+      "text": "Coal can be burned to produce heat for electricity generation. Certain coal is processed into coke used in many ironmaking processes.",
+      "file": "af_heart-r14-intro.mp3",
+      "duration": 9.11
+    },
+    {
+      "id": "r14-fact",
+      "voice": "af_heart",
+      "text": "Not all steelmaking uses coal-derived coke. Burning coal releases carbon dioxide and air pollutants.",
+      "file": "af_heart-r14-fact.mp3",
+      "duration": 6.98
+    },
+    {
+      "id": "r14-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r14-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r14-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Coal can be burned to produce heat for electricity generation. Certain coal is processed into coke used in many ironmaking processes.",
+      "file": "af_heart-r14-clue0-source.mp3",
+      "duration": 9.98
+    },
+    {
+      "id": "r14-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Not all steelmaking uses coal-derived coke. Burning coal releases carbon dioxide and air pollutants.",
+      "file": "af_heart-r14-clue0-use.mp3",
+      "duration": 8.38
+    },
+    {
+      "id": "r14-step1",
+      "voice": "af_heart",
+      "text": "Besides electricity, which use can involve coal-derived coke? Choose one answer. A. Helping produce iron for steel B. Growing cotton fibers C. Recycling sunlight",
+      "file": "af_heart-r14-step1.mp3",
+      "duration": 11.39
+    },
+    {
+      "id": "r14-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r14-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r14-sentence",
+      "voice": "af_heart",
+      "text": "Some coal becomes coke, which helps make iron for steel production.",
+      "file": "af_heart-r14-sentence.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "r15-intro",
+      "voice": "af_heart",
+      "text": "Natural gas can fuel cooking, heating, industry, and electricity generation. It can also supply raw material for making ammonia used in fertilizers.",
+      "file": "af_heart-r15-intro.mp3",
+      "duration": 10.84
+    },
+    {
+      "id": "r15-fact",
+      "voice": "af_heart",
+      "text": "Natural gas is nonrenewable on human timescales. Burning it releases carbon dioxide, and methane leaks also affect climate.",
+      "file": "af_heart-r15-fact.mp3",
+      "duration": 9.26
+    },
+    {
+      "id": "r15-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r15-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r15-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Natural gas can fuel cooking, heating, industry, and electricity generation. It can also supply raw material for making ammonia used in fertilizers.",
+      "file": "af_heart-r15-clue0-source.mp3",
+      "duration": 11.69
+    },
+    {
+      "id": "r15-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Natural gas is nonrenewable on human timescales. Burning it releases carbon dioxide, and methane leaks also affect climate.",
+      "file": "af_heart-r15-clue0-use.mp3",
+      "duration": 10.67
+    },
+    {
+      "id": "r15-step1",
+      "voice": "af_heart",
+      "text": "Which pair describes real natural-gas uses? Choose one answer. A. Heating and fertilizer production B. Cotton growing directly from a pipe C. Making river water appear from nothing",
+      "file": "af_heart-r15-step1.mp3",
+      "duration": 12.39
+    },
+    {
+      "id": "r15-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r15-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r15-sentence",
+      "voice": "af_heart",
+      "text": "Natural gas can supply energy and raw materials for industry.",
+      "file": "af_heart-r15-sentence.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "r16-intro",
+      "voice": "af_heart",
+      "text": "A plastic container may be collected for material recycling. Fuel burned for energy changes into other substances; collecting its exhaust does not turn it back into usable fuel.",
+      "file": "af_heart-r16-intro.mp3",
+      "duration": 11.86
+    },
+    {
+      "id": "r16-fact",
+      "voice": "af_heart",
+      "text": "Renewable, reusable, and recyclable mean different things. Check both the material and the process.",
+      "file": "af_heart-r16-fact.mp3",
+      "duration": 6.7
+    },
+    {
+      "id": "r16-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r16-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r16-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. A plastic container may be collected for material recycling. Fuel burned for energy changes into other substances; collecting its exhaust does not turn it back into usable fuel.",
+      "file": "af_heart-r16-clue0-source.mp3",
+      "duration": 12.8
+    },
+    {
+      "id": "r16-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Renewable, reusable, and recyclable mean different things. Check both the material and the process.",
+      "file": "af_heart-r16-clue0-use.mp3",
+      "duration": 7.96
+    },
+    {
+      "id": "r16-step1",
+      "voice": "af_heart",
+      "text": "Which statement is accurate? Choose one answer. A. Burned gasoline can simply go into a recycling bin B. Some plastic products can be recycled; burned fuel is used up C. All plastic can be recycled everywhere",
+      "file": "af_heart-r16-step1.mp3",
+      "duration": 14.55
+    },
+    {
+      "id": "r16-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r16-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r16-sentence",
+      "voice": "af_heart",
+      "text": "Recycling a material is different from burning a fuel for energy.",
+      "file": "af_heart-r16-sentence.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "r17-intro",
+      "voice": "af_heart",
+      "text": "A photovoltaic panel changes sunlight into electricity. A solar water heater instead uses sunlight to heat water.",
+      "file": "af_heart-r17-intro.mp3",
+      "duration": 8.36
+    },
+    {
+      "id": "r17-fact",
+      "voice": "af_heart",
+      "text": "Solar output depends on light and equipment. Energy may need storage or other supply when sunlight is unavailable.",
+      "file": "af_heart-r17-fact.mp3",
+      "duration": 7.96
+    },
+    {
+      "id": "r17-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r17-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r17-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. A photovoltaic panel changes sunlight into electricity. A solar water heater instead uses sunlight to heat water.",
+      "file": "af_heart-r17-clue0-source.mp3",
+      "duration": 9.17
+    },
+    {
+      "id": "r17-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Solar output depends on light and equipment. Energy may need storage or other supply when sunlight is unavailable.",
+      "file": "af_heart-r17-clue0-use.mp3",
+      "duration": 9.0
+    },
+    {
+      "id": "r17-step1",
+      "voice": "af_heart",
+      "text": "What does a photovoltaic panel produce? Choose one answer. A. Electricity B. New coal C. Cotton fibers",
+      "file": "af_heart-r17-step1.mp3",
+      "duration": 7.68
+    },
+    {
+      "id": "r17-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r17-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r17-sentence",
+      "voice": "af_heart",
+      "text": "A solar panel can change sunlight into electricity.",
+      "file": "af_heart-r17-sentence.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "r18-intro",
+      "voice": "af_heart",
+      "text": "Wind or moving water can turn turbines connected to generators. The moving air or water supplies energy.",
+      "file": "af_heart-r18-intro.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "r18-fact",
+      "voice": "af_heart",
+      "text": "Sites and equipment matter. Dams can change river habitats; wind and solar installations also use materials and land.",
+      "file": "af_heart-r18-fact.mp3",
+      "duration": 8.53
+    },
+    {
+      "id": "r18-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r18-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r18-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Wind or moving water can turn turbines connected to generators. The moving air or water supplies energy.",
+      "file": "af_heart-r18-clue0-source.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "r18-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Sites and equipment matter. Dams can change river habitats; wind and solar installations also use materials and land.",
+      "file": "af_heart-r18-clue0-use.mp3",
+      "duration": 9.83
+    },
+    {
+      "id": "r18-step1",
+      "voice": "af_heart",
+      "text": "Arrange this example pathway.",
+      "file": "af_heart-r18-step1.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "r18-clue1-wind",
+      "voice": "af_heart",
+      "text": "Moving wind. Moving wind",
+      "file": "af_heart-r18-clue1-wind.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "r18-clue1-turbine",
+      "voice": "af_heart",
+      "text": "Turning turbine. Turning turbine",
+      "file": "af_heart-r18-clue1-turbine.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "r18-clue1-generator",
+      "voice": "af_heart",
+      "text": "Generator. Generator",
+      "file": "af_heart-r18-clue1-generator.mp3",
+      "duration": 1.83
+    },
+    {
+      "id": "r18-clue1-power",
+      "voice": "af_heart",
+      "text": "Electricity. Electricity",
+      "file": "af_heart-r18-clue1-power.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "r18-step2",
+      "voice": "af_heart",
+      "text": "Which chain fits a wind generator? Choose one answer. A. Wind → turbine → generator → electricity B. Electricity → cotton → oil C. Coal → tree → wind",
+      "file": "af_heart-r18-step2.mp3",
+      "duration": 15.15
+    },
+    {
+      "id": "r18-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r18-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r18-sentence",
+      "voice": "af_heart",
+      "text": "Moving air or water can turn a turbine to help generate electricity.",
+      "file": "af_heart-r18-sentence.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "r19-intro",
+      "voice": "af_heart",
+      "text": "Geothermal systems use Earth’s heat. Nuclear plants use uranium fuel. Biomass includes plant material and organic waste that can supply energy.",
+      "file": "af_heart-r19-intro.mp3",
+      "duration": 10.67
+    },
+    {
+      "id": "r19-fact",
+      "voice": "af_heart",
+      "text": "Renewable sources can be replenished naturally, but every energy system has practical limits and environmental effects.",
+      "file": "af_heart-r19-fact.mp3",
+      "duration": 7.57
+    },
+    {
+      "id": "r19-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r19-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r19-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Geothermal systems use Earth’s heat. Nuclear plants use uranium fuel. Biomass includes plant material and organic waste that can supply energy.",
+      "file": "af_heart-r19-clue0-source.mp3",
+      "duration": 11.52
+    },
+    {
+      "id": "r19-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Renewable sources can be replenished naturally, but every energy system has practical limits and environmental effects.",
+      "file": "af_heart-r19-clue0-use.mp3",
+      "duration": 9.07
+    },
+    {
+      "id": "r19-step1",
+      "voice": "af_heart",
+      "text": "Which source uses heat from inside Earth? Choose one answer. A. Geothermal energy B. Petroleum refining only C. Cotton weaving",
+      "file": "af_heart-r19-step1.mp3",
+      "duration": 9.64
+    },
+    {
+      "id": "r19-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r19-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r19-sentence",
+      "voice": "af_heart",
+      "text": "Different energy sources use different materials and processes.",
+      "file": "af_heart-r19-sentence.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "r20-intro",
+      "voice": "af_heart",
+      "text": "Trees can regrow with suitable conditions. Coal, oil, and natural gas form over geological timescales and cannot be replaced as fast as we use them.",
+      "file": "af_heart-r20-intro.mp3",
+      "duration": 10.71
+    },
+    {
+      "id": "r20-fact",
+      "voice": "af_heart",
+      "text": "Growing trees again does not immediately replace all the habitats and functions of an older forest.",
+      "file": "af_heart-r20-fact.mp3",
+      "duration": 6.23
+    },
+    {
+      "id": "r20-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r20-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r20-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Trees can regrow with suitable conditions. Coal, oil, and natural gas form over geological timescales and cannot be replaced as fast as we use them.",
+      "file": "af_heart-r20-clue0-source.mp3",
+      "duration": 11.71
+    },
+    {
+      "id": "r20-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Growing trees again does not immediately replace all the habitats and functions of an older forest.",
+      "file": "af_heart-r20-clue0-use.mp3",
+      "duration": 7.55
+    },
+    {
+      "id": "r20-step1",
+      "voice": "af_heart",
+      "text": "If a forest is cut faster than it regrows, what can happen? Choose one answer. A. The supply can shrink B. Wood becomes unlimited C. Trees instantly turn into coal",
+      "file": "af_heart-r20-step1.mp3",
+      "duration": 11.16
+    },
+    {
+      "id": "r20-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r20-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r20-sentence",
+      "voice": "af_heart",
+      "text": "A renewable resource still needs time and careful management.",
+      "file": "af_heart-r20-sentence.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "r21-intro",
+      "voice": "af_heart",
+      "text": "Reuse keeps an item in use. Repair restores function. Recycling processes materials into new products. Reducing unnecessary purchases avoids demand.",
+      "file": "af_heart-r21-intro.mp3",
+      "duration": 11.09
+    },
+    {
+      "id": "r21-fact",
+      "voice": "af_heart",
+      "text": "Reuse and repair depend on condition and safety. Recycling is useful when an item cannot reasonably remain in use.",
+      "file": "af_heart-r21-fact.mp3",
+      "duration": 8.45
+    },
+    {
+      "id": "r21-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r21-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r21-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. Reuse keeps an item in use. Repair restores function. Recycling processes materials into new products. Reducing unnecessary purchases avoids demand.",
+      "file": "af_heart-r21-clue0-source.mp3",
+      "duration": 12.01
+    },
+    {
+      "id": "r21-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Reuse and repair depend on condition and safety. Recycling is useful when an item cannot reasonably remain in use.",
+      "file": "af_heart-r21-clue0-use.mp3",
+      "duration": 9.62
+    },
+    {
+      "id": "r21-step1",
+      "voice": "af_heart",
+      "text": "A safe shelf has one loose screw. What fits the record? Choose one answer. A. Have an adult repair it and keep using it B. Burn it immediately C. Always buy a new shelf",
+      "file": "af_heart-r21-step1.mp3",
+      "duration": 11.67
+    },
+    {
+      "id": "r21-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r21-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r21-sentence",
+      "voice": "af_heart",
+      "text": "Repairing a usable shelf can reduce the need for new materials.",
+      "file": "af_heart-r21-sentence.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "r22-intro",
+      "voice": "af_heart",
+      "text": "MODEL RULE: clean paper and metal cans are accepted. Plastic film is not accepted in this bin. Batteries need a special collection point.",
+      "file": "af_heart-r22-intro.mp3",
+      "duration": 9.15
+    },
+    {
+      "id": "r22-fact",
+      "voice": "af_heart",
+      "text": "Actual recycling rules vary. A recycling symbol alone does not guarantee that a local program accepts an item.",
+      "file": "af_heart-r22-fact.mp3",
+      "duration": 7.79
+    },
+    {
+      "id": "r22-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r22-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r22-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. MODEL RULE: clean paper and metal cans are accepted. Plastic film is not accepted in this bin. Batteries need a special collection point.",
+      "file": "af_heart-r22-clue0-source.mp3",
+      "duration": 10.35
+    },
+    {
+      "id": "r22-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. Actual recycling rules vary. A recycling symbol alone does not guarantee that a local program accepts an item.",
+      "file": "af_heart-r22-clue0-use.mp3",
+      "duration": 8.96
+    },
+    {
+      "id": "r22-step1",
+      "voice": "af_heart",
+      "text": "Which item belongs in this model recycling bin? Choose one answer. A. A battery B. A metal can C. Plastic film",
+      "file": "af_heart-r22-step1.mp3",
+      "duration": 8.11
+    },
+    {
+      "id": "r22-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r22-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r22-sentence",
+      "voice": "af_heart",
+      "text": "I check local rules before choosing a recycling route.",
+      "file": "af_heart-r22-sentence.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "r23-intro",
+      "voice": "af_heart",
+      "text": "California resource examples include agricultural crops, forests, minerals, petroleum, natural gas, sunshine, wind, and water. Conditions differ across the state.",
+      "file": "af_heart-r23-intro.mp3",
+      "duration": 11.65
+    },
+    {
+      "id": "r23-fact",
+      "voice": "af_heart",
+      "text": "A resource map helps locate possibilities; local evidence is needed before deciding how to use a resource.",
+      "file": "af_heart-r23-fact.mp3",
+      "duration": 7.38
+    },
+    {
+      "id": "r23-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r23-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r23-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. California resource examples include agricultural crops, forests, minerals, petroleum, natural gas, sunshine, wind, and water. Conditions differ across the state.",
+      "file": "af_heart-r23-clue0-source.mp3",
+      "duration": 12.69
+    },
+    {
+      "id": "r23-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. A resource map helps locate possibilities; local evidence is needed before deciding how to use a resource.",
+      "file": "af_heart-r23-clue0-use.mp3",
+      "duration": 8.55
+    },
+    {
+      "id": "r23-step1",
+      "voice": "af_heart",
+      "text": "What should a crop plan consider besides sunshine? Choose one answer. A. Water, soil, and suitable growing conditions B. Only the color of a tractor C. Exactly the same climate everywhere",
+      "file": "af_heart-r23-step1.mp3",
+      "duration": 13.12
+    },
+    {
+      "id": "r23-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r23-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r23-sentence",
+      "voice": "af_heart",
+      "text": "Resource choices depend on place, available water, and local conditions.",
+      "file": "af_heart-r23-sentence.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "r24-intro",
+      "voice": "af_heart",
+      "text": "BASE BRIEF: need two shelves and 10 liters of water. One safe shelf is reusable. Repaired boards make one shelf. Stored water is 8 liters.",
+      "file": "af_heart-r24-intro.mp3",
+      "duration": 9.9
+    },
+    {
+      "id": "r24-fact",
+      "voice": "af_heart",
+      "text": "A resource plan checks needs, stock, condition, and evidence. Real choices also consider energy, transport, treatment, and local rules.",
+      "file": "af_heart-r24-fact.mp3",
+      "duration": 9.49
+    },
+    {
+      "id": "r24-step0",
+      "voice": "af_heart",
+      "text": "Inspect the source and use records.",
+      "file": "af_heart-r24-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "r24-clue0-source",
+      "voice": "af_heart",
+      "text": "Source record. BASE BRIEF: need two shelves and 10 liters of water. One safe shelf is reusable. Repaired boards make one shelf. Stored water is 8 liters.",
+      "file": "af_heart-r24-clue0-source.mp3",
+      "duration": 11.18
+    },
+    {
+      "id": "r24-clue0-use",
+      "voice": "af_heart",
+      "text": "Use and care. A resource plan checks needs, stock, condition, and evidence. Real choices also consider energy, transport, treatment, and local rules.",
+      "file": "af_heart-r24-clue0-use.mp3",
+      "duration": 10.92
+    },
+    {
+      "id": "r24-step1",
+      "voice": "af_heart",
+      "text": "Which plan meets the brief with least new material in this model? Choose one answer. A. Reuse one shelf, repair boards, add 2 liters of water B. Buy two shelves and add 10 liters C. Use no shelves and no water",
+      "file": "af_heart-r24-step1.mp3",
+      "duration": 14.17
+    },
+    {
+      "id": "r24-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-r24-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "r24-sentence",
+      "voice": "af_heart",
+      "text": "I reuse and repair materials, then add only what the base still needs.",
+      "file": "af_heart-r24-sentence.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "r1-intro",
+      "voice": "af_bella",
+      "text": "Water, trees, rocks, and air are natural resources. A chair is a product made from resources.",
+      "file": "af_bella-r1-intro.mp3",
+      "duration": 7.06
+    },
+    {
+      "id": "r1-fact",
+      "voice": "af_bella",
+      "text": "One product may use several resources, such as wood, metal, water, and energy.",
+      "file": "af_bella-r1-fact.mp3",
+      "duration": 5.87
+    },
+    {
+      "id": "r1-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r1-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r1-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Water, trees, rocks, and air are natural resources. A chair is a product made from resources.",
+      "file": "af_bella-r1-clue0-source.mp3",
+      "duration": 8.17
+    },
+    {
+      "id": "r1-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. One product may use several resources, such as wood, metal, water, and energy.",
+      "file": "af_bella-r1-clue0-use.mp3",
+      "duration": 7.04
+    },
+    {
+      "id": "r1-step1",
+      "voice": "af_bella",
+      "text": "Which is a manufactured product? Choose one answer. A. River water B. A wooden chair C. A growing tree",
+      "file": "af_bella-r1-step1.mp3",
+      "duration": 7.62
+    },
+    {
+      "id": "r1-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r1-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r1-sentence",
+      "voice": "af_bella",
+      "text": "A wooden chair is a product made from natural resources.",
+      "file": "af_bella-r1-sentence.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "r2-intro",
+      "voice": "af_bella",
+      "text": "Forests supply wood, fruit, and other plant products. They also provide habitats and help protect soil.",
+      "file": "af_bella-r2-intro.mp3",
+      "duration": 7.23
+    },
+    {
+      "id": "r2-fact",
+      "voice": "af_bella",
+      "text": "Trees can regrow, but regrowth takes time. Forest care includes habitats, soil, water, and responsible harvesting.",
+      "file": "af_bella-r2-fact.mp3",
+      "duration": 8.47
+    },
+    {
+      "id": "r2-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r2-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r2-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Forests supply wood, fruit, and other plant products. They also provide habitats and help protect soil.",
+      "file": "af_bella-r2-clue0-source.mp3",
+      "duration": 8.23
+    },
+    {
+      "id": "r2-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Trees can regrow, but regrowth takes time. Forest care includes habitats, soil, water, and responsible harvesting.",
+      "file": "af_bella-r2-clue0-use.mp3",
+      "duration": 9.51
+    },
+    {
+      "id": "r2-step1",
+      "voice": "af_bella",
+      "text": "What would a timber-only count miss? Choose one answer. A. Animal habitats and soil protection B. The number of logs only C. Nothing else matters",
+      "file": "af_bella-r2-step1.mp3",
+      "duration": 10.13
+    },
+    {
+      "id": "r2-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r2-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r2-sentence",
+      "voice": "af_bella",
+      "text": "A forest provides materials and habitats. We need to care for both.",
+      "file": "af_bella-r2-sentence.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "r3-intro",
+      "voice": "af_bella",
+      "text": "Wood can become furniture, building lumber, paper pulp, and tools. Wood can also be burned for heat.",
+      "file": "af_bella-r3-intro.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "r3-fact",
+      "voice": "af_bella",
+      "text": "Burning wood uses up the material and releases smoke and carbon dioxide. A usable board can sometimes be repaired or reused first.",
+      "file": "af_bella-r3-fact.mp3",
+      "duration": 10.18
+    },
+    {
+      "id": "r3-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r3-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r3-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Wood can become furniture, building lumber, paper pulp, and tools. Wood can also be burned for heat.",
+      "file": "af_bella-r3-clue0-source.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "r3-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Burning wood uses up the material and releases smoke and carbon dioxide. A usable board can sometimes be repaired or reused first.",
+      "file": "af_bella-r3-clue0-use.mp3",
+      "duration": 11.07
+    },
+    {
+      "id": "r3-step1",
+      "voice": "af_bella",
+      "text": "Which pair can both come from wood? Choose one answer. A. A table and paper B. A steel spoon and salt C. A glass pane and copper wire",
+      "file": "af_bella-r3-step1.mp3",
+      "duration": 9.9
+    },
+    {
+      "id": "r3-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r3-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r3-sentence",
+      "voice": "af_bella",
+      "text": "Wood can become furniture, building materials, paper, or fuel.",
+      "file": "af_bella-r3-sentence.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "r4-intro",
+      "voice": "af_bella",
+      "text": "Example pathway: wood fibers are separated into pulp, spread into sheets, then dried into paper. Used paper can sometimes supply fibers too.",
+      "file": "af_bella-r4-intro.mp3",
+      "duration": 10.65
+    },
+    {
+      "id": "r4-fact",
+      "voice": "af_bella",
+      "text": "Paper recycling needs collection and processing. Fibers shorten with repeated recycling, so paper cannot be recycled endlessly.",
+      "file": "af_bella-r4-fact.mp3",
+      "duration": 9.07
+    },
+    {
+      "id": "r4-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r4-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r4-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Example pathway: wood fibers are separated into pulp, spread into sheets, then dried into paper. Used paper can sometimes supply fibers too.",
+      "file": "af_bella-r4-clue0-source.mp3",
+      "duration": 11.58
+    },
+    {
+      "id": "r4-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Paper recycling needs collection and processing. Fibers shorten with repeated recycling, so paper cannot be recycled endlessly.",
+      "file": "af_bella-r4-clue0-use.mp3",
+      "duration": 10.2
+    },
+    {
+      "id": "r4-step1",
+      "voice": "af_bella",
+      "text": "Arrange this example pathway.",
+      "file": "af_bella-r4-step1.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r4-clue1-fibers",
+      "voice": "af_bella",
+      "text": "Wood fibers. Wood fibers",
+      "file": "af_bella-r4-clue1-fibers.mp3",
+      "duration": 2.01
+    },
+    {
+      "id": "r4-clue1-pulp",
+      "voice": "af_bella",
+      "text": "Pulp. Pulp",
+      "file": "af_bella-r4-clue1-pulp.mp3",
+      "duration": 1.19
+    },
+    {
+      "id": "r4-clue1-sheet",
+      "voice": "af_bella",
+      "text": "Paper sheet. Paper sheet",
+      "file": "af_bella-r4-clue1-sheet.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "r4-step2",
+      "voice": "af_bella",
+      "text": "Which order fits this pathway? Choose one answer. A. Paper → tree → pulp B. Wood fibers → pulp → paper C. Pulp → metal → tree",
+      "file": "af_bella-r4-step2.mp3",
+      "duration": 12.89
+    },
+    {
+      "id": "r4-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r4-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r4-sentence",
+      "voice": "af_bella",
+      "text": "Wood fibers can become pulp and then paper.",
+      "file": "af_bella-r4-sentence.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "r5-intro",
+      "voice": "af_bella",
+      "text": "Cotton plants grow fibers around their seeds. Fibers can be spun into yarn and woven into cloth.",
+      "file": "af_bella-r5-intro.mp3",
+      "duration": 6.46
+    },
+    {
+      "id": "r5-fact",
+      "voice": "af_bella",
+      "text": "Clothes may use cotton, wool, synthetic fibers, or blends. Read a material label rather than assuming all clothing is cotton.",
+      "file": "af_bella-r5-fact.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "r5-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r5-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r5-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Cotton plants grow fibers around their seeds. Fibers can be spun into yarn and woven into cloth.",
+      "file": "af_bella-r5-clue0-source.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "r5-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Clothes may use cotton, wool, synthetic fibers, or blends. Read a material label rather than assuming all clothing is cotton.",
+      "file": "af_bella-r5-clue0-use.mp3",
+      "duration": 10.01
+    },
+    {
+      "id": "r5-step1",
+      "voice": "af_bella",
+      "text": "Arrange this example pathway.",
+      "file": "af_bella-r5-step1.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r5-clue1-plant",
+      "voice": "af_bella",
+      "text": "Cotton plant. Cotton plant",
+      "file": "af_bella-r5-clue1-plant.mp3",
+      "duration": 2.11
+    },
+    {
+      "id": "r5-clue1-yarn",
+      "voice": "af_bella",
+      "text": "Yarn. Yarn",
+      "file": "af_bella-r5-clue1-yarn.mp3",
+      "duration": 1.41
+    },
+    {
+      "id": "r5-clue1-cloth",
+      "voice": "af_bella",
+      "text": "Cloth. Cloth",
+      "file": "af_bella-r5-clue1-cloth.mp3",
+      "duration": 1.32
+    },
+    {
+      "id": "r5-step2",
+      "voice": "af_bella",
+      "text": "Where do cotton fibers come from? Choose one answer. A. Cotton plants B. Sheep C. Crude oil only",
+      "file": "af_bella-r5-step2.mp3",
+      "duration": 6.68
+    },
+    {
+      "id": "r5-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r5-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r5-sentence",
+      "voice": "af_bella",
+      "text": "Cotton fibers come from plants and can become cloth.",
+      "file": "af_bella-r5-sentence.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "r6-intro",
+      "voice": "af_bella",
+      "text": "Sheep provide wool. Dairy cows provide milk. Wool can become yarn and clothing; milk can become cheese or yogurt.",
+      "file": "af_bella-r6-intro.mp3",
+      "duration": 8.06
+    },
+    {
+      "id": "r6-fact",
+      "voice": "af_bella",
+      "text": "Animal care, land, feed, and water are part of producing animal resources. Plant drinks such as oat drinks have plant sources.",
+      "file": "af_bella-r6-fact.mp3",
+      "duration": 9.09
+    },
+    {
+      "id": "r6-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r6-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r6-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Sheep provide wool. Dairy cows provide milk. Wool can become yarn and clothing; milk can become cheese or yogurt.",
+      "file": "af_bella-r6-clue0-source.mp3",
+      "duration": 9.26
+    },
+    {
+      "id": "r6-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Animal care, land, feed, and water are part of producing animal resources. Plant drinks such as oat drinks have plant sources.",
+      "file": "af_bella-r6-clue0-use.mp3",
+      "duration": 10.47
+    },
+    {
+      "id": "r6-step1",
+      "voice": "af_bella",
+      "text": "Which source-product match fits? Choose one answer. A. Sheep → wool sweater B. Cotton → dairy cheese C. Rock → wool",
+      "file": "af_bella-r6-step1.mp3",
+      "duration": 9.98
+    },
+    {
+      "id": "r6-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r6-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r6-sentence",
+      "voice": "af_bella",
+      "text": "A wool sweater uses fibers from sheep.",
+      "file": "af_bella-r6-sentence.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "r7-intro",
+      "voice": "af_bella",
+      "text": "Example record: dairy cream is shaken; fat gathers into butter and liquid separates. This is a recorded model, not a live experiment.",
+      "file": "af_bella-r7-intro.mp3",
+      "duration": 9.79
+    },
+    {
+      "id": "r7-fact",
+      "voice": "af_bella",
+      "text": "Butter uses fat from dairy cream. Not every liquid called milk has the same ingredients or behavior.",
+      "file": "af_bella-r7-fact.mp3",
+      "duration": 6.85
+    },
+    {
+      "id": "r7-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r7-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r7-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Example record: dairy cream is shaken; fat gathers into butter and liquid separates. This is a recorded model, not a live experiment.",
+      "file": "af_bella-r7-clue0-source.mp3",
+      "duration": 10.73
+    },
+    {
+      "id": "r7-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Butter uses fat from dairy cream. Not every liquid called milk has the same ingredients or behavior.",
+      "file": "af_bella-r7-clue0-use.mp3",
+      "duration": 8.0
+    },
+    {
+      "id": "r7-step1",
+      "voice": "af_bella",
+      "text": "Arrange this example pathway.",
+      "file": "af_bella-r7-step1.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r7-clue1-cream",
+      "voice": "af_bella",
+      "text": "Dairy cream. Dairy cream",
+      "file": "af_bella-r7-clue1-cream.mp3",
+      "duration": 1.96
+    },
+    {
+      "id": "r7-clue1-shake",
+      "voice": "af_bella",
+      "text": "Shaking. Shaking",
+      "file": "af_bella-r7-clue1-shake.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "r7-clue1-butter",
+      "voice": "af_bella",
+      "text": "Butter and liquid. Butter and liquid",
+      "file": "af_bella-r7-clue1-butter.mp3",
+      "duration": 2.56
+    },
+    {
+      "id": "r7-step2",
+      "voice": "af_bella",
+      "text": "What is the source of this dairy cream? Choose one answer. A. Animal milk B. A petroleum well C. A mineral mine",
+      "file": "af_bella-r7-step2.mp3",
+      "duration": 7.98
+    },
+    {
+      "id": "r7-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r7-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r7-sentence",
+      "voice": "af_bella",
+      "text": "In this example, dairy cream can be made into butter.",
+      "file": "af_bella-r7-sentence.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "r8-intro",
+      "voice": "af_bella",
+      "text": "Soil supports crops. Roots take in water and minerals; leaves use light to make food. Crops can become food and plant materials.",
+      "file": "af_bella-r8-intro.mp3",
+      "duration": 8.9
+    },
+    {
+      "id": "r8-fact",
+      "voice": "af_bella",
+      "text": "Protecting soil from erosion helps protect a resource needed for growing crops.",
+      "file": "af_bella-r8-fact.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": "r8-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r8-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r8-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Soil supports crops. Roots take in water and minerals; leaves use light to make food. Crops can become food and plant materials.",
+      "file": "af_bella-r8-clue0-source.mp3",
+      "duration": 10.15
+    },
+    {
+      "id": "r8-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Protecting soil from erosion helps protect a resource needed for growing crops.",
+      "file": "af_bella-r8-clue0-use.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "r8-step1",
+      "voice": "af_bella",
+      "text": "Which statement is supported? Choose one answer. A. Plants eat soil as food B. Crops need suitable growing conditions C. Water alone replaces every plant need",
+      "file": "af_bella-r8-step1.mp3",
+      "duration": 11.54
+    },
+    {
+      "id": "r8-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r8-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r8-sentence",
+      "voice": "af_bella",
+      "text": "Healthy soil and water help crops grow and provide resources for people.",
+      "file": "af_bella-r8-sentence.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": "r9-intro",
+      "voice": "af_bella",
+      "text": "People use water for drinking, washing, growing crops, making products, and cooling some power plants. These uses need different treatment.",
+      "file": "af_bella-r9-intro.mp3",
+      "duration": 9.24
+    },
+    {
+      "id": "r9-fact",
+      "voice": "af_bella",
+      "text": "The water cycle continues, but clean freshwater is limited by place, time, pollution, and treatment capacity.",
+      "file": "af_bella-r9-fact.mp3",
+      "duration": 7.51
+    },
+    {
+      "id": "r9-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r9-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r9-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. People use water for drinking, washing, growing crops, making products, and cooling some power plants. These uses need different treatment.",
+      "file": "af_bella-r9-clue0-source.mp3",
+      "duration": 10.3
+    },
+    {
+      "id": "r9-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. The water cycle continues, but clean freshwater is limited by place, time, pollution, and treatment capacity.",
+      "file": "af_bella-r9-clue0-use.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "r9-step1",
+      "voice": "af_bella",
+      "text": "Can clear-looking river water be assumed safe to drink? Choose one answer. A. Yes, clear means safe B. No, proper testing and treatment are needed",
+      "file": "af_bella-r9-step1.mp3",
+      "duration": 10.43
+    },
+    {
+      "id": "r9-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r9-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r9-sentence",
+      "voice": "af_bella",
+      "text": "Water serves many uses. Safe drinking water needs suitable treatment.",
+      "file": "af_bella-r9-sentence.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "r10-intro",
+      "voice": "af_bella",
+      "text": "MODEL DATA: washing 12 liters, watering 8 liters, cleaning 5 liters. A repaired leak reduces washing-related loss by 3 liters.",
+      "file": "af_bella-r10-intro.mp3",
+      "duration": 10.15
+    },
+    {
+      "id": "r10-fact",
+      "voice": "af_bella",
+      "text": "The initial total is 25 liters and the new total is 22 liters. These are example values, not measurements from your home.",
+      "file": "af_bella-r10-fact.mp3",
+      "duration": 8.98
+    },
+    {
+      "id": "r10-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r10-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r10-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. MODEL DATA: washing 12 liters, watering 8 liters, cleaning 5 liters. A repaired leak reduces washing-related loss by 3 liters.",
+      "file": "af_bella-r10-clue0-source.mp3",
+      "duration": 11.37
+    },
+    {
+      "id": "r10-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. The initial total is 25 liters and the new total is 22 liters. These are example values, not measurements from your home.",
+      "file": "af_bella-r10-clue0-use.mp3",
+      "duration": 10.35
+    },
+    {
+      "id": "r10-step1",
+      "voice": "af_bella",
+      "text": "How much does the total fall after the repair? Choose one answer. A. 3 liters B. 12 liters C. 25 liters",
+      "file": "af_bella-r10-step1.mp3",
+      "duration": 8.9
+    },
+    {
+      "id": "r10-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r10-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r10-sentence",
+      "voice": "af_bella",
+      "text": "In this model, repairing the leak saves 3 liters.",
+      "file": "af_bella-r10-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "r11-intro",
+      "voice": "af_bella",
+      "text": "Stone can be cut for building. Clay can be shaped and fired into bricks. Suitable silica sand with other ingredients can be melted to make glass.",
+      "file": "af_bella-r11-intro.mp3",
+      "duration": 9.26
+    },
+    {
+      "id": "r11-fact",
+      "voice": "af_bella",
+      "text": "Glass, brick, and stone have different sources and processing steps; they are not all made the same way.",
+      "file": "af_bella-r11-fact.mp3",
+      "duration": 6.29
+    },
+    {
+      "id": "r11-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r11-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r11-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Stone can be cut for building. Clay can be shaped and fired into bricks. Suitable silica sand with other ingredients can be melted to make glass.",
+      "file": "af_bella-r11-clue0-source.mp3",
+      "duration": 10.58
+    },
+    {
+      "id": "r11-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Glass, brick, and stone have different sources and processing steps; they are not all made the same way.",
+      "file": "af_bella-r11-clue0-use.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "r11-step1",
+      "voice": "af_bella",
+      "text": "Which pathway needs heating and processing? Choose one answer. A. Clay → fired brick B. A tree grows a glass window C. A rock becomes a chair without work",
+      "file": "af_bella-r11-step1.mp3",
+      "duration": 11.58
+    },
+    {
+      "id": "r11-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r11-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r11-sentence",
+      "voice": "af_bella",
+      "text": "Natural materials need suitable processing to become many useful products.",
+      "file": "af_bella-r11-sentence.mp3",
+      "duration": 5.48
+    },
+    {
+      "id": "r12-intro",
+      "voice": "af_bella",
+      "text": "Ores contain useful minerals. Processing can produce iron, copper, or aluminum. Copper is used in wiring; aluminum in cans; steel in buildings.",
+      "file": "af_bella-r12-intro.mp3",
+      "duration": 11.09
+    },
+    {
+      "id": "r12-fact",
+      "voice": "af_bella",
+      "text": "Metal recovery still needs collection and energy. Recycling metals can reduce the need for new ore extraction.",
+      "file": "af_bella-r12-fact.mp3",
+      "duration": 7.36
+    },
+    {
+      "id": "r12-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r12-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r12-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Ores contain useful minerals. Processing can produce iron, copper, or aluminum. Copper is used in wiring; aluminum in cans; steel in buildings.",
+      "file": "af_bella-r12-clue0-source.mp3",
+      "duration": 12.25
+    },
+    {
+      "id": "r12-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Metal recovery still needs collection and energy. Recycling metals can reduce the need for new ore extraction.",
+      "file": "af_bella-r12-clue0-use.mp3",
+      "duration": 8.81
+    },
+    {
+      "id": "r12-step1",
+      "voice": "af_bella",
+      "text": "Which metal-use match is reasonable? Choose one answer. A. Copper → electrical wire B. Aluminum → cotton fiber C. Iron → tree leaves",
+      "file": "af_bella-r12-step1.mp3",
+      "duration": 11.71
+    },
+    {
+      "id": "r12-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r12-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r12-sentence",
+      "voice": "af_bella",
+      "text": "Metals from ores can become wires, cans, tools, and building parts.",
+      "file": "af_bella-r12-sentence.mp3",
+      "duration": 4.82
+    },
+    {
+      "id": "r13-intro",
+      "voice": "af_bella",
+      "text": "Crude oil is processed in refineries. Products include gasoline, diesel, jet fuel, asphalt, lubricants, and feedstocks for many plastics and synthetic fibers.",
+      "file": "af_bella-r13-intro.mp3",
+      "duration": 12.03
+    },
+    {
+      "id": "r13-fact",
+      "voice": "af_bella",
+      "text": "Plastics may use petroleum or natural-gas feedstocks; some use plant feedstocks. A plastic product does not reveal its source by shape alone.",
+      "file": "af_bella-r13-fact.mp3",
+      "duration": 10.2
+    },
+    {
+      "id": "r13-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r13-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r13-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Crude oil is processed in refineries. Products include gasoline, diesel, jet fuel, asphalt, lubricants, and feedstocks for many plastics and synthetic fibers.",
+      "file": "af_bella-r13-clue0-source.mp3",
+      "duration": 13.12
+    },
+    {
+      "id": "r13-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Plastics may use petroleum or natural-gas feedstocks; some use plant feedstocks. A plastic product does not reveal its source by shape alone.",
+      "file": "af_bella-r13-clue0-use.mp3",
+      "duration": 11.61
+    },
+    {
+      "id": "r13-step1",
+      "voice": "af_bella",
+      "text": "Which pair may use petroleum-derived materials? Choose one answer. A. Road asphalt and polyester fabric B. Raw cotton and fresh apples C. Wool growing on sheep and rain",
+      "file": "af_bella-r13-step1.mp3",
+      "duration": 12.67
+    },
+    {
+      "id": "r13-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r13-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r13-sentence",
+      "voice": "af_bella",
+      "text": "Petroleum can provide fuels and materials for many everyday products.",
+      "file": "af_bella-r13-sentence.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "r14-intro",
+      "voice": "af_bella",
+      "text": "Coal can be burned to produce heat for electricity generation. Certain coal is processed into coke used in many ironmaking processes.",
+      "file": "af_bella-r14-intro.mp3",
+      "duration": 9.17
+    },
+    {
+      "id": "r14-fact",
+      "voice": "af_bella",
+      "text": "Not all steelmaking uses coal-derived coke. Burning coal releases carbon dioxide and air pollutants.",
+      "file": "af_bella-r14-fact.mp3",
+      "duration": 7.19
+    },
+    {
+      "id": "r14-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r14-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r14-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Coal can be burned to produce heat for electricity generation. Certain coal is processed into coke used in many ironmaking processes.",
+      "file": "af_bella-r14-clue0-source.mp3",
+      "duration": 10.28
+    },
+    {
+      "id": "r14-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Not all steelmaking uses coal-derived coke. Burning coal releases carbon dioxide and air pollutants.",
+      "file": "af_bella-r14-clue0-use.mp3",
+      "duration": 8.53
+    },
+    {
+      "id": "r14-step1",
+      "voice": "af_bella",
+      "text": "Besides electricity, which use can involve coal-derived coke? Choose one answer. A. Helping produce iron for steel B. Growing cotton fibers C. Recycling sunlight",
+      "file": "af_bella-r14-step1.mp3",
+      "duration": 11.88
+    },
+    {
+      "id": "r14-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r14-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r14-sentence",
+      "voice": "af_bella",
+      "text": "Some coal becomes coke, which helps make iron for steel production.",
+      "file": "af_bella-r14-sentence.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "r15-intro",
+      "voice": "af_bella",
+      "text": "Natural gas can fuel cooking, heating, industry, and electricity generation. It can also supply raw material for making ammonia used in fertilizers.",
+      "file": "af_bella-r15-intro.mp3",
+      "duration": 11.24
+    },
+    {
+      "id": "r15-fact",
+      "voice": "af_bella",
+      "text": "Natural gas is nonrenewable on human timescales. Burning it releases carbon dioxide, and methane leaks also affect climate.",
+      "file": "af_bella-r15-fact.mp3",
+      "duration": 9.39
+    },
+    {
+      "id": "r15-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r15-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r15-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Natural gas can fuel cooking, heating, industry, and electricity generation. It can also supply raw material for making ammonia used in fertilizers.",
+      "file": "af_bella-r15-clue0-source.mp3",
+      "duration": 12.35
+    },
+    {
+      "id": "r15-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Natural gas is nonrenewable on human timescales. Burning it releases carbon dioxide, and methane leaks also affect climate.",
+      "file": "af_bella-r15-clue0-use.mp3",
+      "duration": 10.58
+    },
+    {
+      "id": "r15-step1",
+      "voice": "af_bella",
+      "text": "Which pair describes real natural-gas uses? Choose one answer. A. Heating and fertilizer production B. Cotton growing directly from a pipe C. Making river water appear from nothing",
+      "file": "af_bella-r15-step1.mp3",
+      "duration": 13.01
+    },
+    {
+      "id": "r15-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r15-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r15-sentence",
+      "voice": "af_bella",
+      "text": "Natural gas can supply energy and raw materials for industry.",
+      "file": "af_bella-r15-sentence.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "r16-intro",
+      "voice": "af_bella",
+      "text": "A plastic container may be collected for material recycling. Fuel burned for energy changes into other substances; collecting its exhaust does not turn it back into usable fuel.",
+      "file": "af_bella-r16-intro.mp3",
+      "duration": 12.12
+    },
+    {
+      "id": "r16-fact",
+      "voice": "af_bella",
+      "text": "Renewable, reusable, and recyclable mean different things. Check both the material and the process.",
+      "file": "af_bella-r16-fact.mp3",
+      "duration": 6.95
+    },
+    {
+      "id": "r16-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r16-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r16-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. A plastic container may be collected for material recycling. Fuel burned for energy changes into other substances; collecting its exhaust does not turn it back into usable fuel.",
+      "file": "af_bella-r16-clue0-source.mp3",
+      "duration": 13.27
+    },
+    {
+      "id": "r16-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Renewable, reusable, and recyclable mean different things. Check both the material and the process.",
+      "file": "af_bella-r16-clue0-use.mp3",
+      "duration": 8.17
+    },
+    {
+      "id": "r16-step1",
+      "voice": "af_bella",
+      "text": "Which statement is accurate? Choose one answer. A. Burned gasoline can simply go into a recycling bin B. Some plastic products can be recycled; burned fuel is used up C. All plastic can be recycled everywhere",
+      "file": "af_bella-r16-step1.mp3",
+      "duration": 15.08
+    },
+    {
+      "id": "r16-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r16-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r16-sentence",
+      "voice": "af_bella",
+      "text": "Recycling a material is different from burning a fuel for energy.",
+      "file": "af_bella-r16-sentence.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "r17-intro",
+      "voice": "af_bella",
+      "text": "A photovoltaic panel changes sunlight into electricity. A solar water heater instead uses sunlight to heat water.",
+      "file": "af_bella-r17-intro.mp3",
+      "duration": 8.53
+    },
+    {
+      "id": "r17-fact",
+      "voice": "af_bella",
+      "text": "Solar output depends on light and equipment. Energy may need storage or other supply when sunlight is unavailable.",
+      "file": "af_bella-r17-fact.mp3",
+      "duration": 8.17
+    },
+    {
+      "id": "r17-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r17-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r17-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. A photovoltaic panel changes sunlight into electricity. A solar water heater instead uses sunlight to heat water.",
+      "file": "af_bella-r17-clue0-source.mp3",
+      "duration": 9.49
+    },
+    {
+      "id": "r17-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Solar output depends on light and equipment. Energy may need storage or other supply when sunlight is unavailable.",
+      "file": "af_bella-r17-clue0-use.mp3",
+      "duration": 9.07
+    },
+    {
+      "id": "r17-step1",
+      "voice": "af_bella",
+      "text": "What does a photovoltaic panel produce? Choose one answer. A. Electricity B. New coal C. Cotton fibers",
+      "file": "af_bella-r17-step1.mp3",
+      "duration": 8.0
+    },
+    {
+      "id": "r17-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r17-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r17-sentence",
+      "voice": "af_bella",
+      "text": "A solar panel can change sunlight into electricity.",
+      "file": "af_bella-r17-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "r18-intro",
+      "voice": "af_bella",
+      "text": "Wind or moving water can turn turbines connected to generators. The moving air or water supplies energy.",
+      "file": "af_bella-r18-intro.mp3",
+      "duration": 7.94
+    },
+    {
+      "id": "r18-fact",
+      "voice": "af_bella",
+      "text": "Sites and equipment matter. Dams can change river habitats; wind and solar installations also use materials and land.",
+      "file": "af_bella-r18-fact.mp3",
+      "duration": 8.62
+    },
+    {
+      "id": "r18-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r18-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r18-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Wind or moving water can turn turbines connected to generators. The moving air or water supplies energy.",
+      "file": "af_bella-r18-clue0-source.mp3",
+      "duration": 9.05
+    },
+    {
+      "id": "r18-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Sites and equipment matter. Dams can change river habitats; wind and solar installations also use materials and land.",
+      "file": "af_bella-r18-clue0-use.mp3",
+      "duration": 9.88
+    },
+    {
+      "id": "r18-step1",
+      "voice": "af_bella",
+      "text": "Arrange this example pathway.",
+      "file": "af_bella-r18-step1.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r18-clue1-wind",
+      "voice": "af_bella",
+      "text": "Moving wind. Moving wind",
+      "file": "af_bella-r18-clue1-wind.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "r18-clue1-turbine",
+      "voice": "af_bella",
+      "text": "Turning turbine. Turning turbine",
+      "file": "af_bella-r18-clue1-turbine.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "r18-clue1-generator",
+      "voice": "af_bella",
+      "text": "Generator. Generator",
+      "file": "af_bella-r18-clue1-generator.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "r18-clue1-power",
+      "voice": "af_bella",
+      "text": "Electricity. Electricity",
+      "file": "af_bella-r18-clue1-power.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "r18-step2",
+      "voice": "af_bella",
+      "text": "Which chain fits a wind generator? Choose one answer. A. Wind → turbine → generator → electricity B. Electricity → cotton → oil C. Coal → tree → wind",
+      "file": "af_bella-r18-step2.mp3",
+      "duration": 15.53
+    },
+    {
+      "id": "r18-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r18-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r18-sentence",
+      "voice": "af_bella",
+      "text": "Moving air or water can turn a turbine to help generate electricity.",
+      "file": "af_bella-r18-sentence.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "r19-intro",
+      "voice": "af_bella",
+      "text": "Geothermal systems use Earth’s heat. Nuclear plants use uranium fuel. Biomass includes plant material and organic waste that can supply energy.",
+      "file": "af_bella-r19-intro.mp3",
+      "duration": 11.03
+    },
+    {
+      "id": "r19-fact",
+      "voice": "af_bella",
+      "text": "Renewable sources can be replenished naturally, but every energy system has practical limits and environmental effects.",
+      "file": "af_bella-r19-fact.mp3",
+      "duration": 8.06
+    },
+    {
+      "id": "r19-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r19-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r19-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Geothermal systems use Earth’s heat. Nuclear plants use uranium fuel. Biomass includes plant material and organic waste that can supply energy.",
+      "file": "af_bella-r19-clue0-source.mp3",
+      "duration": 12.03
+    },
+    {
+      "id": "r19-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Renewable sources can be replenished naturally, but every energy system has practical limits and environmental effects.",
+      "file": "af_bella-r19-clue0-use.mp3",
+      "duration": 9.22
+    },
+    {
+      "id": "r19-step1",
+      "voice": "af_bella",
+      "text": "Which source uses heat from inside Earth? Choose one answer. A. Geothermal energy B. Petroleum refining only C. Cotton weaving",
+      "file": "af_bella-r19-step1.mp3",
+      "duration": 10.01
+    },
+    {
+      "id": "r19-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r19-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r19-sentence",
+      "voice": "af_bella",
+      "text": "Different energy sources use different materials and processes.",
+      "file": "af_bella-r19-sentence.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "r20-intro",
+      "voice": "af_bella",
+      "text": "Trees can regrow with suitable conditions. Coal, oil, and natural gas form over geological timescales and cannot be replaced as fast as we use them.",
+      "file": "af_bella-r20-intro.mp3",
+      "duration": 10.75
+    },
+    {
+      "id": "r20-fact",
+      "voice": "af_bella",
+      "text": "Growing trees again does not immediately replace all the habitats and functions of an older forest.",
+      "file": "af_bella-r20-fact.mp3",
+      "duration": 6.36
+    },
+    {
+      "id": "r20-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r20-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r20-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Trees can regrow with suitable conditions. Coal, oil, and natural gas form over geological timescales and cannot be replaced as fast as we use them.",
+      "file": "af_bella-r20-clue0-source.mp3",
+      "duration": 12.25
+    },
+    {
+      "id": "r20-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Growing trees again does not immediately replace all the habitats and functions of an older forest.",
+      "file": "af_bella-r20-clue0-use.mp3",
+      "duration": 7.66
+    },
+    {
+      "id": "r20-step1",
+      "voice": "af_bella",
+      "text": "If a forest is cut faster than it regrows, what can happen? Choose one answer. A. The supply can shrink B. Wood becomes unlimited C. Trees instantly turn into coal",
+      "file": "af_bella-r20-step1.mp3",
+      "duration": 11.93
+    },
+    {
+      "id": "r20-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r20-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r20-sentence",
+      "voice": "af_bella",
+      "text": "A renewable resource still needs time and careful management.",
+      "file": "af_bella-r20-sentence.mp3",
+      "duration": 3.95
+    },
+    {
+      "id": "r21-intro",
+      "voice": "af_bella",
+      "text": "Reuse keeps an item in use. Repair restores function. Recycling processes materials into new products. Reducing unnecessary purchases avoids demand.",
+      "file": "af_bella-r21-intro.mp3",
+      "duration": 11.48
+    },
+    {
+      "id": "r21-fact",
+      "voice": "af_bella",
+      "text": "Reuse and repair depend on condition and safety. Recycling is useful when an item cannot reasonably remain in use.",
+      "file": "af_bella-r21-fact.mp3",
+      "duration": 8.9
+    },
+    {
+      "id": "r21-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r21-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r21-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. Reuse keeps an item in use. Repair restores function. Recycling processes materials into new products. Reducing unnecessary purchases avoids demand.",
+      "file": "af_bella-r21-clue0-source.mp3",
+      "duration": 12.65
+    },
+    {
+      "id": "r21-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Reuse and repair depend on condition and safety. Recycling is useful when an item cannot reasonably remain in use.",
+      "file": "af_bella-r21-clue0-use.mp3",
+      "duration": 9.69
+    },
+    {
+      "id": "r21-step1",
+      "voice": "af_bella",
+      "text": "A safe shelf has one loose screw. What fits the record? Choose one answer. A. Have an adult repair it and keep using it B. Burn it immediately C. Always buy a new shelf",
+      "file": "af_bella-r21-step1.mp3",
+      "duration": 11.88
+    },
+    {
+      "id": "r21-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r21-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r21-sentence",
+      "voice": "af_bella",
+      "text": "Repairing a usable shelf can reduce the need for new materials.",
+      "file": "af_bella-r21-sentence.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "r22-intro",
+      "voice": "af_bella",
+      "text": "MODEL RULE: clean paper and metal cans are accepted. Plastic film is not accepted in this bin. Batteries need a special collection point.",
+      "file": "af_bella-r22-intro.mp3",
+      "duration": 9.43
+    },
+    {
+      "id": "r22-fact",
+      "voice": "af_bella",
+      "text": "Actual recycling rules vary. A recycling symbol alone does not guarantee that a local program accepts an item.",
+      "file": "af_bella-r22-fact.mp3",
+      "duration": 7.83
+    },
+    {
+      "id": "r22-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r22-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r22-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. MODEL RULE: clean paper and metal cans are accepted. Plastic film is not accepted in this bin. Batteries need a special collection point.",
+      "file": "af_bella-r22-clue0-source.mp3",
+      "duration": 10.67
+    },
+    {
+      "id": "r22-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. Actual recycling rules vary. A recycling symbol alone does not guarantee that a local program accepts an item.",
+      "file": "af_bella-r22-clue0-use.mp3",
+      "duration": 9.15
+    },
+    {
+      "id": "r22-step1",
+      "voice": "af_bella",
+      "text": "Which item belongs in this model recycling bin? Choose one answer. A. A battery B. A metal can C. Plastic film",
+      "file": "af_bella-r22-step1.mp3",
+      "duration": 8.32
+    },
+    {
+      "id": "r22-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r22-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r22-sentence",
+      "voice": "af_bella",
+      "text": "I check local rules before choosing a recycling route.",
+      "file": "af_bella-r22-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "r23-intro",
+      "voice": "af_bella",
+      "text": "California resource examples include agricultural crops, forests, minerals, petroleum, natural gas, sunshine, wind, and water. Conditions differ across the state.",
+      "file": "af_bella-r23-intro.mp3",
+      "duration": 12.29
+    },
+    {
+      "id": "r23-fact",
+      "voice": "af_bella",
+      "text": "A resource map helps locate possibilities; local evidence is needed before deciding how to use a resource.",
+      "file": "af_bella-r23-fact.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "r23-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r23-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r23-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. California resource examples include agricultural crops, forests, minerals, petroleum, natural gas, sunshine, wind, and water. Conditions differ across the state.",
+      "file": "af_bella-r23-clue0-source.mp3",
+      "duration": 13.53
+    },
+    {
+      "id": "r23-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. A resource map helps locate possibilities; local evidence is needed before deciding how to use a resource.",
+      "file": "af_bella-r23-clue0-use.mp3",
+      "duration": 8.66
+    },
+    {
+      "id": "r23-step1",
+      "voice": "af_bella",
+      "text": "What should a crop plan consider besides sunshine? Choose one answer. A. Water, soil, and suitable growing conditions B. Only the color of a tractor C. Exactly the same climate everywhere",
+      "file": "af_bella-r23-step1.mp3",
+      "duration": 13.85
+    },
+    {
+      "id": "r23-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r23-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r23-sentence",
+      "voice": "af_bella",
+      "text": "Resource choices depend on place, available water, and local conditions.",
+      "file": "af_bella-r23-sentence.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "r24-intro",
+      "voice": "af_bella",
+      "text": "BASE BRIEF: need two shelves and 10 liters of water. One safe shelf is reusable. Repaired boards make one shelf. Stored water is 8 liters.",
+      "file": "af_bella-r24-intro.mp3",
+      "duration": 10.52
+    },
+    {
+      "id": "r24-fact",
+      "voice": "af_bella",
+      "text": "A resource plan checks needs, stock, condition, and evidence. Real choices also consider energy, transport, treatment, and local rules.",
+      "file": "af_bella-r24-fact.mp3",
+      "duration": 10.05
+    },
+    {
+      "id": "r24-step0",
+      "voice": "af_bella",
+      "text": "Inspect the source and use records.",
+      "file": "af_bella-r24-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "r24-clue0-source",
+      "voice": "af_bella",
+      "text": "Source record. BASE BRIEF: need two shelves and 10 liters of water. One safe shelf is reusable. Repaired boards make one shelf. Stored water is 8 liters.",
+      "file": "af_bella-r24-clue0-source.mp3",
+      "duration": 11.71
+    },
+    {
+      "id": "r24-clue0-use",
+      "voice": "af_bella",
+      "text": "Use and care. A resource plan checks needs, stock, condition, and evidence. Real choices also consider energy, transport, treatment, and local rules.",
+      "file": "af_bella-r24-clue0-use.mp3",
+      "duration": 11.41
+    },
+    {
+      "id": "r24-step1",
+      "voice": "af_bella",
+      "text": "Which plan meets the brief with least new material in this model? Choose one answer. A. Reuse one shelf, repair boards, add 2 liters of water B. Buy two shelves and add 10 liters C. Use no shelves and no water",
+      "file": "af_bella-r24-step1.mp3",
+      "duration": 15.08
+    },
+    {
+      "id": "r24-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-r24-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "r24-sentence",
+      "voice": "af_bella",
+      "text": "I reuse and repair materials, then add only what the base still needs.",
+      "file": "af_bella-r24-sentence.mp3",
+      "duration": 4.52
+    }
+  ]
+}

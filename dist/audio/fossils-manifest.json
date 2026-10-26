@@ -1,0 +1,1518 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "f1-intro",
+      "voice": "af_heart",
+      "text": "Read where each object came from. A familiar shape alone is not enough.",
+      "file": "af_heart-f1-intro.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "f1-fact",
+      "voice": "af_heart",
+      "text": "Fossils preserve remains or traces of past life. A leaf that fell yesterday is not already a fossil.",
+      "file": "af_heart-f1-fact.mp3",
+      "duration": 7.08
+    },
+    {
+      "id": "f1-step0",
+      "voice": "af_heart",
+      "text": "Use the records to sort the objects.",
+      "file": "af_heart-f1-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "f1-record0",
+      "voice": "af_heart",
+      "text": "Fossils can be preserved in rock, amber, ice, or natural asphalt.",
+      "file": "af_heart-f1-record0.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "f1-clue0-leaf",
+      "voice": "af_heart",
+      "text": "Ancient leaf print. Record: a leaf impression preserved in ancient rock.",
+      "file": "af_heart-f1-clue0-leaf.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "f1-clue0-bone",
+      "voice": "af_heart",
+      "text": "Ancient mineralized bone. Record: an ancient bone preserved with minerals.",
+      "file": "af_heart-f1-clue0-bone.mp3",
+      "duration": 4.97
+    },
+    {
+      "id": "f1-clue0-fresh",
+      "voice": "af_heart",
+      "text": "Yesterday’s leaf. Record: this leaf fell yesterday.",
+      "file": "af_heart-f1-clue0-fresh.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "f1-step1",
+      "voice": "af_heart",
+      "text": "Can a leaf-shaped drawing prove that an object is a fossil? Choose one answer. A. Yes, any leaf shape is a fossil. B. No. We need its source and preservation record.",
+      "file": "af_heart-f1-step1.mp3",
+      "duration": 11.52
+    },
+    {
+      "id": "f1-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f1-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f1-sentence",
+      "voice": "af_heart",
+      "text": "The ancient leaf print is a fossil. Yesterday’s leaf is not.",
+      "file": "af_heart-f1-sentence.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "f2-intro",
+      "voice": "af_heart",
+      "text": "Compare a preserved body part with a preserved sign of movement.",
+      "file": "af_heart-f2-intro.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "f2-fact",
+      "voice": "af_heart",
+      "text": "An ancient preserved footprint is a trace fossil. It records activity rather than a body part.",
+      "file": "af_heart-f2-fact.mp3",
+      "duration": 6.19
+    },
+    {
+      "id": "f2-step0",
+      "voice": "af_heart",
+      "text": "Match each fossil to the kind of evidence.",
+      "file": "af_heart-f2-step0.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "f2-clue0-tooth",
+      "voice": "af_heart",
+      "text": "Preserved tooth. This is a preserved part of an animal’s body.",
+      "file": "af_heart-f2-clue0-tooth.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "f2-clue0-bone",
+      "voice": "af_heart",
+      "text": "Preserved bone. This is a preserved body part.",
+      "file": "af_heart-f2-clue0-bone.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "f2-clue0-track",
+      "voice": "af_heart",
+      "text": "Ancient trackway. These prints record an animal moving across mud.",
+      "file": "af_heart-f2-clue0-track.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "f2-step1",
+      "voice": "af_heart",
+      "text": "Could a footprint preserved from long ago be a fossil? Choose one answer. A. Yes, a trace fossil. B. No, only bones are fossils.",
+      "file": "af_heart-f2-step1.mp3",
+      "duration": 9.13
+    },
+    {
+      "id": "f2-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f2-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f2-sentence",
+      "voice": "af_heart",
+      "text": "An ancient preserved footprint can be a fossil of an animal’s activity.",
+      "file": "af_heart-f2-sentence.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "f3-intro",
+      "voice": "af_heart",
+      "text": "Press a shell into soft clay, then lift it away. Watch what stays behind.",
+      "file": "af_heart-f3-intro.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "f3-fact",
+      "voice": "af_heart",
+      "text": "This is a model impression, not an ancient fossil. A shell impression shows body shape. A footprint records activity.",
+      "file": "af_heart-f3-fact.mp3",
+      "duration": 7.57
+    },
+    {
+      "id": "f3-step0",
+      "voice": "af_heart",
+      "text": "Press, lift, and inspect the impression.",
+      "file": "af_heart-f3-step0.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "f3-step1",
+      "voice": "af_heart",
+      "text": "What have you made? Choose one answer. A. An ancient fossil formed in seconds. B. A model print in soft clay.",
+      "file": "af_heart-f3-step1.mp3",
+      "duration": 7.42
+    },
+    {
+      "id": "f3-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f3-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f3-sentence",
+      "voice": "af_heart",
+      "text": "I made a model print. It shows a shell’s shape, not a real ancient fossil.",
+      "file": "af_heart-f3-sentence.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "f4-intro",
+      "voice": "af_heart",
+      "text": "Arrange one possible path from a buried shell to a fossil discovery.",
+      "file": "af_heart-f4-intro.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "f4-fact",
+      "voice": "af_heart",
+      "text": "Burial can protect remains. Fossil preservation takes suitable conditions; not everything buried becomes a fossil.",
+      "file": "af_heart-f4-fact.mp3",
+      "duration": 7.89
+    },
+    {
+      "id": "f4-step0",
+      "voice": "af_heart",
+      "text": "Put this simplified story in order.",
+      "file": "af_heart-f4-step0.mp3",
+      "duration": 2.22
+    },
+    {
+      "id": "f4-clue0-bury",
+      "voice": "af_heart",
+      "text": "Buried shell. Sediment covers a shell.",
+      "file": "af_heart-f4-clue0-bury.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "f4-clue0-layers",
+      "voice": "af_heart",
+      "text": "More sediment. More layers build up above it.",
+      "file": "af_heart-f4-clue0-layers.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "f4-clue0-preserve",
+      "voice": "af_heart",
+      "text": "Preserved over time. Under suitable conditions, a fossil is preserved.",
+      "file": "af_heart-f4-clue0-preserve.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "f4-clue0-find",
+      "voice": "af_heart",
+      "text": "Later discovery. Much later, the fossil is discovered.",
+      "file": "af_heart-f4-clue0-find.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "f4-step1",
+      "voice": "af_heart",
+      "text": "Does every buried shell become a fossil? Choose one answer. A. No. Suitable preservation conditions are needed. B. Yes, always.",
+      "file": "af_heart-f4-step1.mp3",
+      "duration": 9.22
+    },
+    {
+      "id": "f4-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f4-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f4-sentence",
+      "voice": "af_heart",
+      "text": "Some buried remains can be preserved as fossils under suitable conditions.",
+      "file": "af_heart-f4-sentence.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "f5-intro",
+      "voice": "af_heart",
+      "text": "Read an undisturbed layer model. Compare order without inventing exact dates.",
+      "file": "af_heart-f5-intro.mp3",
+      "duration": 5.14
+    },
+    {
+      "id": "f5-fact",
+      "voice": "af_heart",
+      "text": "In this undisturbed model, lower layers formed earlier. Relative order does not give an exact age in years.",
+      "file": "af_heart-f5-fact.mp3",
+      "duration": 7.3
+    },
+    {
+      "id": "f5-step0",
+      "voice": "af_heart",
+      "text": "Order these layers from earlier to later.",
+      "file": "af_heart-f5-step0.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "f5-record0",
+      "voice": "af_heart",
+      "text": "This layer model has not been overturned or disturbed. Layer A is at the top and has a leaf fossil. Layer B is in the middle and has a shell fossil. Layer C is at the bottom and has a fish fossil.",
+      "file": "af_heart-f5-record0.mp3",
+      "duration": 13.4
+    },
+    {
+      "id": "f5-clue0-C",
+      "voice": "af_heart",
+      "text": "Layer C · bottom. Bottom layer in an undisturbed model.",
+      "file": "af_heart-f5-clue0-C.mp3",
+      "duration": 3.75
+    },
+    {
+      "id": "f5-clue0-B",
+      "voice": "af_heart",
+      "text": "Layer B · middle. Middle layer in an undisturbed model.",
+      "file": "af_heart-f5-clue0-B.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "f5-clue0-A",
+      "voice": "af_heart",
+      "text": "Layer A · top. Top layer in an undisturbed model.",
+      "file": "af_heart-f5-clue0-A.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "f5-step1",
+      "voice": "af_heart",
+      "text": "Can this diagram alone tell us an exact age in years? Choose one answer. A. Yes, the bottom layer is exactly one million years old. B. No. It shows relative order, not an exact date.",
+      "file": "af_heart-f5-step1.mp3",
+      "duration": 13.33
+    },
+    {
+      "id": "f5-record1",
+      "voice": "af_heart",
+      "text": "This layer model has not been overturned or disturbed. Layer A is at the top and has a leaf fossil. Layer B is in the middle and has a shell fossil. Layer C is at the bottom and has a fish fossil.",
+      "file": "af_heart-f5-record1.mp3",
+      "duration": 13.4
+    },
+    {
+      "id": "f5-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f5-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f5-sentence",
+      "voice": "af_heart",
+      "text": "In this undisturbed model, layer C formed before layer A. We do not know their exact ages.",
+      "file": "af_heart-f5-sentence.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "f6-intro",
+      "voice": "af_heart",
+      "text": "Open the field records. Use the fossil and its original rock layer together.",
+      "file": "af_heart-f6-intro.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "f6-fact",
+      "voice": "af_heart",
+      "text": "A fish fossil in its original sedimentary layer can support the idea that water was once present there.",
+      "file": "af_heart-f6-fact.mp3",
+      "duration": 6.51
+    },
+    {
+      "id": "f6-step0",
+      "voice": "af_heart",
+      "text": "Inspect all three field records.",
+      "file": "af_heart-f6-step0.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "f6-clue0-place",
+      "voice": "af_heart",
+      "text": "Place today. Today this site is dry.",
+      "file": "af_heart-f6-clue0-place.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "f6-clue0-find",
+      "voice": "af_heart",
+      "text": "Fossil. A fish fossil was found here.",
+      "file": "af_heart-f6-clue0-find.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "f6-clue0-layer",
+      "voice": "af_heart",
+      "text": "Layer record. The fossil was embedded in its original sedimentary layer, not brought here by a visitor.",
+      "file": "af_heart-f6-clue0-layer.mp3",
+      "duration": 6.66
+    },
+    {
+      "id": "f6-step1",
+      "voice": "af_heart",
+      "text": "Which explanation fits these records? Choose one answer. A. Water may have covered this place in the past. B. The fish lived without water. C. This place has always been dry.",
+      "file": "af_heart-f6-step1.mp3",
+      "duration": 12.22
+    },
+    {
+      "id": "f6-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f6-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f6-sentence",
+      "voice": "af_heart",
+      "text": "This fish fossil suggests that water may have been here long ago.",
+      "file": "af_heart-f6-sentence.mp3",
+      "duration": 3.73
+    },
+    {
+      "id": "f7-intro",
+      "voice": "af_heart",
+      "text": "Use the labeled reference to assemble a simplified skeleton. Leave unsupported details unknown.",
+      "file": "af_heart-f7-intro.mp3",
+      "duration": 6.59
+    },
+    {
+      "id": "f7-fact",
+      "voice": "af_heart",
+      "text": "Bones provide evidence about body structure. These bones alone do not reveal exact skin color.",
+      "file": "af_heart-f7-fact.mp3",
+      "duration": 6.51
+    },
+    {
+      "id": "f7-step0",
+      "voice": "af_heart",
+      "text": "Match each piece to the labeled reference region.",
+      "file": "af_heart-f7-step0.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "f7-clue0-skull",
+      "voice": "af_heart",
+      "text": "Skull. Reference: the skull belongs at the head.",
+      "file": "af_heart-f7-clue0-skull.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "f7-clue0-ribs",
+      "voice": "af_heart",
+      "text": "Rib cage. Reference: ribs surround the chest.",
+      "file": "af_heart-f7-clue0-ribs.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "f7-clue0-leg",
+      "voice": "af_heart",
+      "text": "Leg bones. Reference: leg bones extend below the body.",
+      "file": "af_heart-f7-clue0-leg.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "f7-step1",
+      "voice": "af_heart",
+      "text": "Can these bones alone tell us the exact skin color? Choose one answer. A. Yes, choose any color. B. No. Mark the color as unknown.",
+      "file": "af_heart-f7-step1.mp3",
+      "duration": 9.3
+    },
+    {
+      "id": "f7-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f7-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f7-sentence",
+      "voice": "af_heart",
+      "text": "The bones show body structure. These bones alone do not show skin color.",
+      "file": "af_heart-f7-sentence.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": "f8-intro",
+      "voice": "af_heart",
+      "text": "Read species records. One dead animal and an extinct species are different ideas.",
+      "file": "af_heart-f8-intro.mp3",
+      "duration": 5.53
+    },
+    {
+      "id": "f8-fact",
+      "voice": "af_heart",
+      "text": "Extinct means that no living members of a species remain anywhere on Earth.",
+      "file": "af_heart-f8-fact.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "f8-step0",
+      "voice": "af_heart",
+      "text": "Use the records to classify these species.",
+      "file": "af_heart-f8-step0.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "f8-clue0-mammoth",
+      "voice": "af_heart",
+      "text": "Columbian mammoth. Record: no living members of this species remain.",
+      "file": "af_heart-f8-clue0-mammoth.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "f8-clue0-elephant",
+      "voice": "af_heart",
+      "text": "Asian elephant. Record: living members of this species exist today.",
+      "file": "af_heart-f8-clue0-elephant.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "f8-step1",
+      "voice": "af_heart",
+      "text": "One animal dies. Does that alone mean its species is extinct? Choose one answer. A. No. Other members may still be alive. B. Yes, always.",
+      "file": "af_heart-f8-step1.mp3",
+      "duration": 10.07
+    },
+    {
+      "id": "f8-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f8-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f8-sentence",
+      "voice": "af_heart",
+      "text": "An extinct species has no living members anywhere on Earth.",
+      "file": "af_heart-f8-sentence.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "f9-intro",
+      "voice": "af_heart",
+      "text": "Visit a virtual La Brea collection. Compare large and tiny fossils.",
+      "file": "af_heart-f9-intro.mp3",
+      "duration": 4.59
+    },
+    {
+      "id": "f9-fact",
+      "voice": "af_heart",
+      "text": "La Brea in Los Angeles preserves fossils in natural asphalt, including mammoths and small plant and animal remains.",
+      "file": "af_heart-f9-fact.mp3",
+      "duration": 7.79
+    },
+    {
+      "id": "f9-step0",
+      "voice": "af_heart",
+      "text": "Open the three collection records.",
+      "file": "af_heart-f9-step0.mp3",
+      "duration": 2.01
+    },
+    {
+      "id": "f9-record0",
+      "voice": "af_heart",
+      "text": "Another California example is petrified wood. Minerals fill or replace the original material while preserving wood structure.",
+      "file": "af_heart-f9-record0.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "f9-clue0-site",
+      "voice": "af_heart",
+      "text": "La Brea. Los Angeles, California, USA. Natural asphalt preserved many remains.",
+      "file": "af_heart-f9-clue0-site.mp3",
+      "duration": 6.14
+    },
+    {
+      "id": "f9-clue0-mammoth",
+      "voice": "af_heart",
+      "text": "Mammoth. The Columbian mammoth was a mammal, not a dinosaur.",
+      "file": "af_heart-f9-clue0-mammoth.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "f9-clue0-seed",
+      "voice": "af_heart",
+      "text": "Tiny remains. Small plant and animal fossils also give clues about ancient life.",
+      "file": "af_heart-f9-clue0-seed.mp3",
+      "duration": 5.76
+    },
+    {
+      "id": "f9-step1",
+      "voice": "af_heart",
+      "text": "Which classification fits the mammoth? Choose one answer. A. Dinosaur B. Mammal C. Fish",
+      "file": "af_heart-f9-step1.mp3",
+      "duration": 5.99
+    },
+    {
+      "id": "f9-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f9-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f9-sentence",
+      "voice": "af_heart",
+      "text": "Large bones and tiny remains both give clues about life in the past.",
+      "file": "af_heart-f9-sentence.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "f10-intro",
+      "voice": "af_heart",
+      "text": "Compare an ancient plant fossil with a modern plant record. Keep the conclusion cautious.",
+      "file": "af_heart-f10-intro.mp3",
+      "duration": 5.46
+    },
+    {
+      "id": "f10-fact",
+      "voice": "af_heart",
+      "text": "Plant fossils can help scientists infer past environments when combined with comparisons and geological context.",
+      "file": "af_heart-f10-fact.mp3",
+      "duration": 8.04
+    },
+    {
+      "id": "f10-step0",
+      "voice": "af_heart",
+      "text": "What idea do these records support? Choose one answer. A. This place may have been warmer in the past. B. It was exactly 25 degrees every day. C. The plant grew on modern ice.",
+      "file": "af_heart-f10-step0.mp3",
+      "duration": 13.14
+    },
+    {
+      "id": "f10-record0",
+      "voice": "af_heart",
+      "text": "In this field model, an ancient palm-like fossil is in its original layer in Antarctica. Related plants grow in warmer places today.",
+      "file": "af_heart-f10-record0.mp3",
+      "duration": 9.47
+    },
+    {
+      "id": "f10-step1",
+      "voice": "af_heart",
+      "text": "Choose two useful kinds of evidence. Choose 2 statements. A. The fossil’s original layer B. A guessed flower color C. Comparison with related living plants",
+      "file": "af_heart-f10-step1.mp3",
+      "duration": 11.07
+    },
+    {
+      "id": "f10-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f10-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f10-sentence",
+      "voice": "af_heart",
+      "text": "This plant fossil and the comparison record suggest a warmer past environment.",
+      "file": "af_heart-f10-sentence.mp3",
+      "duration": 5.25
+    },
+    {
+      "id": "f11-intro",
+      "voice": "af_heart",
+      "text": "Sort a museum team’s notes. Distinguish observations from interpretations and missing information.",
+      "file": "af_heart-f11-intro.mp3",
+      "duration": 6.74
+    },
+    {
+      "id": "f11-fact",
+      "voice": "af_heart",
+      "text": "A careful museum label separates what is observed, what is inferred, and what the evidence cannot tell us.",
+      "file": "af_heart-f11-fact.mp3",
+      "duration": 6.7
+    },
+    {
+      "id": "f11-step0",
+      "voice": "af_heart",
+      "text": "Place each note under the right heading.",
+      "file": "af_heart-f11-step0.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "f11-clue0-evidence",
+      "voice": "af_heart",
+      "text": "Fish bones in the original layer. This is the recorded observation.",
+      "file": "af_heart-f11-clue0-evidence.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "f11-clue0-idea",
+      "voice": "af_heart",
+      "text": "Water may once have been here. This is an interpretation supported by the fossil context.",
+      "file": "af_heart-f11-clue0-idea.mp3",
+      "duration": 5.57
+    },
+    {
+      "id": "f11-clue0-unknown",
+      "voice": "af_heart",
+      "text": "The fish’s exact skin color. The record has no preserved color evidence.",
+      "file": "af_heart-f11-clue0-unknown.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "f11-step1",
+      "voice": "af_heart",
+      "text": "Which museum sentence is too strong? Choose one answer. A. The fossil includes fish bones. B. Water may once have covered this place. C. This fish was definitely bright blue.",
+      "file": "af_heart-f11-step1.mp3",
+      "duration": 12.27
+    },
+    {
+      "id": "f11-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f11-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f11-sentence",
+      "voice": "af_heart",
+      "text": "I can see fossil bones. They support an idea about past water. They do not tell me the exact color.",
+      "file": "af_heart-f11-sentence.mp3",
+      "duration": 6.57
+    },
+    {
+      "id": "f12-intro",
+      "voice": "af_heart",
+      "text": "Check the final exhibition. Use the same reasoning with a new shell fossil.",
+      "file": "af_heart-f12-intro.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "f12-fact",
+      "voice": "af_heart",
+      "text": "Good fossil explanations use source records, comparisons, and clear limits on what is known.",
+      "file": "af_heart-f12-fact.mp3",
+      "duration": 5.76
+    },
+    {
+      "id": "f12-step0",
+      "voice": "af_heart",
+      "text": "Which label fits this new shell fossil? Choose one answer. A. Water may have been here when this layer formed. B. This was definitely an ocean exactly one million years ago. C. All shells live on dry land.",
+      "file": "af_heart-f12-step0.mp3",
+      "duration": 14.44
+    },
+    {
+      "id": "f12-record0",
+      "voice": "af_heart",
+      "text": "A fossil shell from a water animal is in its original sedimentary layer. We have no exact age, and no evidence to choose between fresh water and salt water.",
+      "file": "af_heart-f12-record0.mp3",
+      "duration": 10.62
+    },
+    {
+      "id": "f12-step1",
+      "voice": "af_heart",
+      "text": "Check the exhibition labels.",
+      "file": "af_heart-f12-step1.mp3",
+      "duration": 1.77
+    },
+    {
+      "id": "f12-clue1-model",
+      "voice": "af_heart",
+      "text": "Our clay print is a model. A model made today is not an ancient fossil.",
+      "file": "af_heart-f12-clue1-model.mp3",
+      "duration": 4.91
+    },
+    {
+      "id": "f12-clue1-extinct",
+      "voice": "af_heart",
+      "text": "Extinct means one animal died. Extinction refers to the whole species.",
+      "file": "af_heart-f12-clue1-extinct.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "f12-clue1-layers",
+      "voice": "af_heart",
+      "text": "Lower is earlier in this undisturbed model. The stated model has not been overturned.",
+      "file": "af_heart-f12-clue1-layers.mp3",
+      "duration": 5.5
+    },
+    {
+      "id": "f12-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-f12-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "f12-sentence",
+      "voice": "af_heart",
+      "text": "This fossil is evidence of past life. I use its source record to explain what it may mean. Some details remain unknown.",
+      "file": "af_heart-f12-sentence.mp3",
+      "duration": 7.94
+    },
+    {
+      "id": "f1-intro",
+      "voice": "af_bella",
+      "text": "Read where each object came from. A familiar shape alone is not enough.",
+      "file": "af_bella-f1-intro.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "f1-fact",
+      "voice": "af_bella",
+      "text": "Fossils preserve remains or traces of past life. A leaf that fell yesterday is not already a fossil.",
+      "file": "af_bella-f1-fact.mp3",
+      "duration": 7.4
+    },
+    {
+      "id": "f1-step0",
+      "voice": "af_bella",
+      "text": "Use the records to sort the objects.",
+      "file": "af_bella-f1-step0.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "f1-record0",
+      "voice": "af_bella",
+      "text": "Fossils can be preserved in rock, amber, ice, or natural asphalt.",
+      "file": "af_bella-f1-record0.mp3",
+      "duration": 5.03
+    },
+    {
+      "id": "f1-clue0-leaf",
+      "voice": "af_bella",
+      "text": "Ancient leaf print. Record: a leaf impression preserved in ancient rock.",
+      "file": "af_bella-f1-clue0-leaf.mp3",
+      "duration": 5.12
+    },
+    {
+      "id": "f1-clue0-bone",
+      "voice": "af_bella",
+      "text": "Ancient mineralized bone. Record: an ancient bone preserved with minerals.",
+      "file": "af_bella-f1-clue0-bone.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": "f1-clue0-fresh",
+      "voice": "af_bella",
+      "text": "Yesterday’s leaf. Record: this leaf fell yesterday.",
+      "file": "af_bella-f1-clue0-fresh.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "f1-step1",
+      "voice": "af_bella",
+      "text": "Can a leaf-shaped drawing prove that an object is a fossil? Choose one answer. A. Yes, any leaf shape is a fossil. B. No. We need its source and preservation record.",
+      "file": "af_bella-f1-step1.mp3",
+      "duration": 12.14
+    },
+    {
+      "id": "f1-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f1-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f1-sentence",
+      "voice": "af_bella",
+      "text": "The ancient leaf print is a fossil. Yesterday’s leaf is not.",
+      "file": "af_bella-f1-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "f2-intro",
+      "voice": "af_bella",
+      "text": "Compare a preserved body part with a preserved sign of movement.",
+      "file": "af_bella-f2-intro.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "f2-fact",
+      "voice": "af_bella",
+      "text": "An ancient preserved footprint is a trace fossil. It records activity rather than a body part.",
+      "file": "af_bella-f2-fact.mp3",
+      "duration": 6.44
+    },
+    {
+      "id": "f2-step0",
+      "voice": "af_bella",
+      "text": "Match each fossil to the kind of evidence.",
+      "file": "af_bella-f2-step0.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "f2-clue0-tooth",
+      "voice": "af_bella",
+      "text": "Preserved tooth. This is a preserved part of an animal’s body.",
+      "file": "af_bella-f2-clue0-tooth.mp3",
+      "duration": 4.22
+    },
+    {
+      "id": "f2-clue0-bone",
+      "voice": "af_bella",
+      "text": "Preserved bone. This is a preserved body part.",
+      "file": "af_bella-f2-clue0-bone.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "f2-clue0-track",
+      "voice": "af_bella",
+      "text": "Ancient trackway. These prints record an animal moving across mud.",
+      "file": "af_bella-f2-clue0-track.mp3",
+      "duration": 4.31
+    },
+    {
+      "id": "f2-step1",
+      "voice": "af_bella",
+      "text": "Could a footprint preserved from long ago be a fossil? Choose one answer. A. Yes, a trace fossil. B. No, only bones are fossils.",
+      "file": "af_bella-f2-step1.mp3",
+      "duration": 9.64
+    },
+    {
+      "id": "f2-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f2-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f2-sentence",
+      "voice": "af_bella",
+      "text": "An ancient preserved footprint can be a fossil of an animal’s activity.",
+      "file": "af_bella-f2-sentence.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "f3-intro",
+      "voice": "af_bella",
+      "text": "Press a shell into soft clay, then lift it away. Watch what stays behind.",
+      "file": "af_bella-f3-intro.mp3",
+      "duration": 4.99
+    },
+    {
+      "id": "f3-fact",
+      "voice": "af_bella",
+      "text": "This is a model impression, not an ancient fossil. A shell impression shows body shape. A footprint records activity.",
+      "file": "af_bella-f3-fact.mp3",
+      "duration": 8.0
+    },
+    {
+      "id": "f3-step0",
+      "voice": "af_bella",
+      "text": "Press, lift, and inspect the impression.",
+      "file": "af_bella-f3-step0.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "f3-step1",
+      "voice": "af_bella",
+      "text": "What have you made? Choose one answer. A. An ancient fossil formed in seconds. B. A model print in soft clay.",
+      "file": "af_bella-f3-step1.mp3",
+      "duration": 7.72
+    },
+    {
+      "id": "f3-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f3-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f3-sentence",
+      "voice": "af_bella",
+      "text": "I made a model print. It shows a shell’s shape, not a real ancient fossil.",
+      "file": "af_bella-f3-sentence.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "f4-intro",
+      "voice": "af_bella",
+      "text": "Arrange one possible path from a buried shell to a fossil discovery.",
+      "file": "af_bella-f4-intro.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "f4-fact",
+      "voice": "af_bella",
+      "text": "Burial can protect remains. Fossil preservation takes suitable conditions; not everything buried becomes a fossil.",
+      "file": "af_bella-f4-fact.mp3",
+      "duration": 8.02
+    },
+    {
+      "id": "f4-step0",
+      "voice": "af_bella",
+      "text": "Put this simplified story in order.",
+      "file": "af_bella-f4-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "f4-clue0-bury",
+      "voice": "af_bella",
+      "text": "Buried shell. Sediment covers a shell.",
+      "file": "af_bella-f4-clue0-bury.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "f4-clue0-layers",
+      "voice": "af_bella",
+      "text": "More sediment. More layers build up above it.",
+      "file": "af_bella-f4-clue0-layers.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "f4-clue0-preserve",
+      "voice": "af_bella",
+      "text": "Preserved over time. Under suitable conditions, a fossil is preserved.",
+      "file": "af_bella-f4-clue0-preserve.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "f4-clue0-find",
+      "voice": "af_bella",
+      "text": "Later discovery. Much later, the fossil is discovered.",
+      "file": "af_bella-f4-clue0-find.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "f4-step1",
+      "voice": "af_bella",
+      "text": "Does every buried shell become a fossil? Choose one answer. A. No. Suitable preservation conditions are needed. B. Yes, always.",
+      "file": "af_bella-f4-step1.mp3",
+      "duration": 9.62
+    },
+    {
+      "id": "f4-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f4-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f4-sentence",
+      "voice": "af_bella",
+      "text": "Some buried remains can be preserved as fossils under suitable conditions.",
+      "file": "af_bella-f4-sentence.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "f5-intro",
+      "voice": "af_bella",
+      "text": "Read an undisturbed layer model. Compare order without inventing exact dates.",
+      "file": "af_bella-f5-intro.mp3",
+      "duration": 5.1
+    },
+    {
+      "id": "f5-fact",
+      "voice": "af_bella",
+      "text": "In this undisturbed model, lower layers formed earlier. Relative order does not give an exact age in years.",
+      "file": "af_bella-f5-fact.mp3",
+      "duration": 7.55
+    },
+    {
+      "id": "f5-step0",
+      "voice": "af_bella",
+      "text": "Order these layers from earlier to later.",
+      "file": "af_bella-f5-step0.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "f5-record0",
+      "voice": "af_bella",
+      "text": "This layer model has not been overturned or disturbed. Layer A is at the top and has a leaf fossil. Layer B is in the middle and has a shell fossil. Layer C is at the bottom and has a fish fossil.",
+      "file": "af_bella-f5-record0.mp3",
+      "duration": 13.57
+    },
+    {
+      "id": "f5-clue0-C",
+      "voice": "af_bella",
+      "text": "Layer C · bottom. Bottom layer in an undisturbed model.",
+      "file": "af_bella-f5-clue0-C.mp3",
+      "duration": 4.01
+    },
+    {
+      "id": "f5-clue0-B",
+      "voice": "af_bella",
+      "text": "Layer B · middle. Middle layer in an undisturbed model.",
+      "file": "af_bella-f5-clue0-B.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "f5-clue0-A",
+      "voice": "af_bella",
+      "text": "Layer A · top. Top layer in an undisturbed model.",
+      "file": "af_bella-f5-clue0-A.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "f5-step1",
+      "voice": "af_bella",
+      "text": "Can this diagram alone tell us an exact age in years? Choose one answer. A. Yes, the bottom layer is exactly one million years old. B. No. It shows relative order, not an exact date.",
+      "file": "af_bella-f5-step1.mp3",
+      "duration": 13.87
+    },
+    {
+      "id": "f5-record1",
+      "voice": "af_bella",
+      "text": "This layer model has not been overturned or disturbed. Layer A is at the top and has a leaf fossil. Layer B is in the middle and has a shell fossil. Layer C is at the bottom and has a fish fossil.",
+      "file": "af_bella-f5-record1.mp3",
+      "duration": 13.57
+    },
+    {
+      "id": "f5-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f5-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f5-sentence",
+      "voice": "af_bella",
+      "text": "In this undisturbed model, layer C formed before layer A. We do not know their exact ages.",
+      "file": "af_bella-f5-sentence.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "f6-intro",
+      "voice": "af_bella",
+      "text": "Open the field records. Use the fossil and its original rock layer together.",
+      "file": "af_bella-f6-intro.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "f6-fact",
+      "voice": "af_bella",
+      "text": "A fish fossil in its original sedimentary layer can support the idea that water was once present there.",
+      "file": "af_bella-f6-fact.mp3",
+      "duration": 6.78
+    },
+    {
+      "id": "f6-step0",
+      "voice": "af_bella",
+      "text": "Inspect all three field records.",
+      "file": "af_bella-f6-step0.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "f6-clue0-place",
+      "voice": "af_bella",
+      "text": "Place today. Today this site is dry.",
+      "file": "af_bella-f6-clue0-place.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "f6-clue0-find",
+      "voice": "af_bella",
+      "text": "Fossil. A fish fossil was found here.",
+      "file": "af_bella-f6-clue0-find.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "f6-clue0-layer",
+      "voice": "af_bella",
+      "text": "Layer record. The fossil was embedded in its original sedimentary layer, not brought here by a visitor.",
+      "file": "af_bella-f6-clue0-layer.mp3",
+      "duration": 6.93
+    },
+    {
+      "id": "f6-step1",
+      "voice": "af_bella",
+      "text": "Which explanation fits these records? Choose one answer. A. Water may have covered this place in the past. B. The fish lived without water. C. This place has always been dry.",
+      "file": "af_bella-f6-step1.mp3",
+      "duration": 12.48
+    },
+    {
+      "id": "f6-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f6-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f6-sentence",
+      "voice": "af_bella",
+      "text": "This fish fossil suggests that water may have been here long ago.",
+      "file": "af_bella-f6-sentence.mp3",
+      "duration": 4.14
+    },
+    {
+      "id": "f7-intro",
+      "voice": "af_bella",
+      "text": "Use the labeled reference to assemble a simplified skeleton. Leave unsupported details unknown.",
+      "file": "af_bella-f7-intro.mp3",
+      "duration": 6.78
+    },
+    {
+      "id": "f7-fact",
+      "voice": "af_bella",
+      "text": "Bones provide evidence about body structure. These bones alone do not reveal exact skin color.",
+      "file": "af_bella-f7-fact.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "f7-step0",
+      "voice": "af_bella",
+      "text": "Match each piece to the labeled reference region.",
+      "file": "af_bella-f7-step0.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "f7-clue0-skull",
+      "voice": "af_bella",
+      "text": "Skull. Reference: the skull belongs at the head.",
+      "file": "af_bella-f7-clue0-skull.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "f7-clue0-ribs",
+      "voice": "af_bella",
+      "text": "Rib cage. Reference: ribs surround the chest.",
+      "file": "af_bella-f7-clue0-ribs.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "f7-clue0-leg",
+      "voice": "af_bella",
+      "text": "Leg bones. Reference: leg bones extend below the body.",
+      "file": "af_bella-f7-clue0-leg.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "f7-step1",
+      "voice": "af_bella",
+      "text": "Can these bones alone tell us the exact skin color? Choose one answer. A. Yes, choose any color. B. No. Mark the color as unknown.",
+      "file": "af_bella-f7-step1.mp3",
+      "duration": 9.75
+    },
+    {
+      "id": "f7-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f7-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f7-sentence",
+      "voice": "af_bella",
+      "text": "The bones show body structure. These bones alone do not show skin color.",
+      "file": "af_bella-f7-sentence.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "f8-intro",
+      "voice": "af_bella",
+      "text": "Read species records. One dead animal and an extinct species are different ideas.",
+      "file": "af_bella-f8-intro.mp3",
+      "duration": 5.7
+    },
+    {
+      "id": "f8-fact",
+      "voice": "af_bella",
+      "text": "Extinct means that no living members of a species remain anywhere on Earth.",
+      "file": "af_bella-f8-fact.mp3",
+      "duration": 5.27
+    },
+    {
+      "id": "f8-step0",
+      "voice": "af_bella",
+      "text": "Use the records to classify these species.",
+      "file": "af_bella-f8-step0.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "f8-clue0-mammoth",
+      "voice": "af_bella",
+      "text": "Columbian mammoth. Record: no living members of this species remain.",
+      "file": "af_bella-f8-clue0-mammoth.mp3",
+      "duration": 4.76
+    },
+    {
+      "id": "f8-clue0-elephant",
+      "voice": "af_bella",
+      "text": "Asian elephant. Record: living members of this species exist today.",
+      "file": "af_bella-f8-clue0-elephant.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "f8-step1",
+      "voice": "af_bella",
+      "text": "One animal dies. Does that alone mean its species is extinct? Choose one answer. A. No. Other members may still be alive. B. Yes, always.",
+      "file": "af_bella-f8-step1.mp3",
+      "duration": 10.47
+    },
+    {
+      "id": "f8-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f8-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f8-sentence",
+      "voice": "af_bella",
+      "text": "An extinct species has no living members anywhere on Earth.",
+      "file": "af_bella-f8-sentence.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "f9-intro",
+      "voice": "af_bella",
+      "text": "Visit a virtual La Brea collection. Compare large and tiny fossils.",
+      "file": "af_bella-f9-intro.mp3",
+      "duration": 4.63
+    },
+    {
+      "id": "f9-fact",
+      "voice": "af_bella",
+      "text": "La Brea in Los Angeles preserves fossils in natural asphalt, including mammoths and small plant and animal remains.",
+      "file": "af_bella-f9-fact.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "f9-step0",
+      "voice": "af_bella",
+      "text": "Open the three collection records.",
+      "file": "af_bella-f9-step0.mp3",
+      "duration": 1.92
+    },
+    {
+      "id": "f9-record0",
+      "voice": "af_bella",
+      "text": "Another California example is petrified wood. Minerals fill or replace the original material while preserving wood structure.",
+      "file": "af_bella-f9-record0.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "f9-clue0-site",
+      "voice": "af_bella",
+      "text": "La Brea. Los Angeles, California, USA. Natural asphalt preserved many remains.",
+      "file": "af_bella-f9-clue0-site.mp3",
+      "duration": 6.51
+    },
+    {
+      "id": "f9-clue0-mammoth",
+      "voice": "af_bella",
+      "text": "Mammoth. The Columbian mammoth was a mammal, not a dinosaur.",
+      "file": "af_bella-f9-clue0-mammoth.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "f9-clue0-seed",
+      "voice": "af_bella",
+      "text": "Tiny remains. Small plant and animal fossils also give clues about ancient life.",
+      "file": "af_bella-f9-clue0-seed.mp3",
+      "duration": 5.87
+    },
+    {
+      "id": "f9-step1",
+      "voice": "af_bella",
+      "text": "Which classification fits the mammoth? Choose one answer. A. Dinosaur B. Mammal C. Fish",
+      "file": "af_bella-f9-step1.mp3",
+      "duration": 6.36
+    },
+    {
+      "id": "f9-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f9-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f9-sentence",
+      "voice": "af_bella",
+      "text": "Large bones and tiny remains both give clues about life in the past.",
+      "file": "af_bella-f9-sentence.mp3",
+      "duration": 5.23
+    },
+    {
+      "id": "f10-intro",
+      "voice": "af_bella",
+      "text": "Compare an ancient plant fossil with a modern plant record. Keep the conclusion cautious.",
+      "file": "af_bella-f10-intro.mp3",
+      "duration": 5.72
+    },
+    {
+      "id": "f10-fact",
+      "voice": "af_bella",
+      "text": "Plant fossils can help scientists infer past environments when combined with comparisons and geological context.",
+      "file": "af_bella-f10-fact.mp3",
+      "duration": 8.28
+    },
+    {
+      "id": "f10-step0",
+      "voice": "af_bella",
+      "text": "What idea do these records support? Choose one answer. A. This place may have been warmer in the past. B. It was exactly 25 degrees every day. C. The plant grew on modern ice.",
+      "file": "af_bella-f10-step0.mp3",
+      "duration": 13.4
+    },
+    {
+      "id": "f10-record0",
+      "voice": "af_bella",
+      "text": "In this field model, an ancient palm-like fossil is in its original layer in Antarctica. Related plants grow in warmer places today.",
+      "file": "af_bella-f10-record0.mp3",
+      "duration": 9.64
+    },
+    {
+      "id": "f10-step1",
+      "voice": "af_bella",
+      "text": "Choose two useful kinds of evidence. Choose 2 statements. A. The fossil’s original layer B. A guessed flower color C. Comparison with related living plants",
+      "file": "af_bella-f10-step1.mp3",
+      "duration": 11.56
+    },
+    {
+      "id": "f10-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f10-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f10-sentence",
+      "voice": "af_bella",
+      "text": "This plant fossil and the comparison record suggest a warmer past environment.",
+      "file": "af_bella-f10-sentence.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "f11-intro",
+      "voice": "af_bella",
+      "text": "Sort a museum team’s notes. Distinguish observations from interpretations and missing information.",
+      "file": "af_bella-f11-intro.mp3",
+      "duration": 6.81
+    },
+    {
+      "id": "f11-fact",
+      "voice": "af_bella",
+      "text": "A careful museum label separates what is observed, what is inferred, and what the evidence cannot tell us.",
+      "file": "af_bella-f11-fact.mp3",
+      "duration": 7.0
+    },
+    {
+      "id": "f11-step0",
+      "voice": "af_bella",
+      "text": "Place each note under the right heading.",
+      "file": "af_bella-f11-step0.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "f11-clue0-evidence",
+      "voice": "af_bella",
+      "text": "Fish bones in the original layer. This is the recorded observation.",
+      "file": "af_bella-f11-clue0-evidence.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "f11-clue0-idea",
+      "voice": "af_bella",
+      "text": "Water may once have been here. This is an interpretation supported by the fossil context.",
+      "file": "af_bella-f11-clue0-idea.mp3",
+      "duration": 5.57
+    },
+    {
+      "id": "f11-clue0-unknown",
+      "voice": "af_bella",
+      "text": "The fish’s exact skin color. The record has no preserved color evidence.",
+      "file": "af_bella-f11-clue0-unknown.mp3",
+      "duration": 5.03
+    },
+    {
+      "id": "f11-step1",
+      "voice": "af_bella",
+      "text": "Which museum sentence is too strong? Choose one answer. A. The fossil includes fish bones. B. Water may once have covered this place. C. This fish was definitely bright blue.",
+      "file": "af_bella-f11-step1.mp3",
+      "duration": 12.86
+    },
+    {
+      "id": "f11-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f11-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f11-sentence",
+      "voice": "af_bella",
+      "text": "I can see fossil bones. They support an idea about past water. They do not tell me the exact color.",
+      "file": "af_bella-f11-sentence.mp3",
+      "duration": 6.74
+    },
+    {
+      "id": "f12-intro",
+      "voice": "af_bella",
+      "text": "Check the final exhibition. Use the same reasoning with a new shell fossil.",
+      "file": "af_bella-f12-intro.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "f12-fact",
+      "voice": "af_bella",
+      "text": "Good fossil explanations use source records, comparisons, and clear limits on what is known.",
+      "file": "af_bella-f12-fact.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "f12-step0",
+      "voice": "af_bella",
+      "text": "Which label fits this new shell fossil? Choose one answer. A. Water may have been here when this layer formed. B. This was definitely an ocean exactly one million years ago. C. All shells live on dry land.",
+      "file": "af_bella-f12-step0.mp3",
+      "duration": 14.81
+    },
+    {
+      "id": "f12-record0",
+      "voice": "af_bella",
+      "text": "A fossil shell from a water animal is in its original sedimentary layer. We have no exact age, and no evidence to choose between fresh water and salt water.",
+      "file": "af_bella-f12-record0.mp3",
+      "duration": 11.18
+    },
+    {
+      "id": "f12-step1",
+      "voice": "af_bella",
+      "text": "Check the exhibition labels.",
+      "file": "af_bella-f12-step1.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "f12-clue1-model",
+      "voice": "af_bella",
+      "text": "Our clay print is a model. A model made today is not an ancient fossil.",
+      "file": "af_bella-f12-clue1-model.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "f12-clue1-extinct",
+      "voice": "af_bella",
+      "text": "Extinct means one animal died. Extinction refers to the whole species.",
+      "file": "af_bella-f12-clue1-extinct.mp3",
+      "duration": 5.21
+    },
+    {
+      "id": "f12-clue1-layers",
+      "voice": "af_bella",
+      "text": "Lower is earlier in this undisturbed model. The stated model has not been overturned.",
+      "file": "af_bella-f12-clue1-layers.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "f12-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-f12-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "f12-sentence",
+      "voice": "af_bella",
+      "text": "This fossil is evidence of past life. I use its source record to explain what it may mean. Some details remain unknown.",
+      "file": "af_bella-f12-sentence.mp3",
+      "duration": 8.3
+    }
+  ]
+}

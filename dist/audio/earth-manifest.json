@@ -1,0 +1,1028 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "e1-intro",
+      "voice": "af_heart",
+      "text": "Look closely. Separate what a picture shows from what needs a test.",
+      "file": "af_heart-e1-intro.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "e1-fact",
+      "voice": "af_heart",
+      "text": "Color and visible grains are observation clues. A picture alone cannot tell us hardness.",
+      "file": "af_heart-e1-fact.mp3",
+      "duration": 5.87
+    },
+    {
+      "id": "e1-step0",
+      "voice": "af_heart",
+      "text": "Which two features can you see in these drawings?",
+      "file": "af_heart-e1-step0.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "e1-step1",
+      "voice": "af_heart",
+      "text": "Two rocks are the same size. Must they weigh the same?",
+      "file": "af_heart-e1-step1.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "e1-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e1-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e1-sentence",
+      "voice": "af_heart",
+      "text": "I can observe color and grains. Hardness needs a test.",
+      "file": "af_heart-e1-sentence.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "e2-intro",
+      "voice": "af_heart",
+      "text": "Use the same three rocks twice. Change the rule, then compare the groups.",
+      "file": "af_heart-e2-intro.mp3",
+      "duration": 4.59
+    },
+    {
+      "id": "e2-fact",
+      "voice": "af_heart",
+      "text": "A sample can join different groups when the classification rule changes.",
+      "file": "af_heart-e2-fact.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "e2-step0",
+      "voice": "af_heart",
+      "text": "First, sort by color.",
+      "file": "af_heart-e2-step0.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "e2-step1",
+      "voice": "af_heart",
+      "text": "Now sort the same rocks by visible grain size.",
+      "file": "af_heart-e2-step1.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "e2-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e2-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e2-sentence",
+      "voice": "af_heart",
+      "text": "Rock A and Rock B share a grain-size group, but have different colors.",
+      "file": "af_heart-e2-sentence.mp3",
+      "duration": 4.22
+    },
+    {
+      "id": "e3-intro",
+      "voice": "af_heart",
+      "text": "Read a labeled model of one granite sample. Match its parts to the mineral names.",
+      "file": "af_heart-e3-intro.mp3",
+      "duration": 5.08
+    },
+    {
+      "id": "e3-fact",
+      "voice": "af_heart",
+      "text": "Granite contains several minerals. Color alone does not identify every mineral in nature.",
+      "file": "af_heart-e3-fact.mp3",
+      "duration": 6.02
+    },
+    {
+      "id": "e3-step0",
+      "voice": "af_heart",
+      "text": "Use the sample labels to match the pieces.",
+      "file": "af_heart-e3-step0.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "e3-step1",
+      "voice": "af_heart",
+      "text": "Can one rock contain several minerals?",
+      "file": "af_heart-e3-step1.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "e3-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e3-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e3-sentence",
+      "voice": "af_heart",
+      "text": "This granite contains quartz, feldspar, and mica.",
+      "file": "af_heart-e3-sentence.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "e4-intro",
+      "voice": "af_heart",
+      "text": "A shiny sample is not always a hard sample. Match each question with useful evidence.",
+      "file": "af_heart-e4-intro.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "e4-fact",
+      "voice": "af_heart",
+      "text": "Hardness means resistance to scratching. Luster describes how a surface reflects light.",
+      "file": "af_heart-e4-fact.mp3",
+      "duration": 5.74
+    },
+    {
+      "id": "e4-step0",
+      "voice": "af_heart",
+      "text": "Choose the useful test for each question.",
+      "file": "af_heart-e4-step0.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "e4-step1",
+      "voice": "af_heart",
+      "text": "The same tool scratches A, but not B. Which resists this tool better?",
+      "file": "af_heart-e4-step1.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": "e4-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e4-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e4-sentence",
+      "voice": "af_heart",
+      "text": "Sample B resists this tool better because it was not scratched.",
+      "file": "af_heart-e4-sentence.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "e5-intro",
+      "voice": "af_heart",
+      "text": "Follow a simplified model of water freezing in a rock crack.",
+      "file": "af_heart-e5-intro.mp3",
+      "duration": 3.78
+    },
+    {
+      "id": "e5-fact",
+      "voice": "af_heart",
+      "text": "Freezing water can widen a crack. Repeated freezing and thawing can help break rock over time.",
+      "file": "af_heart-e5-fact.mp3",
+      "duration": 5.99
+    },
+    {
+      "id": "e5-step0",
+      "voice": "af_heart",
+      "text": "Arrange the model events.",
+      "file": "af_heart-e5-step0.mp3",
+      "duration": 1.69
+    },
+    {
+      "id": "e5-step1",
+      "voice": "af_heart",
+      "text": "Does this model prove every rock breaks after one freeze?",
+      "file": "af_heart-e5-step1.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "e5-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e5-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e5-sentence",
+      "voice": "af_heart",
+      "text": "When water freezes, it expands and may widen a crack.",
+      "file": "af_heart-e5-sentence.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "e6-intro",
+      "voice": "af_heart",
+      "text": "Follow roots and flowing water. Separate breaking rock from moving pieces.",
+      "file": "af_heart-e6-intro.mp3",
+      "duration": 4.76
+    },
+    {
+      "id": "e6-fact",
+      "voice": "af_heart",
+      "text": "Growing roots can widen cracks. Flowing water can carry loose pieces to a new place.",
+      "file": "af_heart-e6-fact.mp3",
+      "duration": 5.16
+    },
+    {
+      "id": "e6-step0",
+      "voice": "af_heart",
+      "text": "Sort these two recorded events.",
+      "file": "af_heart-e6-step0.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "e6-step1",
+      "voice": "af_heart",
+      "text": "A small stone arrives downstream. Does that prove it broke there?",
+      "file": "af_heart-e6-step1.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "e6-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e6-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e6-sentence",
+      "voice": "af_heart",
+      "text": "Roots can widen cracks. Moving water can carry loose rock pieces.",
+      "file": "af_heart-e6-sentence.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": "e7-intro",
+      "voice": "af_heart",
+      "text": "Look beneath the surface. Soil is more than tiny pieces of rock.",
+      "file": "af_heart-e7-intro.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "e7-fact",
+      "voice": "af_heart",
+      "text": "Soil can contain mineral particles, decaying organic matter, water, and air.",
+      "file": "af_heart-e7-fact.mp3",
+      "duration": 5.03
+    },
+    {
+      "id": "e7-step0",
+      "voice": "af_heart",
+      "text": "Match each soil clue to its part.",
+      "file": "af_heart-e7-step0.mp3",
+      "duration": 1.96
+    },
+    {
+      "id": "e7-step1",
+      "voice": "af_heart",
+      "text": "Which statement connects soil and plant life?",
+      "file": "af_heart-e7-step1.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "e7-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e7-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e7-sentence",
+      "voice": "af_heart",
+      "text": "Soil contains mineral particles and organic matter, with water and air in its spaces.",
+      "file": "af_heart-e7-sentence.mp3",
+      "duration": 5.48
+    },
+    {
+      "id": "e8-intro",
+      "voice": "af_heart",
+      "text": "Prepare two tests that differ only in the soil sample.",
+      "file": "af_heart-e8-intro.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "e8-fact",
+      "voice": "af_heart",
+      "text": "A fair comparison keeps the water amount, soil volume, container, and observation time the same.",
+      "file": "af_heart-e8-fact.mp3",
+      "duration": 6.49
+    },
+    {
+      "id": "e8-step0",
+      "voice": "af_heart",
+      "text": "What changes, and what stays the same?",
+      "file": "af_heart-e8-step0.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "e8-step1",
+      "voice": "af_heart",
+      "text": "A gets 100 mL; B gets 200 mL. Is this a fair comparison?",
+      "file": "af_heart-e8-step1.mp3",
+      "duration": 5.1
+    },
+    {
+      "id": "e8-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e8-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e8-sentence",
+      "voice": "af_heart",
+      "text": "To compare soil samples, I keep the water amount and test conditions the same.",
+      "file": "af_heart-e8-sentence.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "e9-intro",
+      "voice": "af_heart",
+      "text": "Run three example models. Read the water collected below each cup.",
+      "file": "af_heart-e9-intro.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "e9-fact",
+      "voice": "af_heart",
+      "text": "In this example, A lets more water through in one minute than B or C. The result describes these samples and conditions.",
+      "file": "af_heart-e9-fact.mp3",
+      "duration": 7.91
+    },
+    {
+      "id": "e9-step0",
+      "voice": "af_heart",
+      "text": "Run each sample model and compare the readings.",
+      "file": "af_heart-e9-step0.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "e9-step1",
+      "voice": "af_heart",
+      "text": "Which sample lets the most water through in one minute?",
+      "file": "af_heart-e9-step1.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "e9-step2",
+      "voice": "af_heart",
+      "text": "What can this experiment support?",
+      "file": "af_heart-e9-step2.mp3",
+      "duration": 1.92
+    },
+    {
+      "id": "e9-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e9-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e9-sentence",
+      "voice": "af_heart",
+      "text": "In this test, sample A lets the most water through in one minute.",
+      "file": "af_heart-e9-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "e10-intro",
+      "voice": "af_heart",
+      "text": "Follow an earthworm tunnel. Connect animal actions with soil spaces.",
+      "file": "af_heart-e10-intro.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "e10-fact",
+      "voice": "af_heart",
+      "text": "Burrowing animals can mix soil and make paths for air and water. An earthworm is not a beetle larva.",
+      "file": "af_heart-e10-fact.mp3",
+      "duration": 6.61
+    },
+    {
+      "id": "e10-step0",
+      "voice": "af_heart",
+      "text": "Arrange a possible chain of events.",
+      "file": "af_heart-e10-step0.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "e10-step1",
+      "voice": "af_heart",
+      "text": "Must an earthworm become a beetle, like a mealworm?",
+      "file": "af_heart-e10-step1.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "e10-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e10-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e10-sentence",
+      "voice": "af_heart",
+      "text": "Burrowing animals make tunnels that help air and water move through soil.",
+      "file": "af_heart-e10-sentence.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "e11-intro",
+      "voice": "af_heart",
+      "text": "Use the test record and a fictional plant brief. Choose evidence, not a favorite color.",
+      "file": "af_heart-e11-intro.mp3",
+      "duration": 5.35
+    },
+    {
+      "id": "e11-fact",
+      "voice": "af_heart",
+      "text": "A useful choice depends on the plant and the test conditions. There is no single best soil for every plant.",
+      "file": "af_heart-e11-fact.mp3",
+      "duration": 6.85
+    },
+    {
+      "id": "e11-step0",
+      "voice": "af_heart",
+      "text": "Our model plant needs 30–40 mL collected in this test. Which sample fits?",
+      "file": "af_heart-e11-step0.mp3",
+      "duration": 5.16
+    },
+    {
+      "id": "e11-step1",
+      "voice": "af_heart",
+      "text": "Choose two pieces of evidence for your recommendation.",
+      "file": "af_heart-e11-step1.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "e11-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e11-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e11-sentence",
+      "voice": "af_heart",
+      "text": "I choose sample B because 35 mL fits this model plant’s target.",
+      "file": "af_heart-e11-sentence.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "e12-intro",
+      "voice": "af_heart",
+      "text": "Review the claims for our research exhibition. Correct mistakes with evidence from the chapter.",
+      "file": "af_heart-e12-intro.mp3",
+      "duration": 5.53
+    },
+    {
+      "id": "e12-fact",
+      "voice": "af_heart",
+      "text": "Strong explanations connect observations, fair tests, and carefully limited conclusions.",
+      "file": "af_heart-e12-fact.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "e12-step0",
+      "voice": "af_heart",
+      "text": "Place each claim in the correct display.",
+      "file": "af_heart-e12-step0.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "e12-step1",
+      "voice": "af_heart",
+      "text": "A new model plant needs 50–70 mL collected. Which sample now fits?",
+      "file": "af_heart-e12-step1.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "e12-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-e12-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "e12-sentence",
+      "voice": "af_heart",
+      "text": "When the plant’s needs change, my choice may change. I use the test record to explain why.",
+      "file": "af_heart-e12-sentence.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "e1-intro",
+      "voice": "af_bella",
+      "text": "Look closely. Separate what a picture shows from what needs a test.",
+      "file": "af_bella-e1-intro.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "e1-fact",
+      "voice": "af_bella",
+      "text": "Color and visible grains are observation clues. A picture alone cannot tell us hardness.",
+      "file": "af_bella-e1-fact.mp3",
+      "duration": 6.02
+    },
+    {
+      "id": "e1-step0",
+      "voice": "af_bella",
+      "text": "Which two features can you see in these drawings?",
+      "file": "af_bella-e1-step0.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "e1-step1",
+      "voice": "af_bella",
+      "text": "Two rocks are the same size. Must they weigh the same?",
+      "file": "af_bella-e1-step1.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "e1-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e1-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e1-sentence",
+      "voice": "af_bella",
+      "text": "I can observe color and grains. Hardness needs a test.",
+      "file": "af_bella-e1-sentence.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "e2-intro",
+      "voice": "af_bella",
+      "text": "Use the same three rocks twice. Change the rule, then compare the groups.",
+      "file": "af_bella-e2-intro.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "e2-fact",
+      "voice": "af_bella",
+      "text": "A sample can join different groups when the classification rule changes.",
+      "file": "af_bella-e2-fact.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "e2-step0",
+      "voice": "af_bella",
+      "text": "First, sort by color.",
+      "file": "af_bella-e2-step0.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "e2-step1",
+      "voice": "af_bella",
+      "text": "Now sort the same rocks by visible grain size.",
+      "file": "af_bella-e2-step1.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "e2-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e2-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e2-sentence",
+      "voice": "af_bella",
+      "text": "Rock A and Rock B share a grain-size group, but have different colors.",
+      "file": "af_bella-e2-sentence.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "e3-intro",
+      "voice": "af_bella",
+      "text": "Read a labeled model of one granite sample. Match its parts to the mineral names.",
+      "file": "af_bella-e3-intro.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "e3-fact",
+      "voice": "af_bella",
+      "text": "Granite contains several minerals. Color alone does not identify every mineral in nature.",
+      "file": "af_bella-e3-fact.mp3",
+      "duration": 5.97
+    },
+    {
+      "id": "e3-step0",
+      "voice": "af_bella",
+      "text": "Use the sample labels to match the pieces.",
+      "file": "af_bella-e3-step0.mp3",
+      "duration": 2.56
+    },
+    {
+      "id": "e3-step1",
+      "voice": "af_bella",
+      "text": "Can one rock contain several minerals?",
+      "file": "af_bella-e3-step1.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "e3-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e3-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e3-sentence",
+      "voice": "af_bella",
+      "text": "This granite contains quartz, feldspar, and mica.",
+      "file": "af_bella-e3-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "e4-intro",
+      "voice": "af_bella",
+      "text": "A shiny sample is not always a hard sample. Match each question with useful evidence.",
+      "file": "af_bella-e4-intro.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "e4-fact",
+      "voice": "af_bella",
+      "text": "Hardness means resistance to scratching. Luster describes how a surface reflects light.",
+      "file": "af_bella-e4-fact.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "e4-step0",
+      "voice": "af_bella",
+      "text": "Choose the useful test for each question.",
+      "file": "af_bella-e4-step0.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "e4-step1",
+      "voice": "af_bella",
+      "text": "The same tool scratches A, but not B. Which resists this tool better?",
+      "file": "af_bella-e4-step1.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "e4-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e4-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e4-sentence",
+      "voice": "af_bella",
+      "text": "Sample B resists this tool better because it was not scratched.",
+      "file": "af_bella-e4-sentence.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "e5-intro",
+      "voice": "af_bella",
+      "text": "Follow a simplified model of water freezing in a rock crack.",
+      "file": "af_bella-e5-intro.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "e5-fact",
+      "voice": "af_bella",
+      "text": "Freezing water can widen a crack. Repeated freezing and thawing can help break rock over time.",
+      "file": "af_bella-e5-fact.mp3",
+      "duration": 6.14
+    },
+    {
+      "id": "e5-step0",
+      "voice": "af_bella",
+      "text": "Arrange the model events.",
+      "file": "af_bella-e5-step0.mp3",
+      "duration": 1.58
+    },
+    {
+      "id": "e5-step1",
+      "voice": "af_bella",
+      "text": "Does this model prove every rock breaks after one freeze?",
+      "file": "af_bella-e5-step1.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "e5-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e5-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e5-sentence",
+      "voice": "af_bella",
+      "text": "When water freezes, it expands and may widen a crack.",
+      "file": "af_bella-e5-sentence.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "e6-intro",
+      "voice": "af_bella",
+      "text": "Follow roots and flowing water. Separate breaking rock from moving pieces.",
+      "file": "af_bella-e6-intro.mp3",
+      "duration": 4.97
+    },
+    {
+      "id": "e6-fact",
+      "voice": "af_bella",
+      "text": "Growing roots can widen cracks. Flowing water can carry loose pieces to a new place.",
+      "file": "af_bella-e6-fact.mp3",
+      "duration": 5.38
+    },
+    {
+      "id": "e6-step0",
+      "voice": "af_bella",
+      "text": "Sort these two recorded events.",
+      "file": "af_bella-e6-step0.mp3",
+      "duration": 1.81
+    },
+    {
+      "id": "e6-step1",
+      "voice": "af_bella",
+      "text": "A small stone arrives downstream. Does that prove it broke there?",
+      "file": "af_bella-e6-step1.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "e6-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e6-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e6-sentence",
+      "voice": "af_bella",
+      "text": "Roots can widen cracks. Moving water can carry loose rock pieces.",
+      "file": "af_bella-e6-sentence.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "e7-intro",
+      "voice": "af_bella",
+      "text": "Look beneath the surface. Soil is more than tiny pieces of rock.",
+      "file": "af_bella-e7-intro.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "e7-fact",
+      "voice": "af_bella",
+      "text": "Soil can contain mineral particles, decaying organic matter, water, and air.",
+      "file": "af_bella-e7-fact.mp3",
+      "duration": 5.38
+    },
+    {
+      "id": "e7-step0",
+      "voice": "af_bella",
+      "text": "Match each soil clue to its part.",
+      "file": "af_bella-e7-step0.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "e7-step1",
+      "voice": "af_bella",
+      "text": "Which statement connects soil and plant life?",
+      "file": "af_bella-e7-step1.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "e7-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e7-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e7-sentence",
+      "voice": "af_bella",
+      "text": "Soil contains mineral particles and organic matter, with water and air in its spaces.",
+      "file": "af_bella-e7-sentence.mp3",
+      "duration": 5.59
+    },
+    {
+      "id": "e8-intro",
+      "voice": "af_bella",
+      "text": "Prepare two tests that differ only in the soil sample.",
+      "file": "af_bella-e8-intro.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "e8-fact",
+      "voice": "af_bella",
+      "text": "A fair comparison keeps the water amount, soil volume, container, and observation time the same.",
+      "file": "af_bella-e8-fact.mp3",
+      "duration": 6.89
+    },
+    {
+      "id": "e8-step0",
+      "voice": "af_bella",
+      "text": "What changes, and what stays the same?",
+      "file": "af_bella-e8-step0.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "e8-step1",
+      "voice": "af_bella",
+      "text": "A gets 100 mL; B gets 200 mL. Is this a fair comparison?",
+      "file": "af_bella-e8-step1.mp3",
+      "duration": 5.4
+    },
+    {
+      "id": "e8-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e8-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e8-sentence",
+      "voice": "af_bella",
+      "text": "To compare soil samples, I keep the water amount and test conditions the same.",
+      "file": "af_bella-e8-sentence.mp3",
+      "duration": 4.97
+    },
+    {
+      "id": "e9-intro",
+      "voice": "af_bella",
+      "text": "Run three example models. Read the water collected below each cup.",
+      "file": "af_bella-e9-intro.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "e9-fact",
+      "voice": "af_bella",
+      "text": "In this example, A lets more water through in one minute than B or C. The result describes these samples and conditions.",
+      "file": "af_bella-e9-fact.mp3",
+      "duration": 8.21
+    },
+    {
+      "id": "e9-step0",
+      "voice": "af_bella",
+      "text": "Run each sample model and compare the readings.",
+      "file": "af_bella-e9-step0.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "e9-step1",
+      "voice": "af_bella",
+      "text": "Which sample lets the most water through in one minute?",
+      "file": "af_bella-e9-step1.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "e9-step2",
+      "voice": "af_bella",
+      "text": "What can this experiment support?",
+      "file": "af_bella-e9-step2.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "e9-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e9-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e9-sentence",
+      "voice": "af_bella",
+      "text": "In this test, sample A lets the most water through in one minute.",
+      "file": "af_bella-e9-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "e10-intro",
+      "voice": "af_bella",
+      "text": "Follow an earthworm tunnel. Connect animal actions with soil spaces.",
+      "file": "af_bella-e10-intro.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": "e10-fact",
+      "voice": "af_bella",
+      "text": "Burrowing animals can mix soil and make paths for air and water. An earthworm is not a beetle larva.",
+      "file": "af_bella-e10-fact.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "e10-step0",
+      "voice": "af_bella",
+      "text": "Arrange a possible chain of events.",
+      "file": "af_bella-e10-step0.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "e10-step1",
+      "voice": "af_bella",
+      "text": "Must an earthworm become a beetle, like a mealworm?",
+      "file": "af_bella-e10-step1.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "e10-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e10-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e10-sentence",
+      "voice": "af_bella",
+      "text": "Burrowing animals make tunnels that help air and water move through soil.",
+      "file": "af_bella-e10-sentence.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "e11-intro",
+      "voice": "af_bella",
+      "text": "Use the test record and a fictional plant brief. Choose evidence, not a favorite color.",
+      "file": "af_bella-e11-intro.mp3",
+      "duration": 5.55
+    },
+    {
+      "id": "e11-fact",
+      "voice": "af_bella",
+      "text": "A useful choice depends on the plant and the test conditions. There is no single best soil for every plant.",
+      "file": "af_bella-e11-fact.mp3",
+      "duration": 7.17
+    },
+    {
+      "id": "e11-step0",
+      "voice": "af_bella",
+      "text": "Our model plant needs 30–40 mL collected in this test. Which sample fits?",
+      "file": "af_bella-e11-step0.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "e11-step1",
+      "voice": "af_bella",
+      "text": "Choose two pieces of evidence for your recommendation.",
+      "file": "af_bella-e11-step1.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "e11-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e11-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e11-sentence",
+      "voice": "af_bella",
+      "text": "I choose sample B because 35 mL fits this model plant’s target.",
+      "file": "af_bella-e11-sentence.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "e12-intro",
+      "voice": "af_bella",
+      "text": "Review the claims for our research exhibition. Correct mistakes with evidence from the chapter.",
+      "file": "af_bella-e12-intro.mp3",
+      "duration": 5.53
+    },
+    {
+      "id": "e12-fact",
+      "voice": "af_bella",
+      "text": "Strong explanations connect observations, fair tests, and carefully limited conclusions.",
+      "file": "af_bella-e12-fact.mp3",
+      "duration": 6.19
+    },
+    {
+      "id": "e12-step0",
+      "voice": "af_bella",
+      "text": "Place each claim in the correct display.",
+      "file": "af_bella-e12-step0.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "e12-step1",
+      "voice": "af_bella",
+      "text": "A new model plant needs 50–70 mL collected. Which sample now fits?",
+      "file": "af_bella-e12-step1.mp3",
+      "duration": 5.1
+    },
+    {
+      "id": "e12-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-e12-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "e12-sentence",
+      "voice": "af_bella",
+      "text": "When the plant’s needs change, my choice may change. I use the test record to explain why.",
+      "file": "af_bella-e12-sentence.mp3",
+      "duration": 6.23
+    }
+  ]
+}

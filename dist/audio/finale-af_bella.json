@@ -1,0 +1,2351 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "g1-intro",
+      "voice": "af_bella",
+      "text": "Move the same load to the same height. This model ignores friction.",
+      "file": "af_bella-g1-intro.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "g1-fact",
+      "voice": "af_bella",
+      "text": "A shallower ramp trades a longer distance for less force in this frictionless model.",
+      "file": "af_bella-g1-fact.mp3",
+      "duration": 4.91
+    },
+    {
+      "id": "g1-step0",
+      "voice": "af_bella",
+      "text": "Test both ramps.",
+      "file": "af_bella-g1-step0.mp3",
+      "duration": 1.28
+    },
+    {
+      "id": "g1-trial0",
+      "voice": "af_bella",
+      "text": "Short ramp. Length 2 m · height 1 m · force 6 units",
+      "file": "af_bella-g1-trial0.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "g1-trial1",
+      "voice": "af_bella",
+      "text": "Long ramp. Length 4 m · height 1 m · force 3 units",
+      "file": "af_bella-g1-trial1.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "g1-step1",
+      "voice": "af_bella",
+      "text": "Which ramp needs less force along the slope in this model? A. Short ramp B. Long ramp",
+      "file": "af_bella-g1-step1.mp3",
+      "duration": 5.97
+    },
+    {
+      "id": "g1-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g1-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g1-sentence",
+      "voice": "af_bella",
+      "text": "The longer ramp needs less force over a longer distance.",
+      "file": "af_bella-g1-sentence.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "g2-intro",
+      "voice": "af_bella",
+      "text": "A lever turns around a support called a fulcrum. Keep the load and its distance from the fulcrum fixed.",
+      "file": "af_bella-g2-intro.mp3",
+      "duration": 6.57
+    },
+    {
+      "id": "g2-fact",
+      "voice": "af_bella",
+      "text": "Lever results depend on the positions of the load, effort, and fulcrum.",
+      "file": "af_bella-g2-fact.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "g2-step0",
+      "voice": "af_bella",
+      "text": "Test two places to push.",
+      "file": "af_bella-g2-step0.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "g2-trial0",
+      "voice": "af_bella",
+      "text": "Push near the fulcrum. Effort arm 1 unit · force 6 units",
+      "file": "af_bella-g2-trial0.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "g2-trial1",
+      "voice": "af_bella",
+      "text": "Push farther from the fulcrum. Effort arm 3 units · force 2 units",
+      "file": "af_bella-g2-trial1.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "g2-step1",
+      "voice": "af_bella",
+      "text": "With this fixed load, which push point needs less force? A. Near the fulcrum B. Farther from the fulcrum",
+      "file": "af_bella-g2-step1.mp3",
+      "duration": 6.98
+    },
+    {
+      "id": "g2-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g2-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g2-sentence",
+      "voice": "af_bella",
+      "text": "For this lever, a longer effort arm needs less force.",
+      "file": "af_bella-g2-sentence.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "g3-intro",
+      "voice": "af_bella",
+      "text": "Compare a box and a wheeled cart carrying the same load on the same level test track.",
+      "file": "af_bella-g3-intro.mp3",
+      "duration": 5.5
+    },
+    {
+      "id": "g3-fact",
+      "voice": "af_bella",
+      "text": "Wheels can help transport a load; results depend on the wheels and surface.",
+      "file": "af_bella-g3-fact.mp3",
+      "duration": 4.84
+    },
+    {
+      "id": "g3-step0",
+      "voice": "af_bella",
+      "text": "Run both transport models.",
+      "file": "af_bella-g3-step0.mp3",
+      "duration": 1.77
+    },
+    {
+      "id": "g3-trial0",
+      "voice": "af_bella",
+      "text": "Slide the box. Steady pull: 8 model units",
+      "file": "af_bella-g3-trial0.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "g3-trial1",
+      "voice": "af_bella",
+      "text": "Roll the cart. Steady pull: 2 model units",
+      "file": "af_bella-g3-trial1.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "g3-step1",
+      "voice": "af_bella",
+      "text": "What can we say from this record? A. The cart needed less pull on this track. B. Wheels remove all friction everywhere.",
+      "file": "af_bella-g3-step1.mp3",
+      "duration": 8.04
+    },
+    {
+      "id": "g3-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g3-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g3-sentence",
+      "voice": "af_bella",
+      "text": "On this track, the wheeled cart needed less pull.",
+      "file": "af_bella-g3-sentence.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "g4-intro",
+      "voice": "af_bella",
+      "text": "Test whether ramp length changes the needed force. Use the same load, surface, and height.",
+      "file": "af_bella-g4-intro.mp3",
+      "duration": 6.08
+    },
+    {
+      "id": "g4-fact",
+      "voice": "af_bella",
+      "text": "Change one condition to make the comparison easier to interpret.",
+      "file": "af_bella-g4-fact.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "g4-step0",
+      "voice": "af_bella",
+      "text": "Plan a fair ramp test.",
+      "file": "af_bella-g4-step0.mp3",
+      "duration": 1.54
+    },
+    {
+      "id": "g4-clue0-0",
+      "voice": "af_bella",
+      "text": "Ramp length. This is what we test.",
+      "file": "af_bella-g4-clue0-0.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g4-clue0-1",
+      "voice": "af_bella",
+      "text": "Load. Use the same load.",
+      "file": "af_bella-g4-clue0-1.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "g4-clue0-2",
+      "voice": "af_bella",
+      "text": "Height. Keep the destination height fixed.",
+      "file": "af_bella-g4-clue0-2.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "g4-clue0-3",
+      "voice": "af_bella",
+      "text": "Surface. Do not change the surface too.",
+      "file": "af_bella-g4-clue0-3.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "g4-step1",
+      "voice": "af_bella",
+      "text": "Why keep the load the same? A. The load can also change the needed force. B. The load never matters.",
+      "file": "af_bella-g4-step1.mp3",
+      "duration": 7.15
+    },
+    {
+      "id": "g4-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g4-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g4-sentence",
+      "voice": "af_bella",
+      "text": "I change the ramp length. I keep the load and height the same.",
+      "file": "af_bella-g4-sentence.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "g5-intro",
+      "voice": "af_bella",
+      "text": "The dock is 1 m high. We have 4 m of space. Ramp A is 4 m long and needs 3 force units; B is 2 m and needs 6.",
+      "file": "af_bella-g5-intro.mp3",
+      "duration": 9.32
+    },
+    {
+      "id": "g5-fact",
+      "voice": "af_bella",
+      "text": "Choose tools using the task conditions and evidence.",
+      "file": "af_bella-g5-fact.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "g5-step0",
+      "voice": "af_bella",
+      "text": "Choose a plan that fits and needs less push. A. Ramp A B. Ramp B",
+      "file": "af_bella-g5-step0.mp3",
+      "duration": 4.95
+    },
+    {
+      "id": "g5-step1",
+      "voice": "af_bella",
+      "text": "If only 2 m of space were available, what should change? A. Keep choosing the 4 m ramp. B. Reconsider which ramp fits.",
+      "file": "af_bella-g5-step1.mp3",
+      "duration": 8.73
+    },
+    {
+      "id": "g5-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g5-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g5-sentence",
+      "voice": "af_bella",
+      "text": "A useful tool plan must fit the space and the task.",
+      "file": "af_bella-g5-sentence.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "g6-intro",
+      "voice": "af_bella",
+      "text": "Observe a ball resting on a shelf, then remove the support.",
+      "file": "af_bella-g6-intro.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "g6-fact",
+      "voice": "af_bella",
+      "text": "A supported object still experiences gravity.",
+      "file": "af_bella-g6-fact.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "g6-step0",
+      "voice": "af_bella",
+      "text": "Compare supported and released.",
+      "file": "af_bella-g6-step0.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "g6-trial0",
+      "voice": "af_bella",
+      "text": "Keep the shelf. The shelf supports the ball. Gravity still acts.",
+      "file": "af_bella-g6-trial0.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "g6-trial1",
+      "voice": "af_bella",
+      "text": "Remove the shelf. The ball falls toward the ground.",
+      "file": "af_bella-g6-trial1.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "g6-step1",
+      "voice": "af_bella",
+      "text": "Why did the resting ball not fall through the shelf? A. Gravity disappeared. B. The shelf supported it.",
+      "file": "af_bella-g6-step1.mp3",
+      "duration": 7.36
+    },
+    {
+      "id": "g6-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g6-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g6-sentence",
+      "voice": "af_bella",
+      "text": "The shelf supports the ball. Gravity still pulls downward.",
+      "file": "af_bella-g6-sentence.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "g7-intro",
+      "voice": "af_bella",
+      "text": "Near Earth, gravity pulls toward its center. Down changes direction around the globe.",
+      "file": "af_bella-g7-intro.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "g7-fact",
+      "voice": "af_bella",
+      "text": "Down means toward Earth’s center, not always toward the bottom of a page.",
+      "file": "af_bella-g7-fact.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "g7-step0",
+      "voice": "af_bella",
+      "text": "View gravity at two locations.",
+      "file": "af_bella-g7-step0.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "g7-trial0",
+      "voice": "af_bella",
+      "text": "Top of the drawing. Arrow points down toward the center.",
+      "file": "af_bella-g7-trial0.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "g7-trial1",
+      "voice": "af_bella",
+      "text": "Right of the drawing. Arrow points left toward the center.",
+      "file": "af_bella-g7-trial1.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "g7-step1",
+      "voice": "af_bella",
+      "text": "At the right side of this globe, which way is down? A. Right, away from Earth B. Left, toward the center",
+      "file": "af_bella-g7-step1.mp3",
+      "duration": 7.08
+    },
+    {
+      "id": "g7-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g7-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g7-sentence",
+      "voice": "af_bella",
+      "text": "Gravity pulls objects toward Earth’s center.",
+      "file": "af_bella-g7-sentence.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "g8-intro",
+      "voice": "af_bella",
+      "text": "A tossed ball rises, pauses for an instant, then falls. This model ignores air resistance.",
+      "file": "af_bella-g8-intro.mp3",
+      "duration": 6.93
+    },
+    {
+      "id": "g8-fact",
+      "voice": "af_bella",
+      "text": "Motion direction and force direction are not always the same.",
+      "file": "af_bella-g8-fact.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "g8-step0",
+      "voice": "af_bella",
+      "text": "Inspect three moments.",
+      "file": "af_bella-g8-step0.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "g8-trial0",
+      "voice": "af_bella",
+      "text": "Going up. Motion up · gravity down",
+      "file": "af_bella-g8-trial0.mp3",
+      "duration": 2.22
+    },
+    {
+      "id": "g8-trial1",
+      "voice": "af_bella",
+      "text": "At the top. Vertical speed is zero for an instant · gravity down",
+      "file": "af_bella-g8-trial1.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "g8-trial2",
+      "voice": "af_bella",
+      "text": "Going down. Motion down · gravity down",
+      "file": "af_bella-g8-trial2.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "g8-step1",
+      "voice": "af_bella",
+      "text": "At the top, does gravity stop? A. Yes B. No",
+      "file": "af_bella-g8-step1.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "g8-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g8-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g8-sentence",
+      "voice": "af_bella",
+      "text": "At the highest point, gravity still pulls downward.",
+      "file": "af_bella-g8-sentence.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "g9-intro",
+      "voice": "af_bella",
+      "text": "Compare two compact balls in a model without air resistance. Release them from the same height at the same time.",
+      "file": "af_bella-g9-intro.mp3",
+      "duration": 7.23
+    },
+    {
+      "id": "g9-fact",
+      "voice": "af_bella",
+      "text": "Real air resistance can change a falling object’s motion.",
+      "file": "af_bella-g9-fact.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "g9-step0",
+      "voice": "af_bella",
+      "text": "Compare the model balls.",
+      "file": "af_bella-g9-step0.mp3",
+      "duration": 1.41
+    },
+    {
+      "id": "g9-trial0",
+      "voice": "af_bella",
+      "text": "Light compact ball. Release height 1 m · fall time 0.45 s (rounded)",
+      "file": "af_bella-g9-trial0.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "g9-trial1",
+      "voice": "af_bella",
+      "text": "Heavier compact ball. Release height 1 m · fall time 0.45 s (rounded)",
+      "file": "af_bella-g9-trial1.mp3",
+      "duration": 5.99
+    },
+    {
+      "id": "g9-step1",
+      "voice": "af_bella",
+      "text": "What does this model show? A. The heavier ball must land first. B. Both take the same time without air resistance.",
+      "file": "af_bella-g9-step1.mp3",
+      "duration": 8.04
+    },
+    {
+      "id": "g9-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g9-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g9-sentence",
+      "voice": "af_bella",
+      "text": "In this model, both balls fall in the same time.",
+      "file": "af_bella-g9-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "g10-intro",
+      "voice": "af_bella",
+      "text": "Recall the greenhouse: many young shoots respond to light; roots usually grow downward in response to gravity.",
+      "file": "af_bella-g10-intro.mp3",
+      "duration": 7.23
+    },
+    {
+      "id": "g10-fact",
+      "voice": "af_bella",
+      "text": "Connect plant growth with physical forces, while remembering that growth takes time.",
+      "file": "af_bella-g10-fact.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "g10-step0",
+      "voice": "af_bella",
+      "text": "Match each observation to its main clue.",
+      "file": "af_bella-g10-step0.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "g10-clue0-0",
+      "voice": "af_bella",
+      "text": "Young shoot bends toward a lamp. The lamp is on the left.",
+      "file": "af_bella-g10-clue0-0.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "g10-clue0-1",
+      "voice": "af_bella",
+      "text": "Root grows toward the ground. The root grows downward.",
+      "file": "af_bella-g10-clue0-1.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "g10-step1",
+      "voice": "af_bella",
+      "text": "Does a real root change direction instantly like a drawing? A. No. Growth takes time. B. Yes. It jumps instantly.",
+      "file": "af_bella-g10-step1.mp3",
+      "duration": 8.66
+    },
+    {
+      "id": "g10-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g10-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g10-sentence",
+      "voice": "af_bella",
+      "text": "Roots usually grow downward in response to gravity.",
+      "file": "af_bella-g10-sentence.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "g11-intro",
+      "voice": "af_bella",
+      "text": "Use an ordinary classroom magnet. The samples are iron, aluminum, and wood.",
+      "file": "af_bella-g11-intro.mp3",
+      "duration": 5.5
+    },
+    {
+      "id": "g11-fact",
+      "voice": "af_bella",
+      "text": "Identify the material; color and shininess do not identify magnetic behavior.",
+      "file": "af_bella-g11-fact.mp3",
+      "duration": 5.53
+    },
+    {
+      "id": "g11-step0",
+      "voice": "af_bella",
+      "text": "Test all three materials.",
+      "file": "af_bella-g11-step0.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "g11-trial0",
+      "voice": "af_bella",
+      "text": "Iron nail. The magnet attracts the iron nail.",
+      "file": "af_bella-g11-trial0.mp3",
+      "duration": 3.01
+    },
+    {
+      "id": "g11-trial1",
+      "voice": "af_bella",
+      "text": "Aluminum tab. No visible attraction in this classroom test.",
+      "file": "af_bella-g11-trial1.mp3",
+      "duration": 4.03
+    },
+    {
+      "id": "g11-trial2",
+      "voice": "af_bella",
+      "text": "Wooden block. No visible attraction in this classroom test.",
+      "file": "af_bella-g11-trial2.mp3",
+      "duration": 3.78
+    },
+    {
+      "id": "g11-step1",
+      "voice": "af_bella",
+      "text": "What does the aluminum result tell us? A. All metals are attracted strongly. B. Not every metal is attracted by this magnet.",
+      "file": "af_bella-g11-step1.mp3",
+      "duration": 8.68
+    },
+    {
+      "id": "g11-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g11-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g11-sentence",
+      "voice": "af_bella",
+      "text": "A magnet attracts iron. It does not attract every metal.",
+      "file": "af_bella-g11-sentence.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "g12-intro",
+      "voice": "af_bella",
+      "text": "Keep the left magnet fixed with N facing the gap. Turn the right magnet to change its facing pole.",
+      "file": "af_bella-g12-intro.mp3",
+      "duration": 6.36
+    },
+    {
+      "id": "g12-fact",
+      "voice": "af_bella",
+      "text": "Compare the poles that face each other, not just the colors.",
+      "file": "af_bella-g12-fact.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "g12-step0",
+      "voice": "af_bella",
+      "text": "Test the two facing poles.",
+      "file": "af_bella-g12-step0.mp3",
+      "duration": 1.75
+    },
+    {
+      "id": "g12-trial0",
+      "voice": "af_bella",
+      "text": "Face N toward N. Like poles repel: the right magnet moves away.",
+      "file": "af_bella-g12-trial0.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "g12-trial1",
+      "voice": "af_bella",
+      "text": "Face S toward N. Unlike poles attract: the right magnet moves closer.",
+      "file": "af_bella-g12-trial1.mp3",
+      "duration": 5.18
+    },
+    {
+      "id": "g12-step1",
+      "voice": "af_bella",
+      "text": "Which pair attracts? A. N facing N B. N facing S",
+      "file": "af_bella-g12-step1.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "g12-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g12-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g12-sentence",
+      "voice": "af_bella",
+      "text": "Unlike poles attract. Like poles repel.",
+      "file": "af_bella-g12-sentence.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "g13-intro",
+      "voice": "af_bella",
+      "text": "Keep the same magnet and iron nail. Compare a small paper gap with a much larger gap.",
+      "file": "af_bella-g13-intro.mp3",
+      "duration": 5.97
+    },
+    {
+      "id": "g13-fact",
+      "voice": "af_bella",
+      "text": "Whether an object moves depends on distance, the magnet, and other forces.",
+      "file": "af_bella-g13-fact.mp3",
+      "duration": 4.95
+    },
+    {
+      "id": "g13-step0",
+      "voice": "af_bella",
+      "text": "Test both gaps.",
+      "file": "af_bella-g13-step0.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "g13-trial0",
+      "voice": "af_bella",
+      "text": "Thin paper, small gap. The nail moves toward the magnet.",
+      "file": "af_bella-g13-trial0.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "g13-trial1",
+      "voice": "af_bella",
+      "text": "Farther away. No visible motion at this distance.",
+      "file": "af_bella-g13-trial1.mp3",
+      "duration": 3.29
+    },
+    {
+      "id": "g13-step1",
+      "voice": "af_bella",
+      "text": "Does magnetic attraction always need direct contact? A. No. It can act across a gap. B. Yes. It only works by touching.",
+      "file": "af_bella-g13-step1.mp3",
+      "duration": 9.39
+    },
+    {
+      "id": "g13-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g13-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g13-sentence",
+      "voice": "af_bella",
+      "text": "Magnetic force can act without direct contact.",
+      "file": "af_bella-g13-sentence.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "g14-intro",
+      "voice": "af_bella",
+      "text": "Compare magnets A and B using the same iron clip, orientation, and slow approach. Record the largest gap where it moves.",
+      "file": "af_bella-g14-intro.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "g14-fact",
+      "voice": "af_bella",
+      "text": "A comparison supports conclusions about the stated test, not every use.",
+      "file": "af_bella-g14-fact.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "g14-step0",
+      "voice": "af_bella",
+      "text": "Run both measured comparisons.",
+      "file": "af_bella-g14-step0.mp3",
+      "duration": 1.92
+    },
+    {
+      "id": "g14-trial0",
+      "voice": "af_bella",
+      "text": "Magnet A. Clip moves at 2 cm gap in this test.",
+      "file": "af_bella-g14-trial0.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "g14-trial1",
+      "voice": "af_bella",
+      "text": "Magnet B. Clip moves at 4 cm gap in this test.",
+      "file": "af_bella-g14-trial1.mp3",
+      "duration": 3.73
+    },
+    {
+      "id": "g14-step1",
+      "voice": "af_bella",
+      "text": "What does this test support? A. B moved this clip across a larger gap. B. B is best for every possible task.",
+      "file": "af_bella-g14-step1.mp3",
+      "duration": 7.87
+    },
+    {
+      "id": "g14-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g14-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g14-sentence",
+      "voice": "af_bella",
+      "text": "In the same test, magnet B moved the clip from farther away.",
+      "file": "af_bella-g14-sentence.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "g15-intro",
+      "voice": "af_bella",
+      "text": "The recovery bin contains iron nails, aluminum pieces, and wood. Choose materials a magnet can lift.",
+      "file": "af_bella-g15-intro.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "g15-fact",
+      "voice": "af_bella",
+      "text": "One sorting method cannot separate every reusable or recyclable material.",
+      "file": "af_bella-g15-fact.mp3",
+      "duration": 5.25
+    },
+    {
+      "id": "g15-step0",
+      "voice": "af_bella",
+      "text": "Sort by the magnet-test evidence.",
+      "file": "af_bella-g15-step0.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "g15-clue0-0",
+      "voice": "af_bella",
+      "text": "Iron nails. The magnet lifted the iron.",
+      "file": "af_bella-g15-clue0-0.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "g15-clue0-1",
+      "voice": "af_bella",
+      "text": "Aluminum pieces. The classroom magnet did not lift aluminum.",
+      "file": "af_bella-g15-clue0-1.mp3",
+      "duration": 4.31
+    },
+    {
+      "id": "g15-clue0-2",
+      "voice": "af_bella",
+      "text": "Wood scraps. The magnet did not lift wood.",
+      "file": "af_bella-g15-clue0-2.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "g15-step1",
+      "voice": "af_bella",
+      "text": "What should happen to the remaining aluminum? A. It can never be recycled. B. Sort it another way and check local recycling rules.",
+      "file": "af_bella-g15-step1.mp3",
+      "duration": 8.9
+    },
+    {
+      "id": "g15-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g15-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g15-sentence",
+      "voice": "af_bella",
+      "text": "Magnetic sorting helps separate iron from some other materials.",
+      "file": "af_bella-g15-sentence.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "g16-intro",
+      "voice": "af_bella",
+      "text": "Tap to pluck a model string. The sound is synthesized; the drawing slows the vibration so you can see it.",
+      "file": "af_bella-g16-intro.mp3",
+      "duration": 6.95
+    },
+    {
+      "id": "g16-fact",
+      "voice": "af_bella",
+      "text": "Sound comes from vibrations; a real room may briefly echo after the source stops.",
+      "file": "af_bella-g16-fact.mp3",
+      "duration": 5.7
+    },
+    {
+      "id": "g16-step0",
+      "voice": "af_bella",
+      "text": "Compare vibrating and stopped.",
+      "file": "af_bella-g16-step0.mp3",
+      "duration": 1.73
+    },
+    {
+      "id": "g16-trial0",
+      "voice": "af_bella",
+      "text": "Pluck the string. The vibrating source makes a tone.",
+      "file": "af_bella-g16-trial0.mp3",
+      "duration": 3.22
+    },
+    {
+      "id": "g16-trial1",
+      "voice": "af_bella",
+      "text": "Stop the source. The model source stops making sound.",
+      "file": "af_bella-g16-trial1.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "g16-step1",
+      "voice": "af_bella",
+      "text": "What creates this sound? A. The source vibrating B. The color of the string",
+      "file": "af_bella-g16-step1.mp3",
+      "duration": 5.21
+    },
+    {
+      "id": "g16-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g16-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g16-sentence",
+      "voice": "af_bella",
+      "text": "A vibrating source can make sound.",
+      "file": "af_bella-g16-sentence.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "g17-intro",
+      "voice": "af_bella",
+      "text": "Keep the model loudness setting the same. Change how fast the source vibrates.",
+      "file": "af_bella-g17-intro.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "g17-fact",
+      "voice": "af_bella",
+      "text": "Pitch describes high or low sound, not loud or soft.",
+      "file": "af_bella-g17-fact.mp3",
+      "duration": 3.75
+    },
+    {
+      "id": "g17-step0",
+      "voice": "af_bella",
+      "text": "Listen and compare the pitches.",
+      "file": "af_bella-g17-step0.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "g17-trial0",
+      "voice": "af_bella",
+      "text": "Slower vibration. 220 vibrations per second · lower pitch",
+      "file": "af_bella-g17-trial0.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "g17-trial1",
+      "voice": "af_bella",
+      "text": "Faster vibration. 440 vibrations per second · higher pitch",
+      "file": "af_bella-g17-trial1.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "g17-step1",
+      "voice": "af_bella",
+      "text": "Which setting has the higher pitch? A. 220 vibrations per second B. 440 vibrations per second",
+      "file": "af_bella-g17-step1.mp3",
+      "duration": 8.47
+    },
+    {
+      "id": "g17-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g17-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g17-sentence",
+      "voice": "af_bella",
+      "text": "Faster vibrations make a sound with a higher pitch.",
+      "file": "af_bella-g17-sentence.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "g18-intro",
+      "voice": "af_bella",
+      "text": "Keep the frequency at 330 vibrations per second. Change the vibration size. Keep device volume comfortable.",
+      "file": "af_bella-g18-intro.mp3",
+      "duration": 8.64
+    },
+    {
+      "id": "g18-fact",
+      "voice": "af_bella",
+      "text": "Compare loudness with the same source, distance, and device volume.",
+      "file": "af_bella-g18-fact.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "g18-step0",
+      "voice": "af_bella",
+      "text": "Compare two volume settings.",
+      "file": "af_bella-g18-step0.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "g18-trial0",
+      "voice": "af_bella",
+      "text": "Small vibration. Same pitch · softer tone",
+      "file": "af_bella-g18-trial0.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "g18-trial1",
+      "voice": "af_bella",
+      "text": "Larger vibration. Same pitch · louder tone",
+      "file": "af_bella-g18-trial1.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "g18-step1",
+      "voice": "af_bella",
+      "text": "What changed in this pair? A. Pitch only B. Loudness, while pitch stayed the same",
+      "file": "af_bella-g18-step1.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": "g18-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g18-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g18-sentence",
+      "voice": "af_bella",
+      "text": "A larger vibration makes this tone louder, with the same pitch.",
+      "file": "af_bella-g18-sentence.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "g19-intro",
+      "voice": "af_bella",
+      "text": "The station code is low, high, low. Keep each tone short and the loudness comfortable.",
+      "file": "af_bella-g19-intro.mp3",
+      "duration": 6.25
+    },
+    {
+      "id": "g19-fact",
+      "voice": "af_bella",
+      "text": "We can use sound patterns to communicate.",
+      "file": "af_bella-g19-fact.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "g19-step0",
+      "voice": "af_bella",
+      "text": "Arrange the sound code.",
+      "file": "af_bella-g19-step0.mp3",
+      "duration": 1.49
+    },
+    {
+      "id": "g19-clue0-low1",
+      "voice": "af_bella",
+      "text": "First: low. Start with a low tone.",
+      "file": "af_bella-g19-clue0-low1.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "g19-clue0-high",
+      "voice": "af_bella",
+      "text": "Then: high. Use a higher tone in the middle.",
+      "file": "af_bella-g19-clue0-high.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "g19-clue0-low2",
+      "voice": "af_bella",
+      "text": "Last: low. Return to the low tone.",
+      "file": "af_bella-g19-clue0-low2.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "g19-step1",
+      "voice": "af_bella",
+      "text": "To change the pitch without making it louder, what should change? A. Vibration speed B. Only the loudness setting",
+      "file": "af_bella-g19-step1.mp3",
+      "duration": 7.7
+    },
+    {
+      "id": "g19-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g19-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g19-sentence",
+      "voice": "af_bella",
+      "text": "Our message uses a low, a high, and another low tone.",
+      "file": "af_bella-g19-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "g20-intro",
+      "voice": "af_bella",
+      "text": "Deliver a box up a ramp, recover iron with a magnet, and send a gentle sound signal. Use evidence at each step.",
+      "file": "af_bella-g20-intro.mp3",
+      "duration": 8.19
+    },
+    {
+      "id": "g20-fact",
+      "voice": "af_bella",
+      "text": "A good design links a task, a test, and an explanation.",
+      "file": "af_bella-g20-fact.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "g20-step0",
+      "voice": "af_bella",
+      "text": "Match a tool or force to each task.",
+      "file": "af_bella-g20-step0.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g20-clue0-0",
+      "voice": "af_bella",
+      "text": "Lift cargo to the dock. A longer slope can reduce needed force in the model.",
+      "file": "af_bella-g20-clue0-0.mp3",
+      "duration": 5.08
+    },
+    {
+      "id": "g20-clue0-1",
+      "voice": "af_bella",
+      "text": "Collect iron pieces. Iron is attracted by the magnet.",
+      "file": "af_bella-g20-clue0-1.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "g20-clue0-2",
+      "voice": "af_bella",
+      "text": "Send a short tone. Vibrations create the sound.",
+      "file": "af_bella-g20-clue0-2.mp3",
+      "duration": 3.31
+    },
+    {
+      "id": "g20-step1",
+      "voice": "af_bella",
+      "text": "Which explanation uses evidence? A. I tested each tool against the task conditions. B. All tools work equally well for every task.",
+      "file": "af_bella-g20-step1.mp3",
+      "duration": 9.9
+    },
+    {
+      "id": "g20-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-g20-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "g20-sentence",
+      "voice": "af_bella",
+      "text": "I choose a tool, test the result, and explain my evidence.",
+      "file": "af_bella-g20-sentence.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "rev1-intro",
+      "voice": "af_bella",
+      "text": "Seedlings are wilting. Check the roots, light, and water before choosing a plan.",
+      "file": "af_bella-rev1-intro.mp3",
+      "duration": 5.21
+    },
+    {
+      "id": "rev1-fact",
+      "voice": "af_bella",
+      "text": "Use a fair comparison to guide plant care.",
+      "file": "af_bella-rev1-fact.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "rev1-step0",
+      "voice": "af_bella",
+      "text": "Match each plant part to its job.",
+      "file": "af_bella-rev1-step0.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "rev1-clue0-0",
+      "voice": "af_bella",
+      "text": "Roots. These touch the damp soil.",
+      "file": "af_bella-rev1-clue0-0.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "rev1-clue0-1",
+      "voice": "af_bella",
+      "text": "Stem. This connects roots and leaves.",
+      "file": "af_bella-rev1-clue0-1.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "rev1-clue0-2",
+      "voice": "af_bella",
+      "text": "Leaves. These receive light.",
+      "file": "af_bella-rev1-clue0-2.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "rev1-step1",
+      "voice": "af_bella",
+      "text": "Which plan checks one cause at a time? A. Change water, light, and soil together. B. Check soil moisture; compare watering while keeping other conditions the same.",
+      "file": "af_bella-rev1-step1.mp3",
+      "duration": 11.5
+    },
+    {
+      "id": "rev1-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev1-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev1-sentence",
+      "voice": "af_bella",
+      "text": "We check the soil, use water carefully, and compare the results.",
+      "file": "af_bella-rev1-sentence.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "rev2-intro",
+      "voice": "af_bella",
+      "text": "Two records show a frog and a butterfly growing. Compare the evidence, not just size.",
+      "file": "af_bella-rev2-intro.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "rev2-fact",
+      "voice": "af_bella",
+      "text": "Life cycles show changes over time; classification uses body evidence.",
+      "file": "af_bella-rev2-fact.mp3",
+      "duration": 5.44
+    },
+    {
+      "id": "rev2-step0",
+      "voice": "af_bella",
+      "text": "Rebuild the frog life cycle from an egg.",
+      "file": "af_bella-rev2-step0.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "rev2-clue0-0",
+      "voice": "af_bella",
+      "text": "Egg. Development begins inside the egg.",
+      "file": "af_bella-rev2-clue0-0.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "rev2-clue0-1",
+      "voice": "af_bella",
+      "text": "Tadpole. It has a tail and no legs at first.",
+      "file": "af_bella-rev2-clue0-1.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "rev2-clue0-2",
+      "voice": "af_bella",
+      "text": "Froglet. Legs develop; the tail becomes shorter.",
+      "file": "af_bella-rev2-clue0-2.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "rev2-clue0-3",
+      "voice": "af_bella",
+      "text": "Adult frog. An adult can reproduce.",
+      "file": "af_bella-rev2-clue0-3.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "rev2-step1",
+      "voice": "af_bella",
+      "text": "Which animal has a backbone? A. Butterfly B. Frog",
+      "file": "af_bella-rev2-step1.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "rev2-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev2-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev2-sentence",
+      "voice": "af_bella",
+      "text": "A frog changes during its life cycle, but it remains a frog.",
+      "file": "af_bella-rev2-sentence.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "rev3-intro",
+      "voice": "af_bella",
+      "text": "An undisturbed rock layer contains a shell fossil. A footprint is preserved in another rock.",
+      "file": "af_bella-rev3-intro.mp3",
+      "duration": 6.12
+    },
+    {
+      "id": "rev3-fact",
+      "voice": "af_bella",
+      "text": "Use fossils as evidence and state what the evidence cannot tell you.",
+      "file": "af_bella-rev3-fact.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "rev3-step0",
+      "voice": "af_bella",
+      "text": "Separate observation from inference.",
+      "file": "af_bella-rev3-step0.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "rev3-clue0-0",
+      "voice": "af_bella",
+      "text": "A shell shape is preserved. This is directly visible.",
+      "file": "af_bella-rev3-clue0-0.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "rev3-clue0-1",
+      "voice": "af_bella",
+      "text": "An animal made the footprint. We interpret a trace.",
+      "file": "af_bella-rev3-clue0-1.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "rev3-clue0-2",
+      "voice": "af_bella",
+      "text": "The footprint has three toes. Count visible toe marks.",
+      "file": "af_bella-rev3-clue0-2.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "rev3-step1",
+      "voice": "af_bella",
+      "text": "Can this footprint alone tell us the animal’s exact skin color? A. Yes B. No; the evidence is not enough.",
+      "file": "af_bella-rev3-step1.mp3",
+      "duration": 7.85
+    },
+    {
+      "id": "rev3-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev3-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev3-sentence",
+      "voice": "af_bella",
+      "text": "The fossil gives us clues, but some details remain unknown.",
+      "file": "af_bella-rev3-sentence.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "rev4-intro",
+      "voice": "af_bella",
+      "text": "An exhibition needs paper signs, a wooden shelf, and metal clips. Repair and reuse when possible.",
+      "file": "af_bella-rev4-intro.mp3",
+      "duration": 7.02
+    },
+    {
+      "id": "rev4-fact",
+      "voice": "af_bella",
+      "text": "Choose between reduce, repair, reuse, and recycling using the item’s condition.",
+      "file": "af_bella-rev4-fact.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "rev4-step0",
+      "voice": "af_bella",
+      "text": "Trace materials back to resources.",
+      "file": "af_bella-rev4-step0.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "rev4-clue0-0",
+      "voice": "af_bella",
+      "text": "Paper sign. Paper pulp often comes from wood or recovered paper.",
+      "file": "af_bella-rev4-clue0-0.mp3",
+      "duration": 4.59
+    },
+    {
+      "id": "rev4-clue0-1",
+      "voice": "af_bella",
+      "text": "Wooden shelf. Timber comes from trees.",
+      "file": "af_bella-rev4-clue0-1.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "rev4-clue0-2",
+      "voice": "af_bella",
+      "text": "Iron clip. Iron is obtained from iron ore and recycled iron.",
+      "file": "af_bella-rev4-clue0-2.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "rev4-clue0-3",
+      "voice": "af_bella",
+      "text": "Conventional plastic handle. Many conventional plastics use petroleum feedstocks.",
+      "file": "af_bella-rev4-clue0-3.mp3",
+      "duration": 5.63
+    },
+    {
+      "id": "rev4-step1",
+      "voice": "af_bella",
+      "text": "The shelf has one loose screw. What is a useful first step? A. Throw the whole shelf away. B. Ask an adult to repair it, then check it is safe to use.",
+      "file": "af_bella-rev4-step1.mp3",
+      "duration": 10.5
+    },
+    {
+      "id": "rev4-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev4-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev4-sentence",
+      "voice": "af_bella",
+      "text": "Repairing and reusing can reduce the need for new materials.",
+      "file": "af_bella-rev4-sentence.mp3",
+      "duration": 4.31
+    },
+    {
+      "id": "rev5-intro",
+      "voice": "af_bella",
+      "text": "Two carts travel for 4 seconds. A goes 8 units and B goes 12. The stopping zone is 10–14 units.",
+      "file": "af_bella-rev5-intro.mp3",
+      "duration": 7.81
+    },
+    {
+      "id": "rev5-fact",
+      "voice": "af_bella",
+      "text": "Use both time and distance, then check the delivery condition.",
+      "file": "af_bella-rev5-fact.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "rev5-step0",
+      "voice": "af_bella",
+      "text": "Which cart’s final position is in the stopping zone? A. A: 8 units B. B: 12 units",
+      "file": "af_bella-rev5-step0.mp3",
+      "duration": 6.91
+    },
+    {
+      "id": "rev5-step1",
+      "voice": "af_bella",
+      "text": "Which has greater average speed over the same 4 seconds? A. B B. A C. Not enough information",
+      "file": "af_bella-rev5-step1.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "rev5-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev5-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev5-sentence",
+      "voice": "af_bella",
+      "text": "Cart B travels farther in the same time and stops in the target zone.",
+      "file": "af_bella-rev5-sentence.mp3",
+      "duration": 4.22
+    },
+    {
+      "id": "rev6-intro",
+      "voice": "af_bella",
+      "text": "Use a magnet to collect iron pieces, a ramp to move cargo, and a tone to signal completion.",
+      "file": "af_bella-rev6-intro.mp3",
+      "duration": 6.61
+    },
+    {
+      "id": "rev6-fact",
+      "voice": "af_bella",
+      "text": "Transfer a tested idea to a new repair task.",
+      "file": "af_bella-rev6-fact.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "rev6-step0",
+      "voice": "af_bella",
+      "text": "Test how to bring the magnets closer.",
+      "file": "af_bella-rev6-step0.mp3",
+      "duration": 2.22
+    },
+    {
+      "id": "rev6-trial0",
+      "voice": "af_bella",
+      "text": "N facing N. Like poles repel.",
+      "file": "af_bella-rev6-trial0.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "rev6-trial1",
+      "voice": "af_bella",
+      "text": "N facing S. Unlike poles attract.",
+      "file": "af_bella-rev6-trial1.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "rev6-step1",
+      "voice": "af_bella",
+      "text": "We need a higher tone, not a louder tone. What should change? A. Vibration speed B. Only vibration size",
+      "file": "af_bella-rev6-step1.mp3",
+      "duration": 7.77
+    },
+    {
+      "id": "rev6-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev6-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev6-sentence",
+      "voice": "af_bella",
+      "text": "I compare the settings and choose a tool using the evidence.",
+      "file": "af_bella-rev6-sentence.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "rev7-intro",
+      "voice": "af_bella",
+      "text": "Visitors want to know how you reached your conclusions. Build a clear scientific explanation.",
+      "file": "af_bella-rev7-intro.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "rev7-fact",
+      "voice": "af_bella",
+      "text": "A scientific explanation connects a claim with evidence and its limits.",
+      "file": "af_bella-rev7-fact.mp3",
+      "duration": 4.8
+    },
+    {
+      "id": "rev7-step0",
+      "voice": "af_bella",
+      "text": "Same cups, soil amounts, and water added. Cup A drains 60 mL; B drains 20 mL in one minute. Which drains more? A. Cup A B. Cup B C. They are equal",
+      "file": "af_bella-rev7-step0.mp3",
+      "duration": 12.33
+    },
+    {
+      "id": "rev7-step1",
+      "voice": "af_bella",
+      "text": "Which label belongs in the exhibition? A. A always has the best soil for every plant. B. In this test, more water drained from sample A in one minute.",
+      "file": "af_bella-rev7-step1.mp3",
+      "duration": 10.79
+    },
+    {
+      "id": "rev7-step2",
+      "voice": "af_bella",
+      "text": "Build an explanation from your evidence.",
+      "file": "af_bella-rev7-step2.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "rev7-sentence",
+      "voice": "af_bella",
+      "text": "We observed, compared, and tested. Our records support our explanation. We still have questions to investigate.",
+      "file": "af_bella-rev7-sentence.mp3",
+      "duration": 7.79
+    },
+    {
+      "id": "ex0-0",
+      "voice": "af_bella",
+      "text": "Which part takes water from soil into this bean plant? A. Roots B. Flower C. Fruit",
+      "file": "af_bella-ex0-0.mp3",
+      "duration": 6.08
+    },
+    {
+      "id": "ex0-0-explain",
+      "voice": "af_bella",
+      "text": "Roots take in water from soil.",
+      "file": "af_bella-ex0-0-explain.mp3",
+      "duration": 1.83
+    },
+    {
+      "id": "ex0-4",
+      "voice": "af_bella",
+      "text": "Which animal has a backbone? A. Frog B. Butterfly C. Rabbit",
+      "file": "af_bella-ex0-4.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "ex0-4-explain",
+      "voice": "af_bella",
+      "text": "Frogs and rabbits are vertebrates; butterflies are invertebrates.",
+      "file": "af_bella-ex0-4-explain.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "ex0-8",
+      "voice": "af_bella",
+      "text": "Which property can this picture show? A. How rough it feels B. Visible color and shape C. Its exact mass",
+      "file": "af_bella-ex0-8.mp3",
+      "duration": 7.23
+    },
+    {
+      "id": "ex0-8-explain",
+      "voice": "af_bella",
+      "text": "Pictures can show color and shape; touch is needed to test feel.",
+      "file": "af_bella-ex0-8-explain.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "ex0-12",
+      "voice": "af_bella",
+      "text": "Which is a trace fossil? A. A preserved tooth B. A preserved footprint C. A living leaf",
+      "file": "af_bella-ex0-12.mp3",
+      "duration": 5.89
+    },
+    {
+      "id": "ex0-12-explain",
+      "voice": "af_bella",
+      "text": "A footprint is a trace of past activity.",
+      "file": "af_bella-ex0-12-explain.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "ex0-16",
+      "voice": "af_bella",
+      "text": "Which resource is used to make a wooden chair? A. Petroleum B. Trees C. Coal",
+      "file": "af_bella-ex0-16.mp3",
+      "duration": 5.35
+    },
+    {
+      "id": "ex0-16-explain",
+      "voice": "af_bella",
+      "text": "Wood comes from trees.",
+      "file": "af_bella-ex0-16-explain.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "ex0-20",
+      "voice": "af_bella",
+      "text": "Place the sample to the left of the tree.",
+      "file": "af_bella-ex0-20.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "ex0-20-explain",
+      "voice": "af_bella",
+      "text": "Use the tree as the fixed reference.",
+      "file": "af_bella-ex0-20-explain.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "ex0-24",
+      "voice": "af_bella",
+      "text": "The same load reaches the same height. A frictionless ramp is made longer and shallower. What changes? A. Less force along the ramp, but more distance B. Less force and no distance C. Gravity disappears",
+      "file": "af_bella-ex0-24.mp3",
+      "duration": 14.29
+    },
+    {
+      "id": "ex0-24-explain",
+      "voice": "af_bella",
+      "text": "A ramp trades distance for reduced force in this model.",
+      "file": "af_bella-ex0-24-explain.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "ex0-1",
+      "voice": "af_bella",
+      "text": "A bean fruit contains seeds. What is one job of the fruit? A. Take in water from soil B. Protect seeds C. Make roots disappear",
+      "file": "af_bella-ex0-1.mp3",
+      "duration": 9.49
+    },
+    {
+      "id": "ex0-1-explain",
+      "voice": "af_bella",
+      "text": "A fruit can protect seeds.",
+      "file": "af_bella-ex0-1-explain.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "ex0-5",
+      "voice": "af_bella",
+      "text": "Which stage comes after a tadpole develops legs? A. Egg B. Froglet C. Pupa",
+      "file": "af_bella-ex0-5.mp3",
+      "duration": 6.08
+    },
+    {
+      "id": "ex0-5-explain",
+      "voice": "af_bella",
+      "text": "A tadpole develops into a froglet.",
+      "file": "af_bella-ex0-5-explain.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "ex0-9",
+      "voice": "af_bella",
+      "text": "Which comparison is fair for drainage? A. Same soil amount, cup, added water, and time B. Different soil amounts and different water amounts C. Change every condition",
+      "file": "af_bella-ex0-9.mp3",
+      "duration": 11.71
+    },
+    {
+      "id": "ex0-9-explain",
+      "voice": "af_bella",
+      "text": "Keep other conditions the same when comparing soil samples.",
+      "file": "af_bella-ex0-9-explain.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "ex0-13",
+      "voice": "af_bella",
+      "text": "These layers have not been overturned or disturbed. Which layer was deposited first? A. Upper layer B. Lower layer",
+      "file": "af_bella-ex0-13.mp3",
+      "duration": 8.17
+    },
+    {
+      "id": "ex0-13-explain",
+      "voice": "af_bella",
+      "text": "In this undisturbed sequence, the lower layer is older.",
+      "file": "af_bella-ex0-13-explain.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "ex0-17",
+      "voice": "af_bella",
+      "text": "Which statement about petroleum is accurate? A. It can supply fuel and raw materials for many plastics. B. It regrows in one school year. C. It never has environmental impacts.",
+      "file": "af_bella-ex0-17.mp3",
+      "duration": 13.72
+    },
+    {
+      "id": "ex0-17-explain",
+      "voice": "af_bella",
+      "text": "Fossil fuels form over very long times and are nonrenewable on human timescales.",
+      "file": "af_bella-ex0-17-explain.mp3",
+      "duration": 5.61
+    },
+    {
+      "id": "ex0-21",
+      "voice": "af_bella",
+      "text": "Both carts travel for 3 seconds. Which has greater average speed? A. A B. B C. Equal",
+      "file": "af_bella-ex0-21.mp3",
+      "duration": 6.95
+    },
+    {
+      "id": "ex0-21-explain",
+      "voice": "af_bella",
+      "text": "For equal time, compare distance traveled.",
+      "file": "af_bella-ex0-21-explain.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "ex0-25",
+      "voice": "af_bella",
+      "text": "What happens when these facing poles meet? A. Attract B. Repel",
+      "file": "af_bella-ex0-25.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "ex0-25-explain",
+      "voice": "af_bella",
+      "text": "Unlike poles attract; like poles repel.",
+      "file": "af_bella-ex0-25-explain.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "ex0-2",
+      "voice": "af_bella",
+      "text": "Read the seedling chart. Which group has more seedlings? A. Group A B. Group B C. They are equal",
+      "file": "af_bella-ex0-2.mp3",
+      "duration": 6.55
+    },
+    {
+      "id": "ex0-2-explain",
+      "voice": "af_bella",
+      "text": "Compare the heights and values of the bars.",
+      "file": "af_bella-ex0-2-explain.mp3",
+      "duration": 2.5
+    },
+    {
+      "id": "ex0-6",
+      "voice": "af_bella",
+      "text": "Which group is one population? A. Different animals across the whole island B. Same-species frogs living together in one pond C. All rocks and plants",
+      "file": "af_bella-ex0-6.mp3",
+      "duration": 11.01
+    },
+    {
+      "id": "ex0-6-explain",
+      "voice": "af_bella",
+      "text": "A population is members of one species living in the same area.",
+      "file": "af_bella-ex0-6-explain.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "ex0-10",
+      "voice": "af_bella",
+      "text": "Same test conditions. Which sample drained less water in one minute? A. A B. B C. Equal",
+      "file": "af_bella-ex0-10.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "ex0-10-explain",
+      "voice": "af_bella",
+      "text": "Read the smaller collected-water value.",
+      "file": "af_bella-ex0-10-explain.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "ex0-14",
+      "voice": "af_bella",
+      "text": "A fossil footprint has three toes. What can we directly observe? A. The animal’s exact color B. The three toe marks C. The animal’s exact call",
+      "file": "af_bella-ex0-14.mp3",
+      "duration": 10.54
+    },
+    {
+      "id": "ex0-14-explain",
+      "voice": "af_bella",
+      "text": "Separate visible evidence from details the fossil does not preserve.",
+      "file": "af_bella-ex0-14-explain.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "ex0-18",
+      "voice": "af_bella",
+      "text": "A usable jar is empty. Which action reuses it? A. Use it to store pencils B. Burn it C. Buy a new container immediately",
+      "file": "af_bella-ex0-18.mp3",
+      "duration": 9.13
+    },
+    {
+      "id": "ex0-18-explain",
+      "voice": "af_bella",
+      "text": "Reuse keeps an item in use without first turning it into a new material.",
+      "file": "af_bella-ex0-18-explain.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "ex0-22",
+      "voice": "af_bella",
+      "text": "A cart stops beyond the target. Which is a useful next test? A. Change cart, track, and brakes together B. Keep cart and track; try earlier braking C. Ignore the first record",
+      "file": "af_bella-ex0-22.mp3",
+      "duration": 12.63
+    },
+    {
+      "id": "ex0-22-explain",
+      "voice": "af_bella",
+      "text": "Use the failed trial to change one relevant condition.",
+      "file": "af_bella-ex0-22-explain.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "ex0-26",
+      "voice": "af_bella",
+      "text": "Which source has the higher pitch? A. 200 vibrations per second B. 400 vibrations per second",
+      "file": "af_bella-ex0-26.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "ex0-26-explain",
+      "voice": "af_bella",
+      "text": "Faster vibrations produce a higher pitch.",
+      "file": "af_bella-ex0-26-explain.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "ex0-3",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-3.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-3-explain",
+      "voice": "af_bella",
+      "text": "Leaves use light to make food for the plant.",
+      "file": "af_bella-ex0-3-explain.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "ex0-7",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-7.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-7-explain",
+      "voice": "af_bella",
+      "text": "A tadpole grows legs and develops into a froglet.",
+      "file": "af_bella-ex0-7-explain.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "ex0-11",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-11.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-11-explain",
+      "voice": "af_bella",
+      "text": "We compare the samples under the same conditions.",
+      "file": "af_bella-ex0-11-explain.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "ex0-15",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-15.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-15-explain",
+      "voice": "af_bella",
+      "text": "A fossil gives us evidence about life in the past.",
+      "file": "af_bella-ex0-15-explain.mp3",
+      "duration": 3.41
+    },
+    {
+      "id": "ex0-19",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-19.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-19-explain",
+      "voice": "af_bella",
+      "text": "Repairing useful items can reduce waste.",
+      "file": "af_bella-ex0-19-explain.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "ex0-23",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-23.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-23-explain",
+      "voice": "af_bella",
+      "text": "The cart travels farther in the same time, so its average speed is greater.",
+      "file": "af_bella-ex0-23-explain.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "ex0-27",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex0-27.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex0-27-explain",
+      "voice": "af_bella",
+      "text": "Gravity pulls objects toward Earth’s center.",
+      "file": "af_bella-ex0-27-explain.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "ex1-0",
+      "voice": "af_bella",
+      "text": "Which part takes water from soil into this sunflower plant? A. Roots B. Flower C. Fruit",
+      "file": "af_bella-ex1-0.mp3",
+      "duration": 6.55
+    },
+    {
+      "id": "ex1-0-explain",
+      "voice": "af_bella",
+      "text": "Roots take in water from soil.",
+      "file": "af_bella-ex1-0-explain.mp3",
+      "duration": 1.83
+    },
+    {
+      "id": "ex1-4",
+      "voice": "af_bella",
+      "text": "Which animal has no backbone? A. Frog B. Butterfly C. Rabbit",
+      "file": "af_bella-ex1-4.mp3",
+      "duration": 4.91
+    },
+    {
+      "id": "ex1-4-explain",
+      "voice": "af_bella",
+      "text": "Frogs and rabbits are vertebrates; butterflies are invertebrates.",
+      "file": "af_bella-ex1-4-explain.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "ex1-8",
+      "voice": "af_bella",
+      "text": "Which property needs a real touch test, not just a picture? A. How rough it feels B. Visible color and shape C. Its exact mass",
+      "file": "af_bella-ex1-8.mp3",
+      "duration": 9.02
+    },
+    {
+      "id": "ex1-8-explain",
+      "voice": "af_bella",
+      "text": "Pictures can show color and shape; touch is needed to test feel.",
+      "file": "af_bella-ex1-8-explain.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "ex1-12",
+      "voice": "af_bella",
+      "text": "Which evidence records an animal’s activity? A. A preserved tooth B. A preserved footprint C. A living leaf",
+      "file": "af_bella-ex1-12.mp3",
+      "duration": 7.77
+    },
+    {
+      "id": "ex1-12-explain",
+      "voice": "af_bella",
+      "text": "A footprint is a trace of past activity.",
+      "file": "af_bella-ex1-12-explain.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "ex1-16",
+      "voice": "af_bella",
+      "text": "Which resource supplies wood pulp for paper? A. Petroleum B. Trees C. Coal",
+      "file": "af_bella-ex1-16.mp3",
+      "duration": 5.46
+    },
+    {
+      "id": "ex1-16-explain",
+      "voice": "af_bella",
+      "text": "Wood comes from trees.",
+      "file": "af_bella-ex1-16-explain.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "ex1-20",
+      "voice": "af_bella",
+      "text": "Place the sample to the right of the tree.",
+      "file": "af_bella-ex1-20.mp3",
+      "duration": 2.26
+    },
+    {
+      "id": "ex1-20-explain",
+      "voice": "af_bella",
+      "text": "Use the tree as the fixed reference.",
+      "file": "af_bella-ex1-20-explain.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "ex1-24",
+      "voice": "af_bella",
+      "text": "The same load reaches the same height. A frictionless ramp is made longer and shallower. What changes? A. Less force along the ramp, but more distance B. Less force and no distance C. Gravity disappears",
+      "file": "af_bella-ex1-24.mp3",
+      "duration": 14.29
+    },
+    {
+      "id": "ex1-24-explain",
+      "voice": "af_bella",
+      "text": "A ramp trades distance for reduced force in this model.",
+      "file": "af_bella-ex1-24-explain.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "ex1-1",
+      "voice": "af_bella",
+      "text": "A sunflower fruit contains seeds. What is one job of the fruit? A. Take in water from soil B. Protect seeds C. Make roots disappear",
+      "file": "af_bella-ex1-1.mp3",
+      "duration": 9.77
+    },
+    {
+      "id": "ex1-1-explain",
+      "voice": "af_bella",
+      "text": "A fruit can protect seeds.",
+      "file": "af_bella-ex1-1-explain.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "ex1-5",
+      "voice": "af_bella",
+      "text": "Which stage is between a caterpillar and an adult butterfly? A. Egg B. Froglet C. Pupa",
+      "file": "af_bella-ex1-5.mp3",
+      "duration": 6.68
+    },
+    {
+      "id": "ex1-5-explain",
+      "voice": "af_bella",
+      "text": "A caterpillar becomes a pupa before the adult emerges.",
+      "file": "af_bella-ex1-5-explain.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "ex1-9",
+      "voice": "af_bella",
+      "text": "Which comparison is fair for drainage? A. Same soil amount, cup, added water, and time B. Different soil amounts and different water amounts C. Change every condition",
+      "file": "af_bella-ex1-9.mp3",
+      "duration": 11.71
+    },
+    {
+      "id": "ex1-9-explain",
+      "voice": "af_bella",
+      "text": "Keep other conditions the same when comparing soil samples.",
+      "file": "af_bella-ex1-9-explain.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "ex1-13",
+      "voice": "af_bella",
+      "text": "These layers have not been overturned or disturbed. Which layer was deposited first? A. Upper layer B. Lower layer",
+      "file": "af_bella-ex1-13.mp3",
+      "duration": 8.17
+    },
+    {
+      "id": "ex1-13-explain",
+      "voice": "af_bella",
+      "text": "In this undisturbed sequence, the lower layer is older.",
+      "file": "af_bella-ex1-13-explain.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "ex1-17",
+      "voice": "af_bella",
+      "text": "Which statement about coal is accurate? A. It can be burned for heat and electricity. B. It regrows in one school year. C. It never has environmental impacts.",
+      "file": "af_bella-ex1-17.mp3",
+      "duration": 11.84
+    },
+    {
+      "id": "ex1-17-explain",
+      "voice": "af_bella",
+      "text": "Fossil fuels form over very long times and are nonrenewable on human timescales.",
+      "file": "af_bella-ex1-17-explain.mp3",
+      "duration": 5.61
+    },
+    {
+      "id": "ex1-21",
+      "voice": "af_bella",
+      "text": "Both carts travel for 3 seconds. Which has greater average speed? A. A B. B C. Equal",
+      "file": "af_bella-ex1-21.mp3",
+      "duration": 6.95
+    },
+    {
+      "id": "ex1-21-explain",
+      "voice": "af_bella",
+      "text": "For equal time, compare distance traveled.",
+      "file": "af_bella-ex1-21-explain.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "ex1-25",
+      "voice": "af_bella",
+      "text": "What happens when these facing poles meet? A. Attract B. Repel",
+      "file": "af_bella-ex1-25.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "ex1-25-explain",
+      "voice": "af_bella",
+      "text": "Unlike poles attract; like poles repel.",
+      "file": "af_bella-ex1-25-explain.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "ex1-2",
+      "voice": "af_bella",
+      "text": "Read the seedling chart. Which group has more seedlings? A. Group A B. Group B C. They are equal",
+      "file": "af_bella-ex1-2.mp3",
+      "duration": 6.55
+    },
+    {
+      "id": "ex1-2-explain",
+      "voice": "af_bella",
+      "text": "Compare the heights and values of the bars.",
+      "file": "af_bella-ex1-2-explain.mp3",
+      "duration": 2.5
+    },
+    {
+      "id": "ex1-6",
+      "voice": "af_bella",
+      "text": "Which group is one population? A. Different animals across the whole island B. Same-species rabbits living together in one meadow C. All rocks and plants",
+      "file": "af_bella-ex1-6.mp3",
+      "duration": 10.92
+    },
+    {
+      "id": "ex1-6-explain",
+      "voice": "af_bella",
+      "text": "A population is members of one species living in the same area.",
+      "file": "af_bella-ex1-6-explain.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "ex1-10",
+      "voice": "af_bella",
+      "text": "Same test conditions. Which sample drained less water in one minute? A. A B. B C. Equal",
+      "file": "af_bella-ex1-10.mp3",
+      "duration": 6.72
+    },
+    {
+      "id": "ex1-10-explain",
+      "voice": "af_bella",
+      "text": "Read the smaller collected-water value.",
+      "file": "af_bella-ex1-10-explain.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "ex1-14",
+      "voice": "af_bella",
+      "text": "A fossil shell has ridges. What can we directly observe? A. The animal’s exact color B. The preserved ridges C. The animal’s exact call",
+      "file": "af_bella-ex1-14.mp3",
+      "duration": 10.13
+    },
+    {
+      "id": "ex1-14-explain",
+      "voice": "af_bella",
+      "text": "Separate visible evidence from details the fossil does not preserve.",
+      "file": "af_bella-ex1-14-explain.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "ex1-18",
+      "voice": "af_bella",
+      "text": "A sturdy box is empty. Which action reuses it? A. Use it to store pencils B. Burn it C. Buy a new container immediately",
+      "file": "af_bella-ex1-18.mp3",
+      "duration": 8.9
+    },
+    {
+      "id": "ex1-18-explain",
+      "voice": "af_bella",
+      "text": "Reuse keeps an item in use without first turning it into a new material.",
+      "file": "af_bella-ex1-18-explain.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "ex1-22",
+      "voice": "af_bella",
+      "text": "A cart stops before the target. Which is a useful next test? A. Change cart, track, and brakes together B. Keep cart and track; try later braking C. Ignore the first record",
+      "file": "af_bella-ex1-22.mp3",
+      "duration": 12.54
+    },
+    {
+      "id": "ex1-22-explain",
+      "voice": "af_bella",
+      "text": "Use the failed trial to change one relevant condition.",
+      "file": "af_bella-ex1-22-explain.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "ex1-26",
+      "voice": "af_bella",
+      "text": "Which source has the higher pitch? A. 200 vibrations per second B. 400 vibrations per second",
+      "file": "af_bella-ex1-26.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "ex1-26-explain",
+      "voice": "af_bella",
+      "text": "Faster vibrations produce a higher pitch.",
+      "file": "af_bella-ex1-26-explain.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "ex1-3",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-3.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-3-explain",
+      "voice": "af_bella",
+      "text": "Roots take in water and minerals from the soil.",
+      "file": "af_bella-ex1-3-explain.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "ex1-7",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-7.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-7-explain",
+      "voice": "af_bella",
+      "text": "A butterfly has no backbone, so it is an invertebrate.",
+      "file": "af_bella-ex1-7-explain.mp3",
+      "duration": 3.56
+    },
+    {
+      "id": "ex1-11",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-11.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-11-explain",
+      "voice": "af_bella",
+      "text": "Sample A and sample B must have the same amount of soil.",
+      "file": "af_bella-ex1-11-explain.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "ex1-15",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-15.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-15-explain",
+      "voice": "af_bella",
+      "text": "This footprint does not tell us the animal’s exact color.",
+      "file": "af_bella-ex1-15-explain.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "ex1-19",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-19.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-19-explain",
+      "voice": "af_bella",
+      "text": "Recycling rules can differ between places.",
+      "file": "af_bella-ex1-19-explain.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "ex1-23",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-23.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-23-explain",
+      "voice": "af_bella",
+      "text": "I change the braking point and keep the other conditions the same.",
+      "file": "af_bella-ex1-23-explain.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": "ex1-27",
+      "voice": "af_bella",
+      "text": "Build the sentence.",
+      "file": "af_bella-ex1-27.mp3",
+      "duration": 1.22
+    },
+    {
+      "id": "ex1-27-explain",
+      "voice": "af_bella",
+      "text": "A vibrating source can make sound.",
+      "file": "af_bella-ex1-27-explain.mp3",
+      "duration": 2.07
+    }
+  ]
+}

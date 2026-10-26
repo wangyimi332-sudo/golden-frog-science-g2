@@ -1,0 +1,214 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "welcome",
+      "voice": "af_heart",
+      "text": "Welcome to Science Island! I am your Golden Frog explorer. Together, we will observe plants, follow the evidence, and discover how living things grow. Let your curiosity lead the way.",
+      "path": "af_heart-welcome.mp3",
+      "duration": 11.95,
+      "sample_rate": 24000
+    },
+    {
+      "id": "parts",
+      "voice": "af_heart",
+      "text": "Look closely at a plant. Which part takes in water from the soil?",
+      "path": "af_heart-parts.mp3",
+      "duration": 3.71,
+      "sample_rate": 24000
+    },
+    {
+      "id": "parts-fact",
+      "voice": "af_heart",
+      "text": "Roots take in water and minerals. Stems support the plant and carry water. Leaves use light to make food.",
+      "path": "af_heart-parts-fact.mp3",
+      "duration": 6.63,
+      "sample_rate": 24000
+    },
+    {
+      "id": "observe",
+      "voice": "af_heart",
+      "text": "Observe the two leaves. Compare their shapes before you classify them.",
+      "path": "af_heart-observe.mp3",
+      "duration": 4.07,
+      "sample_rate": 24000
+    },
+    {
+      "id": "observe-fact",
+      "voice": "af_heart",
+      "text": "We can observe leaf shape and color. We need to touch real leaves to compare how they feel.",
+      "path": "af_heart-observe-fact.mp3",
+      "duration": 5.16,
+      "sample_rate": 24000
+    },
+    {
+      "id": "flowers",
+      "voice": "af_heart",
+      "text": "Follow a bean flower. Pollen helps the plant make seeds. What develops around the seeds?",
+      "path": "af_heart-flowers.mp3",
+      "duration": 5.44,
+      "sample_rate": 24000
+    },
+    {
+      "id": "flowers-fact",
+      "voice": "af_heart",
+      "text": "After pollination and fertilization, a bean flower can develop into a pod. The pod is a fruit that protects the seeds.",
+      "path": "af_heart-flowers-fact.mp3",
+      "duration": 7.77,
+      "sample_rate": 24000
+    },
+    {
+      "id": "cycle",
+      "voice": "af_heart",
+      "text": "Put the stages of a bean plant in order, starting with a seed.",
+      "path": "af_heart-cycle.mp3",
+      "duration": 3.58,
+      "sample_rate": 24000
+    },
+    {
+      "id": "cycle-fact",
+      "voice": "af_heart",
+      "text": "A bean seed can germinate, grow into a seedling, and become a mature plant. It can then make flowers, fruits, and new seeds.",
+      "path": "af_heart-cycle-fact.mp3",
+      "duration": 7.79,
+      "sample_rate": 24000
+    },
+    {
+      "id": "light",
+      "voice": "af_heart",
+      "text": "Move the light. Observe how the young shoot changes its direction.",
+      "path": "af_heart-light.mp3",
+      "duration": 3.93,
+      "sample_rate": 24000
+    },
+    {
+      "id": "light-fact",
+      "voice": "af_heart",
+      "text": "Many young shoots grow toward light. Roots usually grow downward in response to gravity. This diagram is a model, not a real time experiment.",
+      "path": "af_heart-light-fact.mp3",
+      "duration": 9.71,
+      "sample_rate": 24000
+    },
+    {
+      "id": "challenge",
+      "voice": "af_heart",
+      "text": "Use what you have discovered. Read the evidence and explain your choices.",
+      "path": "af_heart-challenge.mp3",
+      "duration": 4.12,
+      "sample_rate": 24000
+    },
+    {
+      "id": "challenge-fact",
+      "voice": "af_heart",
+      "text": "A good scientist observes carefully, compares evidence, and explains a conclusion. Keep asking questions!",
+      "path": "af_heart-challenge-fact.mp3",
+      "duration": 6.83,
+      "sample_rate": 24000
+    },
+    {
+      "id": "welcome",
+      "voice": "af_bella",
+      "text": "Welcome to Science Island! I am your Golden Frog explorer. Together, we will observe plants, follow the evidence, and discover how living things grow. Let your curiosity lead the way.",
+      "path": "af_bella-welcome.mp3",
+      "duration": 12.14,
+      "sample_rate": 24000
+    },
+    {
+      "id": "parts",
+      "voice": "af_bella",
+      "text": "Look closely at a plant. Which part takes in water from the soil?",
+      "path": "af_bella-parts.mp3",
+      "duration": 3.78,
+      "sample_rate": 24000
+    },
+    {
+      "id": "parts-fact",
+      "voice": "af_bella",
+      "text": "Roots take in water and minerals. Stems support the plant and carry water. Leaves use light to make food.",
+      "path": "af_bella-parts-fact.mp3",
+      "duration": 6.89,
+      "sample_rate": 24000
+    },
+    {
+      "id": "observe",
+      "voice": "af_bella",
+      "text": "Observe the two leaves. Compare their shapes before you classify them.",
+      "path": "af_bella-observe.mp3",
+      "duration": 4.16,
+      "sample_rate": 24000
+    },
+    {
+      "id": "observe-fact",
+      "voice": "af_bella",
+      "text": "We can observe leaf shape and color. We need to touch real leaves to compare how they feel.",
+      "path": "af_bella-observe-fact.mp3",
+      "duration": 5.35,
+      "sample_rate": 24000
+    },
+    {
+      "id": "flowers",
+      "voice": "af_bella",
+      "text": "Follow a bean flower. Pollen helps the plant make seeds. What develops around the seeds?",
+      "path": "af_bella-flowers.mp3",
+      "duration": 5.63,
+      "sample_rate": 24000
+    },
+    {
+      "id": "flowers-fact",
+      "voice": "af_bella",
+      "text": "After pollination and fertilization, a bean flower can develop into a pod. The pod is a fruit that protects the seeds.",
+      "path": "af_bella-flowers-fact.mp3",
+      "duration": 7.91,
+      "sample_rate": 24000
+    },
+    {
+      "id": "cycle",
+      "voice": "af_bella",
+      "text": "Put the stages of a bean plant in order, starting with a seed.",
+      "path": "af_bella-cycle.mp3",
+      "duration": 3.5,
+      "sample_rate": 24000
+    },
+    {
+      "id": "cycle-fact",
+      "voice": "af_bella",
+      "text": "A bean seed can germinate, grow into a seedling, and become a mature plant. It can then make flowers, fruits, and new seeds.",
+      "path": "af_bella-cycle-fact.mp3",
+      "duration": 8.34,
+      "sample_rate": 24000
+    },
+    {
+      "id": "light",
+      "voice": "af_bella",
+      "text": "Move the light. Observe how the young shoot changes its direction.",
+      "path": "af_bella-light.mp3",
+      "duration": 4.18,
+      "sample_rate": 24000
+    },
+    {
+      "id": "light-fact",
+      "voice": "af_bella",
+      "text": "Many young shoots grow toward light. Roots usually grow downward in response to gravity. This diagram is a model, not a real time experiment.",
+      "path": "af_bella-light-fact.mp3",
+      "duration": 10.03,
+      "sample_rate": 24000
+    },
+    {
+      "id": "challenge",
+      "voice": "af_bella",
+      "text": "Use what you have discovered. Read the evidence and explain your choices.",
+      "path": "af_bella-challenge.mp3",
+      "duration": 4.16,
+      "sample_rate": 24000
+    },
+    {
+      "id": "challenge-fact",
+      "voice": "af_bella",
+      "text": "A good scientist observes carefully, compares evidence, and explains a conclusion. Keep asking questions!",
+      "path": "af_bella-challenge-fact.mp3",
+      "duration": 7.15,
+      "sample_rate": 24000
+    }
+  ]
+}

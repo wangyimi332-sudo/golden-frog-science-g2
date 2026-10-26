@@ -1,0 +1,1714 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "learn-r0-word",
+      "voice": "af_heart",
+      "text": "roots",
+      "file": "af_heart-learn-r0-word.mp3",
+      "duration": 0.96
+    },
+    {
+      "id": "learn-r0-0",
+      "voice": "af_heart",
+      "text": "A basil plant has dry soil. Which part takes in water when we water the soil? A. Roots B. Flowers",
+      "file": "af_heart-learn-r0-0.mp3",
+      "duration": 7.02
+    },
+    {
+      "id": "learn-r0-0-fact",
+      "voice": "af_heart",
+      "text": "Roots take in water from soil.",
+      "file": "af_heart-learn-r0-0-fact.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "learn-r0-1",
+      "voice": "af_heart",
+      "text": "A young tomato plant is watered at its roots. Which part carries water upward? A. Stem B. Fruit",
+      "file": "af_heart-learn-r0-1.mp3",
+      "duration": 6.51
+    },
+    {
+      "id": "learn-r0-1-fact",
+      "voice": "af_heart",
+      "text": "The stem supports the plant and carries water.",
+      "file": "af_heart-learn-r0-1-fact.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "learn-r1-word",
+      "voice": "af_heart",
+      "text": "compare",
+      "file": "af_heart-learn-r1-word.mp3",
+      "duration": 0.94
+    },
+    {
+      "id": "learn-r1-0",
+      "voice": "af_heart",
+      "text": "Two matching seedlings have the same water and soil. Only the light direction changes. What are we testing? A. A response to light B. A response to different pots",
+      "file": "af_heart-learn-r1-0.mp3",
+      "duration": 11.29
+    },
+    {
+      "id": "learn-r1-0-fact",
+      "voice": "af_heart",
+      "text": "Change only the light direction to investigate this response.",
+      "file": "af_heart-learn-r1-0-fact.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "learn-r1-1",
+      "voice": "af_heart",
+      "text": "A lamp moves to the right of a young shoot. What is a reasonable prediction over time? A. It may grow toward the light. B. It instantly jumps into the lamp.",
+      "file": "af_heart-learn-r1-1.mp3",
+      "duration": 10.3
+    },
+    {
+      "id": "learn-r1-1-fact",
+      "voice": "af_heart",
+      "text": "Many young shoots gradually grow toward light.",
+      "file": "af_heart-learn-r1-1-fact.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "learn-r2-word",
+      "voice": "af_heart",
+      "text": "backbone",
+      "file": "af_heart-learn-r2-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "learn-r2-0",
+      "voice": "af_heart",
+      "text": "A dolphin swims, but it has a backbone. Which group fits? A. Vertebrate B. Invertebrate",
+      "file": "af_heart-learn-r2-0.mp3",
+      "duration": 6.25
+    },
+    {
+      "id": "learn-r2-0-fact",
+      "voice": "af_heart",
+      "text": "A backbone is evidence for the vertebrate group.",
+      "file": "af_heart-learn-r2-0-fact.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "learn-r2-1",
+      "voice": "af_heart",
+      "text": "A snail crawls and has no backbone. Which group fits? A. Vertebrate B. Invertebrate",
+      "file": "af_heart-learn-r2-1.mp3",
+      "duration": 6.21
+    },
+    {
+      "id": "learn-r2-1-fact",
+      "voice": "af_heart",
+      "text": "A snail is an invertebrate.",
+      "file": "af_heart-learn-r2-1-fact.mp3",
+      "duration": 1.92
+    },
+    {
+      "id": "learn-r3-word",
+      "voice": "af_heart",
+      "text": "life cycle",
+      "file": "af_heart-learn-r3-word.mp3",
+      "duration": 1.26
+    },
+    {
+      "id": "learn-r3-0",
+      "voice": "af_heart",
+      "text": "A caterpillar stops feeding and forms a pupa. What can come next? A. An adult butterfly B. A frog egg",
+      "file": "af_heart-learn-r3-0.mp3",
+      "duration": 7.17
+    },
+    {
+      "id": "learn-r3-0-fact",
+      "voice": "af_heart",
+      "text": "An adult butterfly can emerge from the pupa.",
+      "file": "af_heart-learn-r3-0-fact.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "learn-r3-1",
+      "voice": "af_heart",
+      "text": "A tadpole has growing legs and a shrinking tail. What stage is it approaching? A. Froglet B. Butterfly pupa",
+      "file": "af_heart-learn-r3-1.mp3",
+      "duration": 7.96
+    },
+    {
+      "id": "learn-r3-1-fact",
+      "voice": "af_heart",
+      "text": "It is developing toward a froglet.",
+      "file": "af_heart-learn-r3-1-fact.mp3",
+      "duration": 2.28
+    },
+    {
+      "id": "learn-r4-word",
+      "voice": "af_heart",
+      "text": "evidence",
+      "file": "af_heart-learn-r4-word.mp3",
+      "duration": 1.07
+    },
+    {
+      "id": "learn-r4-0",
+      "voice": "af_heart",
+      "text": "Same cups, soil amounts, water, and time. A drains 40 mL; B drains 15 mL. Which drains more? A. A B. B",
+      "file": "af_heart-learn-r4-0.mp3",
+      "duration": 8.58
+    },
+    {
+      "id": "learn-r4-0-fact",
+      "voice": "af_heart",
+      "text": "40 mL is more than 15 mL under these test conditions.",
+      "file": "af_heart-learn-r4-0-fact.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "learn-r4-1",
+      "voice": "af_heart",
+      "text": "Same conditions. C drains 18 mL; D drains 48 mL. Which drains less? A. C B. D",
+      "file": "af_heart-learn-r4-1.mp3",
+      "duration": 7.34
+    },
+    {
+      "id": "learn-r4-1-fact",
+      "voice": "af_heart",
+      "text": "18 mL is less than 48 mL.",
+      "file": "af_heart-learn-r4-1-fact.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "learn-r5-word",
+      "voice": "af_heart",
+      "text": "observe",
+      "file": "af_heart-learn-r5-word.mp3",
+      "duration": 0.66
+    },
+    {
+      "id": "learn-r5-0",
+      "voice": "af_heart",
+      "text": "You see a rock photo. Can you measure its actual mass from this picture alone? A. No. We need a suitable measuring tool. B. Yes. A darker color tells its mass.",
+      "file": "af_heart-learn-r5-0.mp3",
+      "duration": 10.99
+    },
+    {
+      "id": "learn-r5-0-fact",
+      "voice": "af_heart",
+      "text": "A photo alone does not measure actual mass.",
+      "file": "af_heart-learn-r5-0-fact.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "learn-r5-1",
+      "voice": "af_heart",
+      "text": "Two real stones look similar. How could you compare how rough they feel? A. Touch their surfaces carefully. B. Guess from the names.",
+      "file": "af_heart-learn-r5-1.mp3",
+      "duration": 8.62
+    },
+    {
+      "id": "learn-r5-1-fact",
+      "voice": "af_heart",
+      "text": "Touch provides evidence about how a surface feels.",
+      "file": "af_heart-learn-r5-1-fact.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "learn-r6-word",
+      "voice": "af_heart",
+      "text": "trace",
+      "file": "af_heart-learn-r6-word.mp3",
+      "duration": 0.98
+    },
+    {
+      "id": "learn-r6-0",
+      "voice": "af_heart",
+      "text": "A rock preserves a trail of footprints. What is supported? A. An animal moved there. B. We know its exact skin color.",
+      "file": "af_heart-learn-r6-0.mp3",
+      "duration": 7.81
+    },
+    {
+      "id": "learn-r6-0-fact",
+      "voice": "af_heart",
+      "text": "Footprints record activity, but not exact skin color.",
+      "file": "af_heart-learn-r6-0-fact.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "learn-r6-1",
+      "voice": "af_heart",
+      "text": "A leaf shape is preserved in rock. What can you observe directly? A. The outline of the leaf B. The exact smell of the living plant",
+      "file": "af_heart-learn-r6-1.mp3",
+      "duration": 8.51
+    },
+    {
+      "id": "learn-r6-1-fact",
+      "voice": "af_heart",
+      "text": "The preserved outline is visible evidence.",
+      "file": "af_heart-learn-r6-1-fact.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "learn-r7-word",
+      "voice": "af_heart",
+      "text": "older",
+      "file": "af_heart-learn-r7-word.mp3",
+      "duration": 0.96
+    },
+    {
+      "id": "learn-r7-0",
+      "voice": "af_heart",
+      "text": "In undisturbed layers, shell rock is below leaf rock. Which was deposited first? A. Shell layer B. Leaf layer",
+      "file": "af_heart-learn-r7-0.mp3",
+      "duration": 7.59
+    },
+    {
+      "id": "learn-r7-0-fact",
+      "voice": "af_heart",
+      "text": "The lower layer was deposited first in this undisturbed sequence.",
+      "file": "af_heart-learn-r7-0-fact.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "learn-r7-1",
+      "voice": "af_heart",
+      "text": "Fish fossils occur above a lower shell layer. The layers are not overturned. Which layer is younger? A. Fish layer B. Shell layer",
+      "file": "af_heart-learn-r7-1.mp3",
+      "duration": 8.7
+    },
+    {
+      "id": "learn-r7-1-fact",
+      "voice": "af_heart",
+      "text": "The upper layer is younger in this sequence.",
+      "file": "af_heart-learn-r7-1-fact.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "learn-r8-word",
+      "voice": "af_heart",
+      "text": "reuse",
+      "file": "af_heart-learn-r8-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "learn-r8-0",
+      "voice": "af_heart",
+      "text": "A clean, sturdy box can hold craft supplies. Which action is reuse? A. Use it for storage. B. Buy a new box and throw this one away.",
+      "file": "af_heart-learn-r8-0.mp3",
+      "duration": 9.73
+    },
+    {
+      "id": "learn-r8-0-fact",
+      "voice": "af_heart",
+      "text": "Reusing an item can reduce the need for a new one.",
+      "file": "af_heart-learn-r8-0-fact.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "learn-r8-1",
+      "voice": "af_heart",
+      "text": "A notebook still has blank pages. What reduces paper waste? A. Use the blank pages. B. Throw it away now.",
+      "file": "af_heart-learn-r8-1.mp3",
+      "duration": 7.4
+    },
+    {
+      "id": "learn-r8-1-fact",
+      "voice": "af_heart",
+      "text": "Use the remaining pages before buying another notebook.",
+      "file": "af_heart-learn-r8-1-fact.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "learn-r9-word",
+      "voice": "af_heart",
+      "text": "resource",
+      "file": "af_heart-learn-r9-word.mp3",
+      "duration": 1.05
+    },
+    {
+      "id": "learn-r9-0",
+      "voice": "af_heart",
+      "text": "A wooden spoon and a paper bag can both begin with which resource? A. Trees B. Coal only",
+      "file": "af_heart-learn-r9-0.mp3",
+      "duration": 6.46
+    },
+    {
+      "id": "learn-r9-0-fact",
+      "voice": "af_heart",
+      "text": "Wood and much paper come from trees.",
+      "file": "af_heart-learn-r9-0-fact.mp3",
+      "duration": 2.39
+    },
+    {
+      "id": "learn-r9-1",
+      "voice": "af_heart",
+      "text": "Many conventional plastic bottles use raw materials from which resource? A. Petroleum B. Wool",
+      "file": "af_heart-learn-r9-1.mp3",
+      "duration": 6.66
+    },
+    {
+      "id": "learn-r9-1-fact",
+      "voice": "af_heart",
+      "text": "Petroleum supplies raw materials for many conventional plastics.",
+      "file": "af_heart-learn-r9-1-fact.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "learn-r10-word",
+      "voice": "af_heart",
+      "text": "speed",
+      "file": "af_heart-learn-r10-word.mp3",
+      "duration": 0.96
+    },
+    {
+      "id": "learn-r10-0",
+      "voice": "af_heart",
+      "text": "Both carts travel for 6 seconds. A goes 12 units, B goes 18. Which has greater average speed? A. A B. B",
+      "file": "af_heart-learn-r10-0.mp3",
+      "duration": 8.45
+    },
+    {
+      "id": "learn-r10-0-fact",
+      "voice": "af_heart",
+      "text": "For the same time, B travels farther.",
+      "file": "af_heart-learn-r10-0-fact.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "learn-r10-1",
+      "voice": "af_heart",
+      "text": "Both carts travel 24 units. A takes 4 seconds, B takes 8. Which has greater average speed? A. A B. B",
+      "file": "af_heart-learn-r10-1.mp3",
+      "duration": 8.43
+    },
+    {
+      "id": "learn-r10-1-fact",
+      "voice": "af_heart",
+      "text": "For the same distance, A takes less time.",
+      "file": "af_heart-learn-r10-1-fact.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "learn-r11-word",
+      "voice": "af_heart",
+      "text": "predict",
+      "file": "af_heart-learn-r11-word.mp3",
+      "duration": 0.92
+    },
+    {
+      "id": "learn-r11-0",
+      "voice": "af_heart",
+      "text": "A cart goes beyond the station. Keep the track and cart fixed. What could you test next? A. Earlier braking B. Change every condition",
+      "file": "af_heart-learn-r11-0.mp3",
+      "duration": 8.94
+    },
+    {
+      "id": "learn-r11-0-fact",
+      "voice": "af_heart",
+      "text": "Earlier braking is a relevant change to test.",
+      "file": "af_heart-learn-r11-0-fact.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "learn-r11-1",
+      "voice": "af_heart",
+      "text": "A cart stops before the station. What is a useful prediction to test? A. Later braking may bring it closer. B. Its color must make it stop early.",
+      "file": "af_heart-learn-r11-1.mp3",
+      "duration": 10.35
+    },
+    {
+      "id": "learn-r11-1-fact",
+      "voice": "af_heart",
+      "text": "Test a relevant change and compare the result.",
+      "file": "af_heart-learn-r11-1-fact.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "learn-r12-word",
+      "voice": "af_heart",
+      "text": "attract",
+      "file": "af_heart-learn-r12-word.mp3",
+      "duration": 0.98
+    },
+    {
+      "id": "learn-r12-0",
+      "voice": "af_heart",
+      "text": "A classroom magnet lifts iron nails but not aluminum pieces. What can it separate here? A. Iron from aluminum B. Every kind of plastic",
+      "file": "af_heart-learn-r12-0.mp3",
+      "duration": 9.75
+    },
+    {
+      "id": "learn-r12-0-fact",
+      "voice": "af_heart",
+      "text": "Use the observed magnetic response to separate these materials.",
+      "file": "af_heart-learn-r12-0-fact.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "learn-r12-1",
+      "voice": "af_heart",
+      "text": "Two magnet ends marked N face each other. What should happen? A. Repel B. Attract",
+      "file": "af_heart-learn-r12-1.mp3",
+      "duration": 5.63
+    },
+    {
+      "id": "learn-r12-1-fact",
+      "voice": "af_heart",
+      "text": "Like poles repel. Unlike poles attract.",
+      "file": "af_heart-learn-r12-1-fact.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "learn-r13-word",
+      "voice": "af_heart",
+      "text": "pitch",
+      "file": "af_heart-learn-r13-word.mp3",
+      "duration": 0.81
+    },
+    {
+      "id": "learn-r13-0",
+      "voice": "af_heart",
+      "text": "Keep vibration size the same. Change from 250 to 500 vibrations per second. What changes? A. Pitch becomes higher. B. Gravity disappears.",
+      "file": "af_heart-learn-r13-0.mp3",
+      "duration": 12.12
+    },
+    {
+      "id": "learn-r13-0-fact",
+      "voice": "af_heart",
+      "text": "Faster vibrations produce a higher pitch.",
+      "file": "af_heart-learn-r13-0-fact.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "learn-r13-1",
+      "voice": "af_heart",
+      "text": "Keep vibration frequency fixed, but make the vibration larger. What changes in this model? A. The tone gets louder. B. The pitch must get lower.",
+      "file": "af_heart-learn-r13-1.mp3",
+      "duration": 10.33
+    },
+    {
+      "id": "learn-r13-1-fact",
+      "voice": "af_heart",
+      "text": "A larger vibration amplitude increases this tone’s loudness.",
+      "file": "af_heart-learn-r13-1-fact.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "learn-s0",
+      "voice": "af_heart",
+      "text": "Roots take in water and minerals from the soil.",
+      "file": "af_heart-learn-s0.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "learn-s0-gap",
+      "voice": "af_heart",
+      "text": "A blank supports the plant and carries water. stem. seed coat",
+      "file": "af_heart-learn-s0-gap.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "learn-s0-full",
+      "voice": "af_heart",
+      "text": "A stem supports the plant and carries water.",
+      "file": "af_heart-learn-s0-full.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "learn-s1",
+      "voice": "af_heart",
+      "text": "If the light moves, the young shoot may grow toward it.",
+      "file": "af_heart-learn-s1.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "learn-s1-gap",
+      "voice": "af_heart",
+      "text": "I keep water and soil the blank when testing light. same. opposite",
+      "file": "af_heart-learn-s1-gap.mp3",
+      "duration": 4.54
+    },
+    {
+      "id": "learn-s1-full",
+      "voice": "af_heart",
+      "text": "I keep water and soil the same when testing light.",
+      "file": "af_heart-learn-s1-full.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "learn-s2",
+      "voice": "af_heart",
+      "text": "A frog has a backbone, so it is a vertebrate.",
+      "file": "af_heart-learn-s2.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "learn-s2-gap",
+      "voice": "af_heart",
+      "text": "A snail has no backbone, so it is an blank. invertebrate. vertebrate",
+      "file": "af_heart-learn-s2-gap.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "learn-s2-full",
+      "voice": "af_heart",
+      "text": "A snail has no backbone, so it is an invertebrate.",
+      "file": "af_heart-learn-s2-full.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "learn-s3",
+      "voice": "af_heart",
+      "text": "A caterpillar becomes a pupa before it develops into an adult butterfly.",
+      "file": "af_heart-learn-s3.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "learn-s3-gap",
+      "voice": "af_heart",
+      "text": "A tadpole develops into a blank. froglet. seedling",
+      "file": "af_heart-learn-s3-gap.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "learn-s3-full",
+      "voice": "af_heart",
+      "text": "A tadpole develops into a froglet.",
+      "file": "af_heart-learn-s3-full.mp3",
+      "duration": 2.37
+    },
+    {
+      "id": "learn-s4",
+      "voice": "af_heart",
+      "text": "Sample A drains more water than sample B in this test.",
+      "file": "af_heart-learn-s4.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "learn-s4-gap",
+      "voice": "af_heart",
+      "text": "For a fair soil test, use the same blank of water. amount. color of cup",
+      "file": "af_heart-learn-s4-gap.mp3",
+      "duration": 4.76
+    },
+    {
+      "id": "learn-s4-full",
+      "voice": "af_heart",
+      "text": "For a fair soil test, use the same amount of water.",
+      "file": "af_heart-learn-s4-full.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "learn-s5",
+      "voice": "af_heart",
+      "text": "I observe the surface and use a tool to measure the mass.",
+      "file": "af_heart-learn-s5.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "learn-s5-gap",
+      "voice": "af_heart",
+      "text": "I use a blank to compare mass, not just a photograph. balance. lamp",
+      "file": "af_heart-learn-s5-gap.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "learn-s5-full",
+      "voice": "af_heart",
+      "text": "I use a balance to compare mass, not just a photograph.",
+      "file": "af_heart-learn-s5-full.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "learn-s6",
+      "voice": "af_heart",
+      "text": "A footprint is evidence of an animal’s activity in the past.",
+      "file": "af_heart-learn-s6.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "learn-s6-gap",
+      "voice": "af_heart",
+      "text": "The fossil does not tell us every blank. detail. clue",
+      "file": "af_heart-learn-s6-gap.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "learn-s6-full",
+      "voice": "af_heart",
+      "text": "The fossil does not tell us every detail.",
+      "file": "af_heart-learn-s6-full.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "learn-s7",
+      "voice": "af_heart",
+      "text": "In undisturbed layers, the lower layer is older.",
+      "file": "af_heart-learn-s7.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "learn-s7-gap",
+      "voice": "af_heart",
+      "text": "We need more evidence for an blank age in years. exact. older",
+      "file": "af_heart-learn-s7-gap.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": "learn-s7-full",
+      "voice": "af_heart",
+      "text": "We need more evidence for an exact age in years.",
+      "file": "af_heart-learn-s7-full.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "learn-s8",
+      "voice": "af_heart",
+      "text": "Reusing a useful item can reduce the need for new materials.",
+      "file": "af_heart-learn-s8.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "learn-s8-gap",
+      "voice": "af_heart",
+      "text": "A loose shelf screw may need blank before reuse. repair. more paint only",
+      "file": "af_heart-learn-s8-gap.mp3",
+      "duration": 4.91
+    },
+    {
+      "id": "learn-s8-full",
+      "voice": "af_heart",
+      "text": "A loose shelf screw may need repair before reuse.",
+      "file": "af_heart-learn-s8-full.mp3",
+      "duration": 3.07
+    },
+    {
+      "id": "learn-s9",
+      "voice": "af_heart",
+      "text": "Wood can be used for furniture, buildings, and paper.",
+      "file": "af_heart-learn-s9.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "learn-s9-gap",
+      "voice": "af_heart",
+      "text": "Coal can be burned to generate blank. electricity. new trees",
+      "file": "af_heart-learn-s9-gap.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "learn-s9-full",
+      "voice": "af_heart",
+      "text": "Coal can be burned to generate electricity.",
+      "file": "af_heart-learn-s9-full.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "learn-s10",
+      "voice": "af_heart",
+      "text": "For the same distance, the faster cart takes less time.",
+      "file": "af_heart-learn-s10.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "learn-s10-gap",
+      "voice": "af_heart",
+      "text": "For equal time, compare the blank traveled. distance. color",
+      "file": "af_heart-learn-s10-gap.mp3",
+      "duration": 3.95
+    },
+    {
+      "id": "learn-s10-full",
+      "voice": "af_heart",
+      "text": "For equal time, compare the distance traveled.",
+      "file": "af_heart-learn-s10-full.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "learn-s11",
+      "voice": "af_heart",
+      "text": "If I brake earlier, the cart may stop closer to the target.",
+      "file": "af_heart-learn-s11.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "learn-s11-gap",
+      "voice": "af_heart",
+      "text": "After testing, I compare my prediction with the blank. result. favorite color",
+      "file": "af_heart-learn-s11-gap.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "learn-s11-full",
+      "voice": "af_heart",
+      "text": "After testing, I compare my prediction with the result.",
+      "file": "af_heart-learn-s11-full.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "learn-s12",
+      "voice": "af_heart",
+      "text": "A magnet attracts iron. It does not attract every metal.",
+      "file": "af_heart-learn-s12.mp3",
+      "duration": 3.67
+    },
+    {
+      "id": "learn-s12-gap",
+      "voice": "af_heart",
+      "text": "Unlike magnetic poles blank. attract. repel",
+      "file": "af_heart-learn-s12-gap.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "learn-s12-full",
+      "voice": "af_heart",
+      "text": "Unlike magnetic poles attract.",
+      "file": "af_heart-learn-s12-full.mp3",
+      "duration": 2.05
+    },
+    {
+      "id": "learn-s13",
+      "voice": "af_heart",
+      "text": "If the vibrations are faster, the sound has a higher pitch.",
+      "file": "af_heart-learn-s13.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "learn-s13-gap",
+      "voice": "af_heart",
+      "text": "At the same frequency, larger vibrations make a tone blank. louder. higher in pitch",
+      "file": "af_heart-learn-s13-gap.mp3",
+      "duration": 5.82
+    },
+    {
+      "id": "learn-s13-full",
+      "voice": "af_heart",
+      "text": "At the same frequency, larger vibrations make a tone louder.",
+      "file": "af_heart-learn-s13-full.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "learn-f0",
+      "voice": "af_heart",
+      "text": "Compare two fallen leaves. Record their shapes and one visible difference. What can you see? What would require touching?",
+      "file": "af_heart-learn-f0.mp3",
+      "duration": 7.59
+    },
+    {
+      "id": "learn-f1",
+      "voice": "af_heart",
+      "text": "Watch an animal from a distance. Record an action and separate what you see from what you guess. What is your observation? What is still unknown?",
+      "file": "af_heart-learn-f1.mp3",
+      "duration": 8.66
+    },
+    {
+      "id": "learn-f2",
+      "voice": "af_heart",
+      "text": "Choose three familiar household objects. Describe their visible materials and how the materials suit the job. Which material is useful for this task? Why?",
+      "file": "af_heart-learn-f2.mp3",
+      "duration": 10.24
+    },
+    {
+      "id": "learn-f3",
+      "voice": "af_heart",
+      "text": "Look at a shoe print in sand or a photograph of one. Record two visible features. What can the print tell you? What can it not tell you?",
+      "file": "af_heart-learn-f3.mp3",
+      "duration": 8.32
+    },
+    {
+      "id": "learn-f4",
+      "voice": "af_heart",
+      "text": "Find a clean, safe item that can be reused. Ask an adult before changing its use. What new use did you choose? What new material could it save?",
+      "file": "af_heart-learn-f4.mp3",
+      "duration": 9.37
+    },
+    {
+      "id": "learn-f5",
+      "voice": "af_heart",
+      "text": "With an adult, use a low cardboard ramp and a toy car. Keep the start and car the same; compare two surfaces. What did you keep the same? Where did the car stop?",
+      "file": "af_heart-learn-f5.mp3",
+      "duration": 10.58
+    },
+    {
+      "id": "learn-f6",
+      "voice": "af_heart",
+      "text": "Make a gentle humming sound. Notice the vibration at your throat. Try a higher and a lower pitch at comfortable volume. How was higher different from louder?",
+      "file": "af_heart-learn-f6.mp3",
+      "duration": 9.77
+    },
+    {
+      "id": "learn-greenhouse",
+      "voice": "af_heart",
+      "text": "Move the lamp to one side. Compare how a young shoot may grow toward light over time. This is a simplified model, not a live plant.",
+      "file": "af_heart-learn-greenhouse.mp3",
+      "duration": 8.77
+    },
+    {
+      "id": "learn-greenhouse-trial0",
+      "voice": "af_heart",
+      "text": "Lamp on the left. Over time, the young shoot may bend left toward the lamp.",
+      "file": "af_heart-learn-greenhouse-trial0.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "learn-greenhouse-trial1",
+      "voice": "af_heart",
+      "text": "Lamp on the right. Over time, the young shoot may bend right toward the lamp.",
+      "file": "af_heart-learn-greenhouse-trial1.mp3",
+      "duration": 4.76
+    },
+    {
+      "id": "learn-r0-word",
+      "voice": "af_bella",
+      "text": "roots",
+      "file": "af_bella-learn-r0-word.mp3",
+      "duration": 0.87
+    },
+    {
+      "id": "learn-r0-0",
+      "voice": "af_bella",
+      "text": "A basil plant has dry soil. Which part takes in water when we water the soil? A. Roots B. Flowers",
+      "file": "af_bella-learn-r0-0.mp3",
+      "duration": 7.53
+    },
+    {
+      "id": "learn-r0-0-fact",
+      "voice": "af_bella",
+      "text": "Roots take in water from soil.",
+      "file": "af_bella-learn-r0-0-fact.mp3",
+      "duration": 1.83
+    },
+    {
+      "id": "learn-r0-1",
+      "voice": "af_bella",
+      "text": "A young tomato plant is watered at its roots. Which part carries water upward? A. Stem B. Fruit",
+      "file": "af_bella-learn-r0-1.mp3",
+      "duration": 6.83
+    },
+    {
+      "id": "learn-r0-1-fact",
+      "voice": "af_bella",
+      "text": "The stem supports the plant and carries water.",
+      "file": "af_bella-learn-r0-1-fact.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "learn-r1-word",
+      "voice": "af_bella",
+      "text": "compare",
+      "file": "af_bella-learn-r1-word.mp3",
+      "duration": 0.79
+    },
+    {
+      "id": "learn-r1-0",
+      "voice": "af_bella",
+      "text": "Two matching seedlings have the same water and soil. Only the light direction changes. What are we testing? A. A response to light B. A response to different pots",
+      "file": "af_bella-learn-r1-0.mp3",
+      "duration": 11.56
+    },
+    {
+      "id": "learn-r1-0-fact",
+      "voice": "af_bella",
+      "text": "Change only the light direction to investigate this response.",
+      "file": "af_bella-learn-r1-0-fact.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "learn-r1-1",
+      "voice": "af_bella",
+      "text": "A lamp moves to the right of a young shoot. What is a reasonable prediction over time? A. It may grow toward the light. B. It instantly jumps into the lamp.",
+      "file": "af_bella-learn-r1-1.mp3",
+      "duration": 10.69
+    },
+    {
+      "id": "learn-r1-1-fact",
+      "voice": "af_bella",
+      "text": "Many young shoots gradually grow toward light.",
+      "file": "af_bella-learn-r1-1-fact.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "learn-r2-word",
+      "voice": "af_bella",
+      "text": "backbone",
+      "file": "af_bella-learn-r2-word.mp3",
+      "duration": 0.87
+    },
+    {
+      "id": "learn-r2-0",
+      "voice": "af_bella",
+      "text": "A dolphin swims, but it has a backbone. Which group fits? A. Vertebrate B. Invertebrate",
+      "file": "af_bella-learn-r2-0.mp3",
+      "duration": 6.34
+    },
+    {
+      "id": "learn-r2-0-fact",
+      "voice": "af_bella",
+      "text": "A backbone is evidence for the vertebrate group.",
+      "file": "af_bella-learn-r2-0-fact.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "learn-r2-1",
+      "voice": "af_bella",
+      "text": "A snail crawls and has no backbone. Which group fits? A. Vertebrate B. Invertebrate",
+      "file": "af_bella-learn-r2-1.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "learn-r2-1-fact",
+      "voice": "af_bella",
+      "text": "A snail is an invertebrate.",
+      "file": "af_bella-learn-r2-1-fact.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "learn-r3-word",
+      "voice": "af_bella",
+      "text": "life cycle",
+      "file": "af_bella-learn-r3-word.mp3",
+      "duration": 1.07
+    },
+    {
+      "id": "learn-r3-0",
+      "voice": "af_bella",
+      "text": "A caterpillar stops feeding and forms a pupa. What can come next? A. An adult butterfly B. A frog egg",
+      "file": "af_bella-learn-r3-0.mp3",
+      "duration": 7.57
+    },
+    {
+      "id": "learn-r3-0-fact",
+      "voice": "af_bella",
+      "text": "An adult butterfly can emerge from the pupa.",
+      "file": "af_bella-learn-r3-0-fact.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "learn-r3-1",
+      "voice": "af_bella",
+      "text": "A tadpole has growing legs and a shrinking tail. What stage is it approaching? A. Froglet B. Butterfly pupa",
+      "file": "af_bella-learn-r3-1.mp3",
+      "duration": 8.32
+    },
+    {
+      "id": "learn-r3-1-fact",
+      "voice": "af_bella",
+      "text": "It is developing toward a froglet.",
+      "file": "af_bella-learn-r3-1-fact.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "learn-r4-word",
+      "voice": "af_bella",
+      "text": "evidence",
+      "file": "af_bella-learn-r4-word.mp3",
+      "duration": 0.92
+    },
+    {
+      "id": "learn-r4-0",
+      "voice": "af_bella",
+      "text": "Same cups, soil amounts, water, and time. A drains 40 mL; B drains 15 mL. Which drains more? A. A B. B",
+      "file": "af_bella-learn-r4-0.mp3",
+      "duration": 9.11
+    },
+    {
+      "id": "learn-r4-0-fact",
+      "voice": "af_bella",
+      "text": "40 mL is more than 15 mL under these test conditions.",
+      "file": "af_bella-learn-r4-0-fact.mp3",
+      "duration": 4.29
+    },
+    {
+      "id": "learn-r4-1",
+      "voice": "af_bella",
+      "text": "Same conditions. C drains 18 mL; D drains 48 mL. Which drains less? A. C B. D",
+      "file": "af_bella-learn-r4-1.mp3",
+      "duration": 7.68
+    },
+    {
+      "id": "learn-r4-1-fact",
+      "voice": "af_bella",
+      "text": "18 mL is less than 48 mL.",
+      "file": "af_bella-learn-r4-1-fact.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "learn-r5-word",
+      "voice": "af_bella",
+      "text": "observe",
+      "file": "af_bella-learn-r5-word.mp3",
+      "duration": 0.55
+    },
+    {
+      "id": "learn-r5-0",
+      "voice": "af_bella",
+      "text": "You see a rock photo. Can you measure its actual mass from this picture alone? A. No. We need a suitable measuring tool. B. Yes. A darker color tells its mass.",
+      "file": "af_bella-learn-r5-0.mp3",
+      "duration": 11.46
+    },
+    {
+      "id": "learn-r5-0-fact",
+      "voice": "af_bella",
+      "text": "A photo alone does not measure actual mass.",
+      "file": "af_bella-learn-r5-0-fact.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "learn-r5-1",
+      "voice": "af_bella",
+      "text": "Two real stones look similar. How could you compare how rough they feel? A. Touch their surfaces carefully. B. Guess from the names.",
+      "file": "af_bella-learn-r5-1.mp3",
+      "duration": 9.07
+    },
+    {
+      "id": "learn-r5-1-fact",
+      "voice": "af_bella",
+      "text": "Touch provides evidence about how a surface feels.",
+      "file": "af_bella-learn-r5-1-fact.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "learn-r6-word",
+      "voice": "af_bella",
+      "text": "trace",
+      "file": "af_bella-learn-r6-word.mp3",
+      "duration": 0.92
+    },
+    {
+      "id": "learn-r6-0",
+      "voice": "af_bella",
+      "text": "A rock preserves a trail of footprints. What is supported? A. An animal moved there. B. We know its exact skin color.",
+      "file": "af_bella-learn-r6-0.mp3",
+      "duration": 8.23
+    },
+    {
+      "id": "learn-r6-0-fact",
+      "voice": "af_bella",
+      "text": "Footprints record activity, but not exact skin color.",
+      "file": "af_bella-learn-r6-0-fact.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "learn-r6-1",
+      "voice": "af_bella",
+      "text": "A leaf shape is preserved in rock. What can you observe directly? A. The outline of the leaf B. The exact smell of the living plant",
+      "file": "af_bella-learn-r6-1.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "learn-r6-1-fact",
+      "voice": "af_bella",
+      "text": "The preserved outline is visible evidence.",
+      "file": "af_bella-learn-r6-1-fact.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "learn-r7-word",
+      "voice": "af_bella",
+      "text": "older",
+      "file": "af_bella-learn-r7-word.mp3",
+      "duration": 0.75
+    },
+    {
+      "id": "learn-r7-0",
+      "voice": "af_bella",
+      "text": "In undisturbed layers, shell rock is below leaf rock. Which was deposited first? A. Shell layer B. Leaf layer",
+      "file": "af_bella-learn-r7-0.mp3",
+      "duration": 7.91
+    },
+    {
+      "id": "learn-r7-0-fact",
+      "voice": "af_bella",
+      "text": "The lower layer was deposited first in this undisturbed sequence.",
+      "file": "af_bella-learn-r7-0-fact.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "learn-r7-1",
+      "voice": "af_bella",
+      "text": "Fish fossils occur above a lower shell layer. The layers are not overturned. Which layer is younger? A. Fish layer B. Shell layer",
+      "file": "af_bella-learn-r7-1.mp3",
+      "duration": 9.24
+    },
+    {
+      "id": "learn-r7-1-fact",
+      "voice": "af_bella",
+      "text": "The upper layer is younger in this sequence.",
+      "file": "af_bella-learn-r7-1-fact.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "learn-r8-word",
+      "voice": "af_bella",
+      "text": "reuse",
+      "file": "af_bella-learn-r8-word.mp3",
+      "duration": 0.9
+    },
+    {
+      "id": "learn-r8-0",
+      "voice": "af_bella",
+      "text": "A clean, sturdy box can hold craft supplies. Which action is reuse? A. Use it for storage. B. Buy a new box and throw this one away.",
+      "file": "af_bella-learn-r8-0.mp3",
+      "duration": 10.3
+    },
+    {
+      "id": "learn-r8-0-fact",
+      "voice": "af_bella",
+      "text": "Reusing an item can reduce the need for a new one.",
+      "file": "af_bella-learn-r8-0-fact.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "learn-r8-1",
+      "voice": "af_bella",
+      "text": "A notebook still has blank pages. What reduces paper waste? A. Use the blank pages. B. Throw it away now.",
+      "file": "af_bella-learn-r8-1.mp3",
+      "duration": 7.74
+    },
+    {
+      "id": "learn-r8-1-fact",
+      "voice": "af_bella",
+      "text": "Use the remaining pages before buying another notebook.",
+      "file": "af_bella-learn-r8-1-fact.mp3",
+      "duration": 3.52
+    },
+    {
+      "id": "learn-r9-word",
+      "voice": "af_bella",
+      "text": "resource",
+      "file": "af_bella-learn-r9-word.mp3",
+      "duration": 0.87
+    },
+    {
+      "id": "learn-r9-0",
+      "voice": "af_bella",
+      "text": "A wooden spoon and a paper bag can both begin with which resource? A. Trees B. Coal only",
+      "file": "af_bella-learn-r9-0.mp3",
+      "duration": 6.89
+    },
+    {
+      "id": "learn-r9-0-fact",
+      "voice": "af_bella",
+      "text": "Wood and much paper come from trees.",
+      "file": "af_bella-learn-r9-0-fact.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "learn-r9-1",
+      "voice": "af_bella",
+      "text": "Many conventional plastic bottles use raw materials from which resource? A. Petroleum B. Wool",
+      "file": "af_bella-learn-r9-1.mp3",
+      "duration": 6.98
+    },
+    {
+      "id": "learn-r9-1-fact",
+      "voice": "af_bella",
+      "text": "Petroleum supplies raw materials for many conventional plastics.",
+      "file": "af_bella-learn-r9-1-fact.mp3",
+      "duration": 4.29
+    },
+    {
+      "id": "learn-r10-word",
+      "voice": "af_bella",
+      "text": "speed",
+      "file": "af_bella-learn-r10-word.mp3",
+      "duration": 0.83
+    },
+    {
+      "id": "learn-r10-0",
+      "voice": "af_bella",
+      "text": "Both carts travel for 6 seconds. A goes 12 units, B goes 18. Which has greater average speed? A. A B. B",
+      "file": "af_bella-learn-r10-0.mp3",
+      "duration": 8.83
+    },
+    {
+      "id": "learn-r10-0-fact",
+      "voice": "af_bella",
+      "text": "For the same time, B travels farther.",
+      "file": "af_bella-learn-r10-0-fact.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "learn-r10-1",
+      "voice": "af_bella",
+      "text": "Both carts travel 24 units. A takes 4 seconds, B takes 8. Which has greater average speed? A. A B. B",
+      "file": "af_bella-learn-r10-1.mp3",
+      "duration": 8.85
+    },
+    {
+      "id": "learn-r10-1-fact",
+      "voice": "af_bella",
+      "text": "For the same distance, A takes less time.",
+      "file": "af_bella-learn-r10-1-fact.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "learn-r11-word",
+      "voice": "af_bella",
+      "text": "predict",
+      "file": "af_bella-learn-r11-word.mp3",
+      "duration": 0.81
+    },
+    {
+      "id": "learn-r11-0",
+      "voice": "af_bella",
+      "text": "A cart goes beyond the station. Keep the track and cart fixed. What could you test next? A. Earlier braking B. Change every condition",
+      "file": "af_bella-learn-r11-0.mp3",
+      "duration": 9.49
+    },
+    {
+      "id": "learn-r11-0-fact",
+      "voice": "af_bella",
+      "text": "Earlier braking is a relevant change to test.",
+      "file": "af_bella-learn-r11-0-fact.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "learn-r11-1",
+      "voice": "af_bella",
+      "text": "A cart stops before the station. What is a useful prediction to test? A. Later braking may bring it closer. B. Its color must make it stop early.",
+      "file": "af_bella-learn-r11-1.mp3",
+      "duration": 10.58
+    },
+    {
+      "id": "learn-r11-1-fact",
+      "voice": "af_bella",
+      "text": "Test a relevant change and compare the result.",
+      "file": "af_bella-learn-r11-1-fact.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "learn-r12-word",
+      "voice": "af_bella",
+      "text": "attract",
+      "file": "af_bella-learn-r12-word.mp3",
+      "duration": 0.81
+    },
+    {
+      "id": "learn-r12-0",
+      "voice": "af_bella",
+      "text": "A classroom magnet lifts iron nails but not aluminum pieces. What can it separate here? A. Iron from aluminum B. Every kind of plastic",
+      "file": "af_bella-learn-r12-0.mp3",
+      "duration": 10.03
+    },
+    {
+      "id": "learn-r12-0-fact",
+      "voice": "af_bella",
+      "text": "Use the observed magnetic response to separate these materials.",
+      "file": "af_bella-learn-r12-0-fact.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "learn-r12-1",
+      "voice": "af_bella",
+      "text": "Two magnet ends marked N face each other. What should happen? A. Repel B. Attract",
+      "file": "af_bella-learn-r12-1.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "learn-r12-1-fact",
+      "voice": "af_bella",
+      "text": "Like poles repel. Unlike poles attract.",
+      "file": "af_bella-learn-r12-1-fact.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "learn-r13-word",
+      "voice": "af_bella",
+      "text": "pitch",
+      "file": "af_bella-learn-r13-word.mp3",
+      "duration": 0.75
+    },
+    {
+      "id": "learn-r13-0",
+      "voice": "af_bella",
+      "text": "Keep vibration size the same. Change from 250 to 500 vibrations per second. What changes? A. Pitch becomes higher. B. Gravity disappears.",
+      "file": "af_bella-learn-r13-0.mp3",
+      "duration": 12.5
+    },
+    {
+      "id": "learn-r13-0-fact",
+      "voice": "af_bella",
+      "text": "Faster vibrations produce a higher pitch.",
+      "file": "af_bella-learn-r13-0-fact.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "learn-r13-1",
+      "voice": "af_bella",
+      "text": "Keep vibration frequency fixed, but make the vibration larger. What changes in this model? A. The tone gets louder. B. The pitch must get lower.",
+      "file": "af_bella-learn-r13-1.mp3",
+      "duration": 10.79
+    },
+    {
+      "id": "learn-r13-1-fact",
+      "voice": "af_bella",
+      "text": "A larger vibration amplitude increases this tone’s loudness.",
+      "file": "af_bella-learn-r13-1-fact.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "learn-s0",
+      "voice": "af_bella",
+      "text": "Roots take in water and minerals from the soil.",
+      "file": "af_bella-learn-s0.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "learn-s0-gap",
+      "voice": "af_bella",
+      "text": "A blank supports the plant and carries water. stem. seed coat",
+      "file": "af_bella-learn-s0-gap.mp3",
+      "duration": 4.67
+    },
+    {
+      "id": "learn-s0-full",
+      "voice": "af_bella",
+      "text": "A stem supports the plant and carries water.",
+      "file": "af_bella-learn-s0-full.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "learn-s1",
+      "voice": "af_bella",
+      "text": "If the light moves, the young shoot may grow toward it.",
+      "file": "af_bella-learn-s1.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "learn-s1-gap",
+      "voice": "af_bella",
+      "text": "I keep water and soil the blank when testing light. same. opposite",
+      "file": "af_bella-learn-s1-gap.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "learn-s1-full",
+      "voice": "af_bella",
+      "text": "I keep water and soil the same when testing light.",
+      "file": "af_bella-learn-s1-full.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "learn-s2",
+      "voice": "af_bella",
+      "text": "A frog has a backbone, so it is a vertebrate.",
+      "file": "af_bella-learn-s2.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "learn-s2-gap",
+      "voice": "af_bella",
+      "text": "A snail has no backbone, so it is an blank. invertebrate. vertebrate",
+      "file": "af_bella-learn-s2-gap.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "learn-s2-full",
+      "voice": "af_bella",
+      "text": "A snail has no backbone, so it is an invertebrate.",
+      "file": "af_bella-learn-s2-full.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "learn-s3",
+      "voice": "af_bella",
+      "text": "A caterpillar becomes a pupa before it develops into an adult butterfly.",
+      "file": "af_bella-learn-s3.mp3",
+      "duration": 4.65
+    },
+    {
+      "id": "learn-s3-gap",
+      "voice": "af_bella",
+      "text": "A tadpole develops into a blank. froglet. seedling",
+      "file": "af_bella-learn-s3-gap.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "learn-s3-full",
+      "voice": "af_bella",
+      "text": "A tadpole develops into a froglet.",
+      "file": "af_bella-learn-s3-full.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "learn-s4",
+      "voice": "af_bella",
+      "text": "Sample A drains more water than sample B in this test.",
+      "file": "af_bella-learn-s4.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "learn-s4-gap",
+      "voice": "af_bella",
+      "text": "For a fair soil test, use the same blank of water. amount. color of cup",
+      "file": "af_bella-learn-s4-gap.mp3",
+      "duration": 4.93
+    },
+    {
+      "id": "learn-s4-full",
+      "voice": "af_bella",
+      "text": "For a fair soil test, use the same amount of water.",
+      "file": "af_bella-learn-s4-full.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "learn-s5",
+      "voice": "af_bella",
+      "text": "I observe the surface and use a tool to measure the mass.",
+      "file": "af_bella-learn-s5.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "learn-s5-gap",
+      "voice": "af_bella",
+      "text": "I use a blank to compare mass, not just a photograph. balance. lamp",
+      "file": "af_bella-learn-s5-gap.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "learn-s5-full",
+      "voice": "af_bella",
+      "text": "I use a balance to compare mass, not just a photograph.",
+      "file": "af_bella-learn-s5-full.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "learn-s6",
+      "voice": "af_bella",
+      "text": "A footprint is evidence of an animal’s activity in the past.",
+      "file": "af_bella-learn-s6.mp3",
+      "duration": 3.93
+    },
+    {
+      "id": "learn-s6-gap",
+      "voice": "af_bella",
+      "text": "The fossil does not tell us every blank. detail. clue",
+      "file": "af_bella-learn-s6-gap.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "learn-s6-full",
+      "voice": "af_bella",
+      "text": "The fossil does not tell us every detail.",
+      "file": "af_bella-learn-s6-full.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "learn-s7",
+      "voice": "af_bella",
+      "text": "In undisturbed layers, the lower layer is older.",
+      "file": "af_bella-learn-s7.mp3",
+      "duration": 3.09
+    },
+    {
+      "id": "learn-s7-gap",
+      "voice": "af_bella",
+      "text": "We need more evidence for an blank age in years. exact. older",
+      "file": "af_bella-learn-s7-gap.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "learn-s7-full",
+      "voice": "af_bella",
+      "text": "We need more evidence for an exact age in years.",
+      "file": "af_bella-learn-s7-full.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "learn-s8",
+      "voice": "af_bella",
+      "text": "Reusing a useful item can reduce the need for new materials.",
+      "file": "af_bella-learn-s8.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "learn-s8-gap",
+      "voice": "af_bella",
+      "text": "A loose shelf screw may need blank before reuse. repair. more paint only",
+      "file": "af_bella-learn-s8-gap.mp3",
+      "duration": 5.14
+    },
+    {
+      "id": "learn-s8-full",
+      "voice": "af_bella",
+      "text": "A loose shelf screw may need repair before reuse.",
+      "file": "af_bella-learn-s8-full.mp3",
+      "duration": 3.18
+    },
+    {
+      "id": "learn-s9",
+      "voice": "af_bella",
+      "text": "Wood can be used for furniture, buildings, and paper.",
+      "file": "af_bella-learn-s9.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "learn-s9-gap",
+      "voice": "af_bella",
+      "text": "Coal can be burned to generate blank. electricity. new trees",
+      "file": "af_bella-learn-s9-gap.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "learn-s9-full",
+      "voice": "af_bella",
+      "text": "Coal can be burned to generate electricity.",
+      "file": "af_bella-learn-s9-full.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "learn-s10",
+      "voice": "af_bella",
+      "text": "For the same distance, the faster cart takes less time.",
+      "file": "af_bella-learn-s10.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "learn-s10-gap",
+      "voice": "af_bella",
+      "text": "For equal time, compare the blank traveled. distance. color",
+      "file": "af_bella-learn-s10-gap.mp3",
+      "duration": 4.07
+    },
+    {
+      "id": "learn-s10-full",
+      "voice": "af_bella",
+      "text": "For equal time, compare the distance traveled.",
+      "file": "af_bella-learn-s10-full.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "learn-s11",
+      "voice": "af_bella",
+      "text": "If I brake earlier, the cart may stop closer to the target.",
+      "file": "af_bella-learn-s11.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "learn-s11-gap",
+      "voice": "af_bella",
+      "text": "After testing, I compare my prediction with the blank. result. favorite color",
+      "file": "af_bella-learn-s11-gap.mp3",
+      "duration": 5.14
+    },
+    {
+      "id": "learn-s11-full",
+      "voice": "af_bella",
+      "text": "After testing, I compare my prediction with the result.",
+      "file": "af_bella-learn-s11-full.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "learn-s12",
+      "voice": "af_bella",
+      "text": "A magnet attracts iron. It does not attract every metal.",
+      "file": "af_bella-learn-s12.mp3",
+      "duration": 3.69
+    },
+    {
+      "id": "learn-s12-gap",
+      "voice": "af_bella",
+      "text": "Unlike magnetic poles blank. attract. repel",
+      "file": "af_bella-learn-s12-gap.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": "learn-s12-full",
+      "voice": "af_bella",
+      "text": "Unlike magnetic poles attract.",
+      "file": "af_bella-learn-s12-full.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "learn-s13",
+      "voice": "af_bella",
+      "text": "If the vibrations are faster, the sound has a higher pitch.",
+      "file": "af_bella-learn-s13.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "learn-s13-gap",
+      "voice": "af_bella",
+      "text": "At the same frequency, larger vibrations make a tone blank. louder. higher in pitch",
+      "file": "af_bella-learn-s13-gap.mp3",
+      "duration": 6.14
+    },
+    {
+      "id": "learn-s13-full",
+      "voice": "af_bella",
+      "text": "At the same frequency, larger vibrations make a tone louder.",
+      "file": "af_bella-learn-s13-full.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "learn-f0",
+      "voice": "af_bella",
+      "text": "Compare two fallen leaves. Record their shapes and one visible difference. What can you see? What would require touching?",
+      "file": "af_bella-learn-f0.mp3",
+      "duration": 7.83
+    },
+    {
+      "id": "learn-f1",
+      "voice": "af_bella",
+      "text": "Watch an animal from a distance. Record an action and separate what you see from what you guess. What is your observation? What is still unknown?",
+      "file": "af_bella-learn-f1.mp3",
+      "duration": 8.83
+    },
+    {
+      "id": "learn-f2",
+      "voice": "af_bella",
+      "text": "Choose three familiar household objects. Describe their visible materials and how the materials suit the job. Which material is useful for this task? Why?",
+      "file": "af_bella-learn-f2.mp3",
+      "duration": 10.75
+    },
+    {
+      "id": "learn-f3",
+      "voice": "af_bella",
+      "text": "Look at a shoe print in sand or a photograph of one. Record two visible features. What can the print tell you? What can it not tell you?",
+      "file": "af_bella-learn-f3.mp3",
+      "duration": 8.53
+    },
+    {
+      "id": "learn-f4",
+      "voice": "af_bella",
+      "text": "Find a clean, safe item that can be reused. Ask an adult before changing its use. What new use did you choose? What new material could it save?",
+      "file": "af_bella-learn-f4.mp3",
+      "duration": 9.92
+    },
+    {
+      "id": "learn-f5",
+      "voice": "af_bella",
+      "text": "With an adult, use a low cardboard ramp and a toy car. Keep the start and car the same; compare two surfaces. What did you keep the same? Where did the car stop?",
+      "file": "af_bella-learn-f5.mp3",
+      "duration": 10.97
+    },
+    {
+      "id": "learn-f6",
+      "voice": "af_bella",
+      "text": "Make a gentle humming sound. Notice the vibration at your throat. Try a higher and a lower pitch at comfortable volume. How was higher different from louder?",
+      "file": "af_bella-learn-f6.mp3",
+      "duration": 10.22
+    },
+    {
+      "id": "learn-greenhouse",
+      "voice": "af_bella",
+      "text": "Move the lamp to one side. Compare how a young shoot may grow toward light over time. This is a simplified model, not a live plant.",
+      "file": "af_bella-learn-greenhouse.mp3",
+      "duration": 9.0
+    },
+    {
+      "id": "learn-greenhouse-trial0",
+      "voice": "af_bella",
+      "text": "Lamp on the left. Over time, the young shoot may bend left toward the lamp.",
+      "file": "af_bella-learn-greenhouse-trial0.mp3",
+      "duration": 4.86
+    },
+    {
+      "id": "learn-greenhouse-trial1",
+      "voice": "af_bella",
+      "text": "Lamp on the right. Over time, the young shoot may bend right toward the lamp.",
+      "file": "af_bella-learn-greenhouse-trial1.mp3",
+      "duration": 4.86
+    }
+  ]
+}

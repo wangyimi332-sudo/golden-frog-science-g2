@@ -1,0 +1,1098 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "a1-intro",
+      "voice": "af_heart",
+      "text": "Open the body clues. Sort animals with and without backbones.",
+      "file": "af_heart-a1-intro.mp3",
+      "duration": 3.78
+    },
+    {
+      "id": "a1-fact",
+      "voice": "af_heart",
+      "text": "A hard outer covering is not a backbone. Body clues help us classify animals.",
+      "file": "af_heart-a1-fact.mp3",
+      "duration": 5.23
+    },
+    {
+      "id": "a1-step0",
+      "voice": "af_heart",
+      "text": "Look inside the clues, then sort all four animals.",
+      "file": "af_heart-a1-step0.mp3",
+      "duration": 3.22
+    },
+    {
+      "id": "a1-step1",
+      "voice": "af_heart",
+      "text": "Does a hard shell mean an animal has a backbone?",
+      "file": "af_heart-a1-step1.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "a1-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a1-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a1-sentence",
+      "voice": "af_heart",
+      "text": "A snail has a shell but no backbone.",
+      "file": "af_heart-a1-sentence.mp3",
+      "duration": 2.3
+    },
+    {
+      "id": "a2-intro",
+      "voice": "af_heart",
+      "text": "These animals have backbones. Use more body clues to find their groups.",
+      "file": "af_heart-a2-intro.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "a2-fact",
+      "voice": "af_heart",
+      "text": "Use several clues. Living in water or being able to fly does not always tell you an animal’s group.",
+      "file": "af_heart-a2-fact.mp3",
+      "duration": 6.46
+    },
+    {
+      "id": "a2-step0",
+      "voice": "af_heart",
+      "text": "Match each animal to its group.",
+      "file": "af_heart-a2-step0.mp3",
+      "duration": 1.96
+    },
+    {
+      "id": "a2-step1",
+      "voice": "af_heart",
+      "text": "New animals, same rule. Find their teams.",
+      "file": "af_heart-a2-step1.mp3",
+      "duration": 2.86
+    },
+    {
+      "id": "a2-step2",
+      "voice": "af_heart",
+      "text": "Which clue supports “dolphin = mammal”?",
+      "file": "af_heart-a2-step2.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "a2-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a2-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a2-sentence",
+      "voice": "af_heart",
+      "text": "A dolphin is a mammal because it feeds its young milk.",
+      "file": "af_heart-a2-sentence.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "a3-intro",
+      "voice": "af_heart",
+      "text": "Describe the penguin using clues another explorer can check.",
+      "file": "af_heart-a3-intro.mp3",
+      "duration": 3.67
+    },
+    {
+      "id": "a3-fact",
+      "voice": "af_heart",
+      "text": "Observations and opinions are different. A useful report describes evidence.",
+      "file": "af_heart-a3-fact.mp3",
+      "duration": 5.16
+    },
+    {
+      "id": "a3-step0",
+      "voice": "af_heart",
+      "text": "Choose two useful clues for a field message.",
+      "file": "af_heart-a3-step0.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "a3-step1",
+      "voice": "af_heart",
+      "text": "A beetle report needs a checkable clue. Which one?",
+      "file": "af_heart-a3-step1.mp3",
+      "duration": 3.24
+    },
+    {
+      "id": "a3-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a3-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a3-sentence",
+      "voice": "af_heart",
+      "text": "It has feathers, so it belongs to the bird group.",
+      "file": "af_heart-a3-sentence.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": "a4-intro",
+      "voice": "af_heart",
+      "text": "Read the panda care records. Find out what a newborn needs.",
+      "file": "af_heart-a4-intro.mp3",
+      "duration": 3.58
+    },
+    {
+      "id": "a4-fact",
+      "voice": "af_heart",
+      "text": "Young mammals get milk from their mothers. Their needs change as they grow.",
+      "file": "af_heart-a4-fact.mp3",
+      "duration": 4.29
+    },
+    {
+      "id": "a4-step0",
+      "voice": "af_heart",
+      "text": "Recall: a panda mother feeds her young milk. Which group is it in?",
+      "file": "af_heart-a4-step0.mp3",
+      "duration": 4.01
+    },
+    {
+      "id": "a4-step1",
+      "voice": "af_heart",
+      "text": "Match each care note to the records.",
+      "file": "af_heart-a4-step1.mp3",
+      "duration": 2.03
+    },
+    {
+      "id": "a4-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a4-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a4-sentence",
+      "voice": "af_heart",
+      "text": "The newborn cub needs milk and care.",
+      "file": "af_heart-a4-sentence.mp3",
+      "duration": 2.18
+    },
+    {
+      "id": "a5-intro",
+      "voice": "af_heart",
+      "text": "Put the panda records in order. Find a similarity and a difference.",
+      "file": "af_heart-a5-intro.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "a5-fact",
+      "voice": "af_heart",
+      "text": "Young animals can share many features with adults without looking exactly the same.",
+      "file": "af_heart-a5-fact.mp3",
+      "duration": 5.08
+    },
+    {
+      "id": "a5-step0",
+      "voice": "af_heart",
+      "text": "Tap the stages from youngest to oldest.",
+      "file": "af_heart-a5-step0.mp3",
+      "duration": 2.54
+    },
+    {
+      "id": "a5-step1",
+      "voice": "af_heart",
+      "text": "Choose one similarity and one difference.",
+      "file": "af_heart-a5-step1.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "a5-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a5-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a5-sentence",
+      "voice": "af_heart",
+      "text": "Both have fur, but the adult is larger.",
+      "file": "af_heart-a5-sentence.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "a6-intro",
+      "voice": "af_heart",
+      "text": "Birds are not the only animals that lay eggs. Match each record to a place.",
+      "file": "af_heart-a6-intro.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "a6-fact",
+      "voice": "af_heart",
+      "text": "Many kinds of animals lay eggs. Not all egg coverings are hard shells.",
+      "file": "af_heart-a6-fact.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "a6-step0",
+      "voice": "af_heart",
+      "text": "Match each animal’s eggs to the recorded place.",
+      "file": "af_heart-a6-step0.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "a6-step1",
+      "voice": "af_heart",
+      "text": "Does laying eggs mean an animal must be a bird?",
+      "file": "af_heart-a6-step1.mp3",
+      "duration": 2.9
+    },
+    {
+      "id": "a6-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a6-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a6-sentence",
+      "voice": "af_heart",
+      "text": "Many kinds of animals lay eggs.",
+      "file": "af_heart-a6-sentence.mp3",
+      "duration": 2.05
+    },
+    {
+      "id": "a7-intro",
+      "voice": "af_heart",
+      "text": "Fix the butterfly life-cycle wheel. Add an event to each stage.",
+      "file": "af_heart-a7-intro.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": "a7-fact",
+      "voice": "af_heart",
+      "text": "A caterpillar and an adult butterfly look different, but they are stages of the same kind of animal.",
+      "file": "af_heart-a7-fact.mp3",
+      "duration": 6.17
+    },
+    {
+      "id": "a7-step0",
+      "voice": "af_heart",
+      "text": "Put the four stages in life-cycle order.",
+      "file": "af_heart-a7-step0.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "a7-step1",
+      "voice": "af_heart",
+      "text": "Match each event to its stage.",
+      "file": "af_heart-a7-step1.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "a7-step2",
+      "voice": "af_heart",
+      "text": "A pupa looks still. What can we conclude?",
+      "file": "af_heart-a7-step2.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "a7-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a7-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a7-sentence",
+      "voice": "af_heart",
+      "text": "First comes the egg. Then comes the larva. Next comes the pupa. Finally comes the adult.",
+      "file": "af_heart-a7-sentence.mp3",
+      "duration": 6.12
+    },
+    {
+      "id": "a8-intro",
+      "voice": "af_heart",
+      "text": "A mealworm has a surprising name. Follow the example log to discover its adult stage.",
+      "file": "af_heart-a8-intro.mp3",
+      "duration": 5.99
+    },
+    {
+      "id": "a8-fact",
+      "voice": "af_heart",
+      "text": "A mealworm is a beetle larva. Growing larvae shed their outer covering. This is called molting.",
+      "file": "af_heart-a8-fact.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "a8-step0",
+      "voice": "af_heart",
+      "text": "Read the example log. Arrange earlier to later.",
+      "file": "af_heart-a8-step0.mp3",
+      "duration": 3.22
+    },
+    {
+      "id": "a8-step1",
+      "voice": "af_heart",
+      "text": "Which adult does this mealworm become?",
+      "file": "af_heart-a8-step1.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "a8-step2",
+      "voice": "af_heart",
+      "text": "What do the butterfly and beetle records share?",
+      "file": "af_heart-a8-step2.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "a8-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a8-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a8-sentence",
+      "voice": "af_heart",
+      "text": "A mealworm is a beetle larva.",
+      "file": "af_heart-a8-sentence.mp3",
+      "duration": 2.11
+    },
+    {
+      "id": "a9-intro",
+      "voice": "af_heart",
+      "text": "Match body features to their jobs. Choose an observation that supports your explanation.",
+      "file": "af_heart-a9-intro.mp3",
+      "duration": 5.44
+    },
+    {
+      "id": "a9-fact",
+      "voice": "af_heart",
+      "text": "Traits can help animals move, find food, or stay safe. Use observations to explain the connection.",
+      "file": "af_heart-a9-fact.mp3",
+      "duration": 6.91
+    },
+    {
+      "id": "a9-step0",
+      "voice": "af_heart",
+      "text": "Connect each feature to the job it helps with.",
+      "file": "af_heart-a9-step0.mp3",
+      "duration": 2.62
+    },
+    {
+      "id": "a9-step1",
+      "voice": "af_heart",
+      "text": "Which observation supports “claws help it dig”?",
+      "file": "af_heart-a9-step1.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "a9-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a9-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a9-sentence",
+      "voice": "af_heart",
+      "text": "Its claws help it dig in the soil.",
+      "file": "af_heart-a9-sentence.mp3",
+      "duration": 2.11
+    },
+    {
+      "id": "a10-intro",
+      "voice": "af_heart",
+      "text": "Predict which background makes the green insect harder to notice. Change only the background, then compare.",
+      "file": "af_heart-a10-intro.mp3",
+      "duration": 6.59
+    },
+    {
+      "id": "a10-fact",
+      "voice": "af_heart",
+      "text": "Similar colors can make an animal harder to notice. This is a picture model, not a test of every real predator.",
+      "file": "af_heart-a10-fact.mp3",
+      "duration": 7.19
+    },
+    {
+      "id": "a10-step0",
+      "voice": "af_heart",
+      "text": "Predict first. Then view both backgrounds.",
+      "file": "af_heart-a10-step0.mp3",
+      "duration": 2.65
+    },
+    {
+      "id": "a10-step1",
+      "voice": "af_heart",
+      "text": "What stayed the same in our comparison?",
+      "file": "af_heart-a10-step1.mp3",
+      "duration": 2.13
+    },
+    {
+      "id": "a10-step2",
+      "voice": "af_heart",
+      "text": "Which conclusion fits this model?",
+      "file": "af_heart-a10-step2.mp3",
+      "duration": 1.98
+    },
+    {
+      "id": "a10-step3",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a10-step3.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a10-sentence",
+      "voice": "af_heart",
+      "text": "In this model, the green background makes the green insect harder to notice.",
+      "file": "af_heart-a10-sentence.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "a11-intro",
+      "voice": "af_heart",
+      "text": "Find all rabbits in Area A. Use both the species and the study area to make your group.",
+      "file": "af_heart-a11-intro.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "a11-fact",
+      "voice": "af_heart",
+      "text": "A population includes the same species in an area. Individuals share traits but need not look exactly the same.",
+      "file": "af_heart-a11-fact.mp3",
+      "duration": 7.64
+    },
+    {
+      "id": "a11-step0",
+      "voice": "af_heart",
+      "text": "Select all rabbits in Area A, and no other animals.",
+      "file": "af_heart-a11-step0.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "a11-step1",
+      "voice": "af_heart",
+      "text": "Choose two statements supported by the rabbit records.",
+      "file": "af_heart-a11-step1.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "a11-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a11-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a11-sentence",
+      "voice": "af_heart",
+      "text": "These rabbits are the same species in one study area.",
+      "file": "af_heart-a11-sentence.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "a12-intro",
+      "voice": "af_heart",
+      "text": "Build a frog display. Combine life-cycle records and body clues to correct a mistaken label.",
+      "file": "af_heart-a12-intro.mp3",
+      "duration": 6.14
+    },
+    {
+      "id": "a12-fact",
+      "voice": "af_heart",
+      "text": "A tadpole is a young amphibian. Follow its life cycle and use evidence, not just its home, to explain its group.",
+      "file": "af_heart-a12-fact.mp3",
+      "duration": 7.77
+    },
+    {
+      "id": "a12-step0",
+      "voice": "af_heart",
+      "text": "Build the frog life-cycle display.",
+      "file": "af_heart-a12-step0.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "a12-step1",
+      "voice": "af_heart",
+      "text": "Add the body clues to the correct stages.",
+      "file": "af_heart-a12-step1.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "a12-step2",
+      "voice": "af_heart",
+      "text": "Fix this label: “A tadpole is a fish because it lives in water.”",
+      "file": "af_heart-a12-step2.mp3",
+      "duration": 3.99
+    },
+    {
+      "id": "a12-step3",
+      "voice": "af_heart",
+      "text": "Which record supports the corrected label?",
+      "file": "af_heart-a12-step3.mp3",
+      "duration": 2.45
+    },
+    {
+      "id": "a12-step4",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-a12-step4.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "a12-sentence",
+      "voice": "af_heart",
+      "text": "A tadpole develops into a frog. It is a young amphibian.",
+      "file": "af_heart-a12-sentence.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "a1-intro",
+      "voice": "af_bella",
+      "text": "Open the body clues. Sort animals with and without backbones.",
+      "file": "af_bella-a1-intro.mp3",
+      "duration": 3.8
+    },
+    {
+      "id": "a1-fact",
+      "voice": "af_bella",
+      "text": "A hard outer covering is not a backbone. Body clues help us classify animals.",
+      "file": "af_bella-a1-fact.mp3",
+      "duration": 5.44
+    },
+    {
+      "id": "a1-step0",
+      "voice": "af_bella",
+      "text": "Look inside the clues, then sort all four animals.",
+      "file": "af_bella-a1-step0.mp3",
+      "duration": 3.26
+    },
+    {
+      "id": "a1-step1",
+      "voice": "af_bella",
+      "text": "Does a hard shell mean an animal has a backbone?",
+      "file": "af_bella-a1-step1.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "a1-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a1-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a1-sentence",
+      "voice": "af_bella",
+      "text": "A snail has a shell but no backbone.",
+      "file": "af_bella-a1-sentence.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "a2-intro",
+      "voice": "af_bella",
+      "text": "These animals have backbones. Use more body clues to find their groups.",
+      "file": "af_bella-a2-intro.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "a2-fact",
+      "voice": "af_bella",
+      "text": "Use several clues. Living in water or being able to fly does not always tell you an animal’s group.",
+      "file": "af_bella-a2-fact.mp3",
+      "duration": 6.66
+    },
+    {
+      "id": "a2-step0",
+      "voice": "af_bella",
+      "text": "Match each animal to its group.",
+      "file": "af_bella-a2-step0.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "a2-step1",
+      "voice": "af_bella",
+      "text": "New animals, same rule. Find their teams.",
+      "file": "af_bella-a2-step1.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "a2-step2",
+      "voice": "af_bella",
+      "text": "Which clue supports “dolphin = mammal”?",
+      "file": "af_bella-a2-step2.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": "a2-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a2-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a2-sentence",
+      "voice": "af_bella",
+      "text": "A dolphin is a mammal because it feeds its young milk.",
+      "file": "af_bella-a2-sentence.mp3",
+      "duration": 3.2
+    },
+    {
+      "id": "a3-intro",
+      "voice": "af_bella",
+      "text": "Describe the penguin using clues another explorer can check.",
+      "file": "af_bella-a3-intro.mp3",
+      "duration": 3.95
+    },
+    {
+      "id": "a3-fact",
+      "voice": "af_bella",
+      "text": "Observations and opinions are different. A useful report describes evidence.",
+      "file": "af_bella-a3-fact.mp3",
+      "duration": 5.44
+    },
+    {
+      "id": "a3-step0",
+      "voice": "af_bella",
+      "text": "Choose two useful clues for a field message.",
+      "file": "af_bella-a3-step0.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "a3-step1",
+      "voice": "af_bella",
+      "text": "A beetle report needs a checkable clue. Which one?",
+      "file": "af_bella-a3-step1.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "a3-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a3-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a3-sentence",
+      "voice": "af_bella",
+      "text": "It has feathers, so it belongs to the bird group.",
+      "file": "af_bella-a3-sentence.mp3",
+      "duration": 2.84
+    },
+    {
+      "id": "a4-intro",
+      "voice": "af_bella",
+      "text": "Read the panda care records. Find out what a newborn needs.",
+      "file": "af_bella-a4-intro.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "a4-fact",
+      "voice": "af_bella",
+      "text": "Young mammals get milk from their mothers. Their needs change as they grow.",
+      "file": "af_bella-a4-fact.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "a4-step0",
+      "voice": "af_bella",
+      "text": "Recall: a panda mother feeds her young milk. Which group is it in?",
+      "file": "af_bella-a4-step0.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "a4-step1",
+      "voice": "af_bella",
+      "text": "Match each care note to the records.",
+      "file": "af_bella-a4-step1.mp3",
+      "duration": 2.01
+    },
+    {
+      "id": "a4-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a4-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a4-sentence",
+      "voice": "af_bella",
+      "text": "The newborn cub needs milk and care.",
+      "file": "af_bella-a4-sentence.mp3",
+      "duration": 2.24
+    },
+    {
+      "id": "a5-intro",
+      "voice": "af_bella",
+      "text": "Put the panda records in order. Find a similarity and a difference.",
+      "file": "af_bella-a5-intro.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "a5-fact",
+      "voice": "af_bella",
+      "text": "Young animals can share many features with adults without looking exactly the same.",
+      "file": "af_bella-a5-fact.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": "a5-step0",
+      "voice": "af_bella",
+      "text": "Tap the stages from youngest to oldest.",
+      "file": "af_bella-a5-step0.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "a5-step1",
+      "voice": "af_bella",
+      "text": "Choose one similarity and one difference.",
+      "file": "af_bella-a5-step1.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "a5-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a5-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a5-sentence",
+      "voice": "af_bella",
+      "text": "Both have fur, but the adult is larger.",
+      "file": "af_bella-a5-sentence.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "a6-intro",
+      "voice": "af_bella",
+      "text": "Birds are not the only animals that lay eggs. Match each record to a place.",
+      "file": "af_bella-a6-intro.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": "a6-fact",
+      "voice": "af_bella",
+      "text": "Many kinds of animals lay eggs. Not all egg coverings are hard shells.",
+      "file": "af_bella-a6-fact.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "a6-step0",
+      "voice": "af_bella",
+      "text": "Match each animal’s eggs to the recorded place.",
+      "file": "af_bella-a6-step0.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "a6-step1",
+      "voice": "af_bella",
+      "text": "Does laying eggs mean an animal must be a bird?",
+      "file": "af_bella-a6-step1.mp3",
+      "duration": 2.97
+    },
+    {
+      "id": "a6-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a6-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a6-sentence",
+      "voice": "af_bella",
+      "text": "Many kinds of animals lay eggs.",
+      "file": "af_bella-a6-sentence.mp3",
+      "duration": 1.88
+    },
+    {
+      "id": "a7-intro",
+      "voice": "af_bella",
+      "text": "Fix the butterfly life-cycle wheel. Add an event to each stage.",
+      "file": "af_bella-a7-intro.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": "a7-fact",
+      "voice": "af_bella",
+      "text": "A caterpillar and an adult butterfly look different, but they are stages of the same kind of animal.",
+      "file": "af_bella-a7-fact.mp3",
+      "duration": 6.29
+    },
+    {
+      "id": "a7-step0",
+      "voice": "af_bella",
+      "text": "Put the four stages in life-cycle order.",
+      "file": "af_bella-a7-step0.mp3",
+      "duration": 2.71
+    },
+    {
+      "id": "a7-step1",
+      "voice": "af_bella",
+      "text": "Match each event to its stage.",
+      "file": "af_bella-a7-step1.mp3",
+      "duration": 1.81
+    },
+    {
+      "id": "a7-step2",
+      "voice": "af_bella",
+      "text": "A pupa looks still. What can we conclude?",
+      "file": "af_bella-a7-step2.mp3",
+      "duration": 2.58
+    },
+    {
+      "id": "a7-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a7-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a7-sentence",
+      "voice": "af_bella",
+      "text": "First comes the egg. Then comes the larva. Next comes the pupa. Finally comes the adult.",
+      "file": "af_bella-a7-sentence.mp3",
+      "duration": 6.25
+    },
+    {
+      "id": "a8-intro",
+      "voice": "af_bella",
+      "text": "A mealworm has a surprising name. Follow the example log to discover its adult stage.",
+      "file": "af_bella-a8-intro.mp3",
+      "duration": 6.1
+    },
+    {
+      "id": "a8-fact",
+      "voice": "af_bella",
+      "text": "A mealworm is a beetle larva. Growing larvae shed their outer covering. This is called molting.",
+      "file": "af_bella-a8-fact.mp3",
+      "duration": 6.31
+    },
+    {
+      "id": "a8-step0",
+      "voice": "af_bella",
+      "text": "Read the example log. Arrange earlier to later.",
+      "file": "af_bella-a8-step0.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": "a8-step1",
+      "voice": "af_bella",
+      "text": "Which adult does this mealworm become?",
+      "file": "af_bella-a8-step1.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "a8-step2",
+      "voice": "af_bella",
+      "text": "What do the butterfly and beetle records share?",
+      "file": "af_bella-a8-step2.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "a8-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a8-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a8-sentence",
+      "voice": "af_bella",
+      "text": "A mealworm is a beetle larva.",
+      "file": "af_bella-a8-sentence.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "a9-intro",
+      "voice": "af_bella",
+      "text": "Match body features to their jobs. Choose an observation that supports your explanation.",
+      "file": "af_bella-a9-intro.mp3",
+      "duration": 5.61
+    },
+    {
+      "id": "a9-fact",
+      "voice": "af_bella",
+      "text": "Traits can help animals move, find food, or stay safe. Use observations to explain the connection.",
+      "file": "af_bella-a9-fact.mp3",
+      "duration": 7.34
+    },
+    {
+      "id": "a9-step0",
+      "voice": "af_bella",
+      "text": "Connect each feature to the job it helps with.",
+      "file": "af_bella-a9-step0.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "a9-step1",
+      "voice": "af_bella",
+      "text": "Which observation supports “claws help it dig”?",
+      "file": "af_bella-a9-step1.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "a9-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a9-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a9-sentence",
+      "voice": "af_bella",
+      "text": "Its claws help it dig in the soil.",
+      "file": "af_bella-a9-sentence.mp3",
+      "duration": 2.05
+    },
+    {
+      "id": "a10-intro",
+      "voice": "af_bella",
+      "text": "Predict which background makes the green insect harder to notice. Change only the background, then compare.",
+      "file": "af_bella-a10-intro.mp3",
+      "duration": 6.91
+    },
+    {
+      "id": "a10-fact",
+      "voice": "af_bella",
+      "text": "Similar colors can make an animal harder to notice. This is a picture model, not a test of every real predator.",
+      "file": "af_bella-a10-fact.mp3",
+      "duration": 7.38
+    },
+    {
+      "id": "a10-step0",
+      "voice": "af_bella",
+      "text": "Predict first. Then view both backgrounds.",
+      "file": "af_bella-a10-step0.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "a10-step1",
+      "voice": "af_bella",
+      "text": "What stayed the same in our comparison?",
+      "file": "af_bella-a10-step1.mp3",
+      "duration": 2.15
+    },
+    {
+      "id": "a10-step2",
+      "voice": "af_bella",
+      "text": "Which conclusion fits this model?",
+      "file": "af_bella-a10-step2.mp3",
+      "duration": 2.07
+    },
+    {
+      "id": "a10-step3",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a10-step3.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a10-sentence",
+      "voice": "af_bella",
+      "text": "In this model, the green background makes the green insect harder to notice.",
+      "file": "af_bella-a10-sentence.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "a11-intro",
+      "voice": "af_bella",
+      "text": "Find all rabbits in Area A. Use both the species and the study area to make your group.",
+      "file": "af_bella-a11-intro.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "a11-fact",
+      "voice": "af_bella",
+      "text": "A population includes the same species in an area. Individuals share traits but need not look exactly the same.",
+      "file": "af_bella-a11-fact.mp3",
+      "duration": 7.7
+    },
+    {
+      "id": "a11-step0",
+      "voice": "af_bella",
+      "text": "Select all rabbits in Area A, and no other animals.",
+      "file": "af_bella-a11-step0.mp3",
+      "duration": 3.39
+    },
+    {
+      "id": "a11-step1",
+      "voice": "af_bella",
+      "text": "Choose two statements supported by the rabbit records.",
+      "file": "af_bella-a11-step1.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "a11-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a11-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a11-sentence",
+      "voice": "af_bella",
+      "text": "These rabbits are the same species in one study area.",
+      "file": "af_bella-a11-sentence.mp3",
+      "duration": 3.33
+    },
+    {
+      "id": "a12-intro",
+      "voice": "af_bella",
+      "text": "Build a frog display. Combine life-cycle records and body clues to correct a mistaken label.",
+      "file": "af_bella-a12-intro.mp3",
+      "duration": 6.19
+    },
+    {
+      "id": "a12-fact",
+      "voice": "af_bella",
+      "text": "A tadpole is a young amphibian. Follow its life cycle and use evidence, not just its home, to explain its group.",
+      "file": "af_bella-a12-fact.mp3",
+      "duration": 7.91
+    },
+    {
+      "id": "a12-step0",
+      "voice": "af_bella",
+      "text": "Build the frog life-cycle display.",
+      "file": "af_bella-a12-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "a12-step1",
+      "voice": "af_bella",
+      "text": "Add the body clues to the correct stages.",
+      "file": "af_bella-a12-step1.mp3",
+      "duration": 2.47
+    },
+    {
+      "id": "a12-step2",
+      "voice": "af_bella",
+      "text": "Fix this label: “A tadpole is a fish because it lives in water.”",
+      "file": "af_bella-a12-step2.mp3",
+      "duration": 4.18
+    },
+    {
+      "id": "a12-step3",
+      "voice": "af_bella",
+      "text": "Which record supports the corrected label?",
+      "file": "af_bella-a12-step3.mp3",
+      "duration": 2.56
+    },
+    {
+      "id": "a12-step4",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-a12-step4.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "a12-sentence",
+      "voice": "af_bella",
+      "text": "A tadpole develops into a frog. It is a young amphibian.",
+      "file": "af_bella-a12-sentence.mp3",
+      "duration": 4.1
+    }
+  ]
+}

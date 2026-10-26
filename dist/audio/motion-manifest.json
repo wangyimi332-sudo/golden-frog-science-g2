@@ -1,0 +1,1686 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "license": "Apache-2.0",
+  "clips": [
+    {
+      "id": "m1-intro",
+      "voice": "af_heart",
+      "text": "The tree stays at the center. Find a position using the fixed screen view.",
+      "file": "af_heart-m1-intro.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m1-fact",
+      "voice": "af_heart",
+      "text": "Position is described relative to a reference object.",
+      "file": "af_heart-m1-fact.mp3",
+      "duration": 3.61
+    },
+    {
+      "id": "m1-step0",
+      "voice": "af_heart",
+      "text": "Place the sample above the tree.",
+      "file": "af_heart-m1-step0.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "m1-step1",
+      "voice": "af_heart",
+      "text": "What is the reference object? A. The tree B. Your moving finger",
+      "file": "af_heart-m1-step1.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m1-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m1-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m1-sentence",
+      "voice": "af_heart",
+      "text": "The sample is above the tree.",
+      "file": "af_heart-m1-sentence.mp3",
+      "duration": 1.9
+    },
+    {
+      "id": "m2-intro",
+      "voice": "af_heart",
+      "text": "Use the same map. Left and right follow the screen, even if a character turns.",
+      "file": "af_heart-m2-intro.mp3",
+      "duration": 5.03
+    },
+    {
+      "id": "m2-fact",
+      "voice": "af_heart",
+      "text": "A fixed reference view makes instructions clear.",
+      "file": "af_heart-m2-fact.mp3",
+      "duration": 2.88
+    },
+    {
+      "id": "m2-step0",
+      "voice": "af_heart",
+      "text": "Place the box to the left of the tree.",
+      "file": "af_heart-m2-step0.mp3",
+      "duration": 2.13
+    },
+    {
+      "id": "m2-step1",
+      "voice": "af_heart",
+      "text": "If the worker turns around, does the map’s left side change? A. Yes B. No",
+      "file": "af_heart-m2-step1.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": "m2-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m2-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m2-sentence",
+      "voice": "af_heart",
+      "text": "The box is to the left of the tree.",
+      "file": "af_heart-m2-sentence.mp3",
+      "duration": 2.01
+    },
+    {
+      "id": "m3-intro",
+      "voice": "af_heart",
+      "text": "Route A is 6 model units long; route B is 9. Align the ruler’s zero with the start.",
+      "file": "af_heart-m3-intro.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "m3-fact",
+      "voice": "af_heart",
+      "text": "Model units describe the drawing, not real centimeters on your screen.",
+      "file": "af_heart-m3-fact.mp3",
+      "duration": 4.37
+    },
+    {
+      "id": "m3-step0",
+      "voice": "af_heart",
+      "text": "Align zero with START, then measure.",
+      "file": "af_heart-m3-step0.mp3",
+      "duration": 2.33
+    },
+    {
+      "id": "m3-step1",
+      "voice": "af_heart",
+      "text": "Which route is longer? A. Route A: 6 units B. Route B: 9 units",
+      "file": "af_heart-m3-step1.mp3",
+      "duration": 4.8
+    },
+    {
+      "id": "m3-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m3-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m3-sentence",
+      "voice": "af_heart",
+      "text": "Route B is longer than route A.",
+      "file": "af_heart-m3-sentence.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "m4-intro",
+      "voice": "af_heart",
+      "text": "Give a direction that names both the target position and the reference object.",
+      "file": "af_heart-m4-intro.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "m4-fact",
+      "voice": "af_heart",
+      "text": "Clear directions identify a position and reference.",
+      "file": "af_heart-m4-fact.mp3",
+      "duration": 3.35
+    },
+    {
+      "id": "m4-step0",
+      "voice": "af_heart",
+      "text": "Place the parcel between the tree and the station.",
+      "file": "af_heart-m4-step0.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m4-step1",
+      "voice": "af_heart",
+      "text": "Which instruction is clearer? A. Put it there. B. Put the parcel between the tree and the station.",
+      "file": "af_heart-m4-step1.mp3",
+      "duration": 6.21
+    },
+    {
+      "id": "m4-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m4-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m4-sentence",
+      "voice": "af_heart",
+      "text": "Put the parcel between the tree and the station.",
+      "file": "af_heart-m4-sentence.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "m5-intro",
+      "voice": "af_heart",
+      "text": "Watch a cart relative to the fixed flag. One trial goes out and returns.",
+      "file": "af_heart-m5-intro.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": "m5-fact",
+      "voice": "af_heart",
+      "text": "Compare positions over time, not only the first and last pictures.",
+      "file": "af_heart-m5-fact.mp3",
+      "duration": 4.16
+    },
+    {
+      "id": "m5-step0",
+      "voice": "af_heart",
+      "text": "Replay both journeys.",
+      "file": "af_heart-m5-step0.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m5-step1",
+      "voice": "af_heart",
+      "text": "It ends where it started. Does that prove it never moved? A. Yes B. No. We must watch the journey.",
+      "file": "af_heart-m5-step1.mp3",
+      "duration": 6.25
+    },
+    {
+      "id": "m5-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m5-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m5-sentence",
+      "voice": "af_heart",
+      "text": "The cart moved even when it returned to its starting position.",
+      "file": "af_heart-m5-sentence.mp3",
+      "duration": 3.54
+    },
+    {
+      "id": "m6-intro",
+      "voice": "af_heart",
+      "text": "Watch three separate model motions: straight travel, rotation, and back-and-forth travel.",
+      "file": "af_heart-m6-intro.mp3",
+      "duration": 5.76
+    },
+    {
+      "id": "m6-fact",
+      "voice": "af_heart",
+      "text": "Real objects may combine motions; these clips isolate one pattern.",
+      "file": "af_heart-m6-fact.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "m6-step0",
+      "voice": "af_heart",
+      "text": "Play all three motion clips.",
+      "file": "af_heart-m6-step0.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "m6-step1",
+      "voice": "af_heart",
+      "text": "Which clip goes out and returns? A. Rotation B. Back and forth C. Straight travel",
+      "file": "af_heart-m6-step1.mp3",
+      "duration": 5.55
+    },
+    {
+      "id": "m6-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m6-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m6-sentence",
+      "voice": "af_heart",
+      "text": "Back-and-forth motion changes direction and can return to the start.",
+      "file": "af_heart-m6-sentence.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "m7-intro",
+      "voice": "af_heart",
+      "text": "Model record: cart A travels 20 units in 5 seconds; B travels 30 in 5 seconds.",
+      "file": "af_heart-m7-intro.mp3",
+      "duration": 6.27
+    },
+    {
+      "id": "m7-fact",
+      "voice": "af_heart",
+      "text": "For equal times, compare distance traveled.",
+      "file": "af_heart-m7-fact.mp3",
+      "duration": 2.77
+    },
+    {
+      "id": "m7-step0",
+      "voice": "af_heart",
+      "text": "Run both carts for the same model time.",
+      "file": "af_heart-m7-step0.mp3",
+      "duration": 2.41
+    },
+    {
+      "id": "m7-step1",
+      "voice": "af_heart",
+      "text": "Which has the greater average speed? A. A B. B C. They must be equal",
+      "file": "af_heart-m7-step1.mp3",
+      "duration": 4.82
+    },
+    {
+      "id": "m7-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m7-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m7-sentence",
+      "voice": "af_heart",
+      "text": "Cart B travels farther in the same time, so its average speed is greater.",
+      "file": "af_heart-m7-sentence.mp3",
+      "duration": 4.35
+    },
+    {
+      "id": "m8-intro",
+      "voice": "af_heart",
+      "text": "Both carts travel 20 units. A takes 4 seconds; B takes 6 seconds.",
+      "file": "af_heart-m8-intro.mp3",
+      "duration": 5.06
+    },
+    {
+      "id": "m8-fact",
+      "voice": "af_heart",
+      "text": "Compare each cart’s elapsed travel time, not who starts first.",
+      "file": "af_heart-m8-fact.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m8-step0",
+      "voice": "af_heart",
+      "text": "Run both equal-distance trials.",
+      "file": "af_heart-m8-step0.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "m8-step1",
+      "voice": "af_heart",
+      "text": "Which has the greater average speed? A. A B. B",
+      "file": "af_heart-m8-step1.mp3",
+      "duration": 3.16
+    },
+    {
+      "id": "m8-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m8-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m8-sentence",
+      "voice": "af_heart",
+      "text": "Cart A takes less time for the same distance, so its average speed is greater.",
+      "file": "af_heart-m8-sentence.mp3",
+      "duration": 4.63
+    },
+    {
+      "id": "m9-intro",
+      "voice": "af_heart",
+      "text": "The worker is at the left. A push sends this box right; a pull brings it toward the worker.",
+      "file": "af_heart-m9-intro.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "m9-fact",
+      "voice": "af_heart",
+      "text": "A push or pull is a force acting on an object.",
+      "file": "af_heart-m9-fact.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m9-step0",
+      "voice": "af_heart",
+      "text": "Try pushing and pulling.",
+      "file": "af_heart-m9-step0.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m9-step1",
+      "voice": "af_heart",
+      "text": "Which action brings the box toward the worker? A. Push away B. Pull toward",
+      "file": "af_heart-m9-step1.mp3",
+      "duration": 5.06
+    },
+    {
+      "id": "m9-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m9-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m9-sentence",
+      "voice": "af_heart",
+      "text": "A pull brings this box toward the worker.",
+      "file": "af_heart-m9-sentence.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m10-intro",
+      "voice": "af_heart",
+      "text": "The cart starts at rest. The target is to its right. Compare two opposite pushes.",
+      "file": "af_heart-m10-intro.mp3",
+      "duration": 5.16
+    },
+    {
+      "id": "m10-fact",
+      "voice": "af_heart",
+      "text": "The effect of a force depends on its direction and the object’s current motion.",
+      "file": "af_heart-m10-fact.mp3",
+      "duration": 4.74
+    },
+    {
+      "id": "m10-step0",
+      "voice": "af_heart",
+      "text": "Test both push directions.",
+      "file": "af_heart-m10-step0.mp3",
+      "duration": 1.77
+    },
+    {
+      "id": "m10-step1",
+      "voice": "af_heart",
+      "text": "Which push moves this resting cart toward the right target? A. Push right B. Push left",
+      "file": "af_heart-m10-step1.mp3",
+      "duration": 5.85
+    },
+    {
+      "id": "m10-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m10-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m10-sentence",
+      "voice": "af_heart",
+      "text": "For this resting cart, a push to the right starts motion toward the target.",
+      "file": "af_heart-m10-sentence.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m11-intro",
+      "voice": "af_heart",
+      "text": "Same cart, surface, start, and push duration. Change only the push setting.",
+      "file": "af_heart-m11-intro.mp3",
+      "duration": 5.21
+    },
+    {
+      "id": "m11-fact",
+      "voice": "af_heart",
+      "text": "Limit conclusions to the tested conditions.",
+      "file": "af_heart-m11-fact.mp3",
+      "duration": 2.6
+    },
+    {
+      "id": "m11-step0",
+      "voice": "af_heart",
+      "text": "Compare the two push settings.",
+      "file": "af_heart-m11-step0.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "m11-step1",
+      "voice": "af_heart",
+      "text": "What does this model record support? A. The stronger push sent this cart farther under these conditions. B. A stronger push always sends every object farther.",
+      "file": "af_heart-m11-step1.mp3",
+      "duration": 10.65
+    },
+    {
+      "id": "m11-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m11-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m11-sentence",
+      "voice": "af_heart",
+      "text": "Under the same model conditions, the stronger push sent this cart farther.",
+      "file": "af_heart-m11-sentence.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": "m12-intro",
+      "voice": "af_heart",
+      "text": "We want to compare push strengths. Keep the cart, surface, start, and push duration fixed.",
+      "file": "af_heart-m12-intro.mp3",
+      "duration": 5.74
+    },
+    {
+      "id": "m12-fact",
+      "voice": "af_heart",
+      "text": "Changing several conditions together makes the cause harder to identify.",
+      "file": "af_heart-m12-fact.mp3",
+      "duration": 4.48
+    },
+    {
+      "id": "m12-step0",
+      "voice": "af_heart",
+      "text": "Sort the conditions for this push-strength test.",
+      "file": "af_heart-m12-step0.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m12-step1",
+      "voice": "af_heart",
+      "text": "Why should the surface stay the same? A. It could also affect the cart’s motion. B. Surfaces never matter.",
+      "file": "af_heart-m12-step1.mp3",
+      "duration": 7.15
+    },
+    {
+      "id": "m12-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m12-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m12-sentence",
+      "voice": "af_heart",
+      "text": "I keep the cart and surface the same. I change the push strength.",
+      "file": "af_heart-m12-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m13-intro",
+      "voice": "af_heart",
+      "text": "Same cart and starting speed on two level tracks. Compare how far it travels before stopping.",
+      "file": "af_heart-m13-intro.mp3",
+      "duration": 6.1
+    },
+    {
+      "id": "m13-fact",
+      "voice": "af_heart",
+      "text": "Use the recorded outcome for these materials, not a universal rule for every surface and wheel.",
+      "file": "af_heart-m13-fact.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "m13-step0",
+      "voice": "af_heart",
+      "text": "Run both surface trials.",
+      "file": "af_heart-m13-step0.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "m13-step1",
+      "voice": "af_heart",
+      "text": "Which surface slowed this cart more in these trials? A. Rough test track B. Smooth test track",
+      "file": "af_heart-m13-step1.mp3",
+      "duration": 5.89
+    },
+    {
+      "id": "m13-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m13-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m13-sentence",
+      "voice": "af_heart",
+      "text": "On these test tracks, the rough surface stopped this cart sooner.",
+      "file": "af_heart-m13-sentence.mp3",
+      "duration": 3.65
+    },
+    {
+      "id": "m14-intro",
+      "voice": "af_heart",
+      "text": "A transport path should be easy to travel along; a stopping area should help slow this cart.",
+      "file": "af_heart-m14-intro.mp3",
+      "duration": 5.61
+    },
+    {
+      "id": "m14-fact",
+      "voice": "af_heart",
+      "text": "Friction can be useful for grip or braking and can also resist movement.",
+      "file": "af_heart-m14-fact.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "m14-step0",
+      "voice": "af_heart",
+      "text": "Compare travel and stopping surfaces.",
+      "file": "af_heart-m14-step0.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": "m14-step1",
+      "voice": "af_heart",
+      "text": "Where could increased friction help this model task? A. The stopping area B. Nowhere; friction is always bad.",
+      "file": "af_heart-m14-step1.mp3",
+      "duration": 7.08
+    },
+    {
+      "id": "m14-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m14-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m14-sentence",
+      "voice": "af_heart",
+      "text": "Friction can help slow a moving cart in a stopping area.",
+      "file": "af_heart-m14-sentence.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m15-intro",
+      "voice": "af_heart",
+      "text": "Observe separate model clips of motion changing. The labels describe the force effect in each clip.",
+      "file": "af_heart-m15-intro.mp3",
+      "duration": 6.23
+    },
+    {
+      "id": "m15-fact",
+      "voice": "af_heart",
+      "text": "Motion changes when forces are unbalanced; continued steady motion does not require a continuous net push.",
+      "file": "af_heart-m15-fact.mp3",
+      "duration": 7.36
+    },
+    {
+      "id": "m15-step0",
+      "voice": "af_heart",
+      "text": "Watch both changes in speed.",
+      "file": "af_heart-m15-step0.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "m15-step1",
+      "voice": "af_heart",
+      "text": "Which statement is supported? A. Forces can change motion. B. A moving object must always be pushed continuously.",
+      "file": "af_heart-m15-step1.mp3",
+      "duration": 8.47
+    },
+    {
+      "id": "m15-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m15-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m15-sentence",
+      "voice": "af_heart",
+      "text": "A force can speed up, slow down, or change the direction of motion.",
+      "file": "af_heart-m15-sentence.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m16-intro",
+      "voice": "af_heart",
+      "text": "Use a turn model, then a braking model. Observe the direction change and stop.",
+      "file": "af_heart-m16-intro.mp3",
+      "duration": 4.97
+    },
+    {
+      "id": "m16-fact",
+      "voice": "af_heart",
+      "text": "A force can change direction even if speed stays the same.",
+      "file": "af_heart-m16-fact.mp3",
+      "duration": 3.63
+    },
+    {
+      "id": "m16-step0",
+      "voice": "af_heart",
+      "text": "Run both control clips.",
+      "file": "af_heart-m16-step0.mp3",
+      "duration": 1.64
+    },
+    {
+      "id": "m16-step1",
+      "voice": "af_heart",
+      "text": "Does changing direction count as changing motion? A. Yes B. No",
+      "file": "af_heart-m16-step1.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "m16-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m16-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m16-sentence",
+      "voice": "af_heart",
+      "text": "Changing direction is a change in motion.",
+      "file": "af_heart-m16-sentence.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "m17-intro",
+      "voice": "af_heart",
+      "text": "Route A is shorter and takes 4 model seconds. Route B is longer and takes 6. Both reach the receiving point.",
+      "file": "af_heart-m17-intro.mp3",
+      "duration": 7.47
+    },
+    {
+      "id": "m17-fact",
+      "voice": "af_heart",
+      "text": "Different routes may trade distance, time, and ease of control.",
+      "file": "af_heart-m17-fact.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m17-step0",
+      "voice": "af_heart",
+      "text": "Test both possible routes.",
+      "file": "af_heart-m17-step0.mp3",
+      "duration": 1.77
+    },
+    {
+      "id": "m17-step1",
+      "voice": "af_heart",
+      "text": "Which route used less model travel time? A. Route A B. Route B",
+      "file": "af_heart-m17-step1.mp3",
+      "duration": 4.27
+    },
+    {
+      "id": "m17-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m17-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m17-sentence",
+      "voice": "af_heart",
+      "text": "Both routes reach the station. Route A takes less model time.",
+      "file": "af_heart-m17-sentence.mp3",
+      "duration": 3.95
+    },
+    {
+      "id": "m18-intro",
+      "voice": "af_heart",
+      "text": "Target zone: 18–22 model units. Choose a braking setting and inspect where the cart stops.",
+      "file": "af_heart-m18-intro.mp3",
+      "duration": 6.49
+    },
+    {
+      "id": "m18-fact",
+      "voice": "af_heart",
+      "text": "A successful delivery meets the stopping condition, not simply the greatest distance.",
+      "file": "af_heart-m18-fact.mp3",
+      "duration": 5.35
+    },
+    {
+      "id": "m18-step0",
+      "voice": "af_heart",
+      "text": "Test a setting that stops inside the target zone.",
+      "file": "af_heart-m18-step0.mp3",
+      "duration": 2.92
+    },
+    {
+      "id": "m18-step1",
+      "voice": "af_heart",
+      "text": "Why does the middle setting meet the brief? A. It stops at 20, within 18–22. B. It travels the farthest.",
+      "file": "af_heart-m18-step1.mp3",
+      "duration": 7.87
+    },
+    {
+      "id": "m18-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m18-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m18-sentence",
+      "voice": "af_heart",
+      "text": "I chose the braking setting that stopped the cart inside the target zone.",
+      "file": "af_heart-m18-sentence.mp3",
+      "duration": 4.33
+    },
+    {
+      "id": "m19-intro",
+      "voice": "af_heart",
+      "text": "The previous trial stopped at 28 and overshot an 18–22 target. Keep the cart and route fixed; adjust braking.",
+      "file": "af_heart-m19-intro.mp3",
+      "duration": 8.09
+    },
+    {
+      "id": "m19-fact",
+      "voice": "af_heart",
+      "text": "Use a failed trial as evidence for the next test.",
+      "file": "af_heart-m19-fact.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "m19-step0",
+      "voice": "af_heart",
+      "text": "Test an adjustment and compare with the overshoot.",
+      "file": "af_heart-m19-step0.mp3",
+      "duration": 2.82
+    },
+    {
+      "id": "m19-step1",
+      "voice": "af_heart",
+      "text": "Which change addresses this overshoot? A. Brake earlier, keeping other conditions the same. B. Change the cart, route, and braking all at once.",
+      "file": "af_heart-m19-step1.mp3",
+      "duration": 9.58
+    },
+    {
+      "id": "m19-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m19-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m19-sentence",
+      "voice": "af_heart",
+      "text": "The first cart overshot. I changed the braking point and kept the other conditions the same.",
+      "file": "af_heart-m19-sentence.mp3",
+      "duration": 5.67
+    },
+    {
+      "id": "m20-intro",
+      "voice": "af_heart",
+      "text": "Delivery brief: stop in the receiving zone, 18–22 units along the route. Two different model plans can meet this requirement.",
+      "file": "af_heart-m20-intro.mp3",
+      "duration": 8.75
+    },
+    {
+      "id": "m20-fact",
+      "voice": "af_heart",
+      "text": "More than one plan can work when each meets the stated conditions.",
+      "file": "af_heart-m20-fact.mp3",
+      "duration": 4.1
+    },
+    {
+      "id": "m20-step0",
+      "voice": "af_heart",
+      "text": "Choose and test a plan that meets the brief.",
+      "file": "af_heart-m20-step0.mp3",
+      "duration": 2.52
+    },
+    {
+      "id": "m20-step1",
+      "voice": "af_heart",
+      "text": "Which explanation uses evidence? A. My tested plan stopped inside the required zone. B. My favorite color proves the plan works.",
+      "file": "af_heart-m20-step1.mp3",
+      "duration": 9.45
+    },
+    {
+      "id": "m20-step2",
+      "voice": "af_heart",
+      "text": "Build your explanation.",
+      "file": "af_heart-m20-step2.mp3",
+      "duration": 1.51
+    },
+    {
+      "id": "m20-sentence",
+      "voice": "af_heart",
+      "text": "I tested a delivery plan. The cart stopped inside the target zone. The record supports my choice.",
+      "file": "af_heart-m20-sentence.mp3",
+      "duration": 6.29
+    },
+    {
+      "id": "m1-intro",
+      "voice": "af_bella",
+      "text": "The tree stays at the center. Find a position using the fixed screen view.",
+      "file": "af_bella-m1-intro.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "m1-fact",
+      "voice": "af_bella",
+      "text": "Position is described relative to a reference object.",
+      "file": "af_bella-m1-fact.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": "m1-step0",
+      "voice": "af_bella",
+      "text": "Place the sample above the tree.",
+      "file": "af_bella-m1-step0.mp3",
+      "duration": 1.9
+    },
+    {
+      "id": "m1-step1",
+      "voice": "af_bella",
+      "text": "What is the reference object? A. The tree B. Your moving finger",
+      "file": "af_bella-m1-step1.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "m1-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m1-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m1-sentence",
+      "voice": "af_bella",
+      "text": "The sample is above the tree.",
+      "file": "af_bella-m1-sentence.mp3",
+      "duration": 1.94
+    },
+    {
+      "id": "m2-intro",
+      "voice": "af_bella",
+      "text": "Use the same map. Left and right follow the screen, even if a character turns.",
+      "file": "af_bella-m2-intro.mp3",
+      "duration": 5.21
+    },
+    {
+      "id": "m2-fact",
+      "voice": "af_bella",
+      "text": "A fixed reference view makes instructions clear.",
+      "file": "af_bella-m2-fact.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "m2-step0",
+      "voice": "af_bella",
+      "text": "Place the box to the left of the tree.",
+      "file": "af_bella-m2-step0.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "m2-step1",
+      "voice": "af_bella",
+      "text": "If the worker turns around, does the map’s left side change? A. Yes B. No",
+      "file": "af_bella-m2-step1.mp3",
+      "duration": 5.27
+    },
+    {
+      "id": "m2-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m2-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m2-sentence",
+      "voice": "af_bella",
+      "text": "The box is to the left of the tree.",
+      "file": "af_bella-m2-sentence.mp3",
+      "duration": 1.96
+    },
+    {
+      "id": "m3-intro",
+      "voice": "af_bella",
+      "text": "Route A is 6 model units long; route B is 9. Align the ruler’s zero with the start.",
+      "file": "af_bella-m3-intro.mp3",
+      "duration": 6.12
+    },
+    {
+      "id": "m3-fact",
+      "voice": "af_bella",
+      "text": "Model units describe the drawing, not real centimeters on your screen.",
+      "file": "af_bella-m3-fact.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "m3-step0",
+      "voice": "af_bella",
+      "text": "Align zero with START, then measure.",
+      "file": "af_bella-m3-step0.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m3-step1",
+      "voice": "af_bella",
+      "text": "Which route is longer? A. Route A: 6 units B. Route B: 9 units",
+      "file": "af_bella-m3-step1.mp3",
+      "duration": 5.03
+    },
+    {
+      "id": "m3-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m3-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m3-sentence",
+      "voice": "af_bella",
+      "text": "Route B is longer than route A.",
+      "file": "af_bella-m3-sentence.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "m4-intro",
+      "voice": "af_bella",
+      "text": "Give a direction that names both the target position and the reference object.",
+      "file": "af_bella-m4-intro.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "m4-fact",
+      "voice": "af_bella",
+      "text": "Clear directions identify a position and reference.",
+      "file": "af_bella-m4-fact.mp3",
+      "duration": 3.37
+    },
+    {
+      "id": "m4-step0",
+      "voice": "af_bella",
+      "text": "Place the parcel between the tree and the station.",
+      "file": "af_bella-m4-step0.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "m4-step1",
+      "voice": "af_bella",
+      "text": "Which instruction is clearer? A. Put it there. B. Put the parcel between the tree and the station.",
+      "file": "af_bella-m4-step1.mp3",
+      "duration": 6.63
+    },
+    {
+      "id": "m4-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m4-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m4-sentence",
+      "voice": "af_bella",
+      "text": "Put the parcel between the tree and the station.",
+      "file": "af_bella-m4-sentence.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "m5-intro",
+      "voice": "af_bella",
+      "text": "Watch a cart relative to the fixed flag. One trial goes out and returns.",
+      "file": "af_bella-m5-intro.mp3",
+      "duration": 4.8
+    },
+    {
+      "id": "m5-fact",
+      "voice": "af_bella",
+      "text": "Compare positions over time, not only the first and last pictures.",
+      "file": "af_bella-m5-fact.mp3",
+      "duration": 4.22
+    },
+    {
+      "id": "m5-step0",
+      "voice": "af_bella",
+      "text": "Replay both journeys.",
+      "file": "af_bella-m5-step0.mp3",
+      "duration": 1.47
+    },
+    {
+      "id": "m5-step1",
+      "voice": "af_bella",
+      "text": "It ends where it started. Does that prove it never moved? A. Yes B. No. We must watch the journey.",
+      "file": "af_bella-m5-step1.mp3",
+      "duration": 6.61
+    },
+    {
+      "id": "m5-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m5-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m5-sentence",
+      "voice": "af_bella",
+      "text": "The cart moved even when it returned to its starting position.",
+      "file": "af_bella-m5-sentence.mp3",
+      "duration": 3.78
+    },
+    {
+      "id": "m6-intro",
+      "voice": "af_bella",
+      "text": "Watch three separate model motions: straight travel, rotation, and back-and-forth travel.",
+      "file": "af_bella-m6-intro.mp3",
+      "duration": 6.06
+    },
+    {
+      "id": "m6-fact",
+      "voice": "af_bella",
+      "text": "Real objects may combine motions; these clips isolate one pattern.",
+      "file": "af_bella-m6-fact.mp3",
+      "duration": 4.78
+    },
+    {
+      "id": "m6-step0",
+      "voice": "af_bella",
+      "text": "Play all three motion clips.",
+      "file": "af_bella-m6-step0.mp3",
+      "duration": 1.81
+    },
+    {
+      "id": "m6-step1",
+      "voice": "af_bella",
+      "text": "Which clip goes out and returns? A. Rotation B. Back and forth C. Straight travel",
+      "file": "af_bella-m6-step1.mp3",
+      "duration": 5.82
+    },
+    {
+      "id": "m6-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m6-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m6-sentence",
+      "voice": "af_bella",
+      "text": "Back-and-forth motion changes direction and can return to the start.",
+      "file": "af_bella-m6-sentence.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "m7-intro",
+      "voice": "af_bella",
+      "text": "Model record: cart A travels 20 units in 5 seconds; B travels 30 in 5 seconds.",
+      "file": "af_bella-m7-intro.mp3",
+      "duration": 6.49
+    },
+    {
+      "id": "m7-fact",
+      "voice": "af_bella",
+      "text": "For equal times, compare distance traveled.",
+      "file": "af_bella-m7-fact.mp3",
+      "duration": 2.73
+    },
+    {
+      "id": "m7-step0",
+      "voice": "af_bella",
+      "text": "Run both carts for the same model time.",
+      "file": "af_bella-m7-step0.mp3",
+      "duration": 2.43
+    },
+    {
+      "id": "m7-step1",
+      "voice": "af_bella",
+      "text": "Which has the greater average speed? A. A B. B C. They must be equal",
+      "file": "af_bella-m7-step1.mp3",
+      "duration": 5.01
+    },
+    {
+      "id": "m7-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m7-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m7-sentence",
+      "voice": "af_bella",
+      "text": "Cart B travels farther in the same time, so its average speed is greater.",
+      "file": "af_bella-m7-sentence.mp3",
+      "duration": 4.5
+    },
+    {
+      "id": "m8-intro",
+      "voice": "af_bella",
+      "text": "Both carts travel 20 units. A takes 4 seconds; B takes 6 seconds.",
+      "file": "af_bella-m8-intro.mp3",
+      "duration": 5.18
+    },
+    {
+      "id": "m8-fact",
+      "voice": "af_bella",
+      "text": "Compare each cart’s elapsed travel time, not who starts first.",
+      "file": "af_bella-m8-fact.mp3",
+      "duration": 3.86
+    },
+    {
+      "id": "m8-step0",
+      "voice": "af_bella",
+      "text": "Run both equal-distance trials.",
+      "file": "af_bella-m8-step0.mp3",
+      "duration": 2.09
+    },
+    {
+      "id": "m8-step1",
+      "voice": "af_bella",
+      "text": "Which has the greater average speed? A. A B. B",
+      "file": "af_bella-m8-step1.mp3",
+      "duration": 3.5
+    },
+    {
+      "id": "m8-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m8-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m8-sentence",
+      "voice": "af_bella",
+      "text": "Cart A takes less time for the same distance, so its average speed is greater.",
+      "file": "af_bella-m8-sentence.mp3",
+      "duration": 4.76
+    },
+    {
+      "id": "m9-intro",
+      "voice": "af_bella",
+      "text": "The worker is at the left. A push sends this box right; a pull brings it toward the worker.",
+      "file": "af_bella-m9-intro.mp3",
+      "duration": 5.91
+    },
+    {
+      "id": "m9-fact",
+      "voice": "af_bella",
+      "text": "A push or pull is a force acting on an object.",
+      "file": "af_bella-m9-fact.mp3",
+      "duration": 3.11
+    },
+    {
+      "id": "m9-step0",
+      "voice": "af_bella",
+      "text": "Try pushing and pulling.",
+      "file": "af_bella-m9-step0.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m9-step1",
+      "voice": "af_bella",
+      "text": "Which action brings the box toward the worker? A. Push away B. Pull toward",
+      "file": "af_bella-m9-step1.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "m9-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m9-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m9-sentence",
+      "voice": "af_bella",
+      "text": "A pull brings this box toward the worker.",
+      "file": "af_bella-m9-sentence.mp3",
+      "duration": 2.67
+    },
+    {
+      "id": "m10-intro",
+      "voice": "af_bella",
+      "text": "The cart starts at rest. The target is to its right. Compare two opposite pushes.",
+      "file": "af_bella-m10-intro.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": "m10-fact",
+      "voice": "af_bella",
+      "text": "The effect of a force depends on its direction and the object’s current motion.",
+      "file": "af_bella-m10-fact.mp3",
+      "duration": 5.1
+    },
+    {
+      "id": "m10-step0",
+      "voice": "af_bella",
+      "text": "Test both push directions.",
+      "file": "af_bella-m10-step0.mp3",
+      "duration": 1.75
+    },
+    {
+      "id": "m10-step1",
+      "voice": "af_bella",
+      "text": "Which push moves this resting cart toward the right target? A. Push right B. Push left",
+      "file": "af_bella-m10-step1.mp3",
+      "duration": 6.12
+    },
+    {
+      "id": "m10-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m10-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m10-sentence",
+      "voice": "af_bella",
+      "text": "For this resting cart, a push to the right starts motion toward the target.",
+      "file": "af_bella-m10-sentence.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "m11-intro",
+      "voice": "af_bella",
+      "text": "Same cart, surface, start, and push duration. Change only the push setting.",
+      "file": "af_bella-m11-intro.mp3",
+      "duration": 5.44
+    },
+    {
+      "id": "m11-fact",
+      "voice": "af_bella",
+      "text": "Limit conclusions to the tested conditions.",
+      "file": "af_bella-m11-fact.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "m11-step0",
+      "voice": "af_bella",
+      "text": "Compare the two push settings.",
+      "file": "af_bella-m11-step0.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "m11-step1",
+      "voice": "af_bella",
+      "text": "What does this model record support? A. The stronger push sent this cart farther under these conditions. B. A stronger push always sends every object farther.",
+      "file": "af_bella-m11-step1.mp3",
+      "duration": 11.37
+    },
+    {
+      "id": "m11-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m11-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m11-sentence",
+      "voice": "af_bella",
+      "text": "Under the same model conditions, the stronger push sent this cart farther.",
+      "file": "af_bella-m11-sentence.mp3",
+      "duration": 4.46
+    },
+    {
+      "id": "m12-intro",
+      "voice": "af_bella",
+      "text": "We want to compare push strengths. Keep the cart, surface, start, and push duration fixed.",
+      "file": "af_bella-m12-intro.mp3",
+      "duration": 5.95
+    },
+    {
+      "id": "m12-fact",
+      "voice": "af_bella",
+      "text": "Changing several conditions together makes the cause harder to identify.",
+      "file": "af_bella-m12-fact.mp3",
+      "duration": 4.54
+    },
+    {
+      "id": "m12-step0",
+      "voice": "af_bella",
+      "text": "Sort the conditions for this push-strength test.",
+      "file": "af_bella-m12-step0.mp3",
+      "duration": 2.5
+    },
+    {
+      "id": "m12-step1",
+      "voice": "af_bella",
+      "text": "Why should the surface stay the same? A. It could also affect the cart’s motion. B. Surfaces never matter.",
+      "file": "af_bella-m12-step1.mp3",
+      "duration": 7.23
+    },
+    {
+      "id": "m12-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m12-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m12-sentence",
+      "voice": "af_bella",
+      "text": "I keep the cart and surface the same. I change the push strength.",
+      "file": "af_bella-m12-sentence.mp3",
+      "duration": 3.9
+    },
+    {
+      "id": "m13-intro",
+      "voice": "af_bella",
+      "text": "Same cart and starting speed on two level tracks. Compare how far it travels before stopping.",
+      "file": "af_bella-m13-intro.mp3",
+      "duration": 6.38
+    },
+    {
+      "id": "m13-fact",
+      "voice": "af_bella",
+      "text": "Use the recorded outcome for these materials, not a universal rule for every surface and wheel.",
+      "file": "af_bella-m13-fact.mp3",
+      "duration": 6.12
+    },
+    {
+      "id": "m13-step0",
+      "voice": "af_bella",
+      "text": "Run both surface trials.",
+      "file": "af_bella-m13-step0.mp3",
+      "duration": 1.71
+    },
+    {
+      "id": "m13-step1",
+      "voice": "af_bella",
+      "text": "Which surface slowed this cart more in these trials? A. Rough test track B. Smooth test track",
+      "file": "af_bella-m13-step1.mp3",
+      "duration": 6.25
+    },
+    {
+      "id": "m13-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m13-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m13-sentence",
+      "voice": "af_bella",
+      "text": "On these test tracks, the rough surface stopped this cart sooner.",
+      "file": "af_bella-m13-sentence.mp3",
+      "duration": 3.71
+    },
+    {
+      "id": "m14-intro",
+      "voice": "af_bella",
+      "text": "A transport path should be easy to travel along; a stopping area should help slow this cart.",
+      "file": "af_bella-m14-intro.mp3",
+      "duration": 5.65
+    },
+    {
+      "id": "m14-fact",
+      "voice": "af_bella",
+      "text": "Friction can be useful for grip or braking and can also resist movement.",
+      "file": "af_bella-m14-fact.mp3",
+      "duration": 4.57
+    },
+    {
+      "id": "m14-step0",
+      "voice": "af_bella",
+      "text": "Compare travel and stopping surfaces.",
+      "file": "af_bella-m14-step0.mp3",
+      "duration": 2.2
+    },
+    {
+      "id": "m14-step1",
+      "voice": "af_bella",
+      "text": "Where could increased friction help this model task? A. The stopping area B. Nowhere; friction is always bad.",
+      "file": "af_bella-m14-step1.mp3",
+      "duration": 7.42
+    },
+    {
+      "id": "m14-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m14-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m14-sentence",
+      "voice": "af_bella",
+      "text": "Friction can help slow a moving cart in a stopping area.",
+      "file": "af_bella-m14-sentence.mp3",
+      "duration": 3.46
+    },
+    {
+      "id": "m15-intro",
+      "voice": "af_bella",
+      "text": "Observe separate model clips of motion changing. The labels describe the force effect in each clip.",
+      "file": "af_bella-m15-intro.mp3",
+      "duration": 6.42
+    },
+    {
+      "id": "m15-fact",
+      "voice": "af_bella",
+      "text": "Motion changes when forces are unbalanced; continued steady motion does not require a continuous net push.",
+      "file": "af_bella-m15-fact.mp3",
+      "duration": 7.32
+    },
+    {
+      "id": "m15-step0",
+      "voice": "af_bella",
+      "text": "Watch both changes in speed.",
+      "file": "af_bella-m15-step0.mp3",
+      "duration": 1.86
+    },
+    {
+      "id": "m15-step1",
+      "voice": "af_bella",
+      "text": "Which statement is supported? A. Forces can change motion. B. A moving object must always be pushed continuously.",
+      "file": "af_bella-m15-step1.mp3",
+      "duration": 8.73
+    },
+    {
+      "id": "m15-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m15-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m15-sentence",
+      "voice": "af_bella",
+      "text": "A force can speed up, slow down, or change the direction of motion.",
+      "file": "af_bella-m15-sentence.mp3",
+      "duration": 4.52
+    },
+    {
+      "id": "m16-intro",
+      "voice": "af_bella",
+      "text": "Use a turn model, then a braking model. Observe the direction change and stop.",
+      "file": "af_bella-m16-intro.mp3",
+      "duration": 5.29
+    },
+    {
+      "id": "m16-fact",
+      "voice": "af_bella",
+      "text": "A force can change direction even if speed stays the same.",
+      "file": "af_bella-m16-fact.mp3",
+      "duration": 3.84
+    },
+    {
+      "id": "m16-step0",
+      "voice": "af_bella",
+      "text": "Run both control clips.",
+      "file": "af_bella-m16-step0.mp3",
+      "duration": 1.6
+    },
+    {
+      "id": "m16-step1",
+      "voice": "af_bella",
+      "text": "Does changing direction count as changing motion? A. Yes B. No",
+      "file": "af_bella-m16-step1.mp3",
+      "duration": 5.06
+    },
+    {
+      "id": "m16-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m16-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m16-sentence",
+      "voice": "af_bella",
+      "text": "Changing direction is a change in motion.",
+      "file": "af_bella-m16-sentence.mp3",
+      "duration": 2.75
+    },
+    {
+      "id": "m17-intro",
+      "voice": "af_bella",
+      "text": "Route A is shorter and takes 4 model seconds. Route B is longer and takes 6. Both reach the receiving point.",
+      "file": "af_bella-m17-intro.mp3",
+      "duration": 7.91
+    },
+    {
+      "id": "m17-fact",
+      "voice": "af_bella",
+      "text": "Different routes may trade distance, time, and ease of control.",
+      "file": "af_bella-m17-fact.mp3",
+      "duration": 3.97
+    },
+    {
+      "id": "m17-step0",
+      "voice": "af_bella",
+      "text": "Test both possible routes.",
+      "file": "af_bella-m17-step0.mp3",
+      "duration": 1.79
+    },
+    {
+      "id": "m17-step1",
+      "voice": "af_bella",
+      "text": "Which route used less model travel time? A. Route A B. Route B",
+      "file": "af_bella-m17-step1.mp3",
+      "duration": 4.69
+    },
+    {
+      "id": "m17-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m17-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m17-sentence",
+      "voice": "af_bella",
+      "text": "Both routes reach the station. Route A takes less model time.",
+      "file": "af_bella-m17-sentence.mp3",
+      "duration": 4.05
+    },
+    {
+      "id": "m18-intro",
+      "voice": "af_bella",
+      "text": "Target zone: 18–22 model units. Choose a braking setting and inspect where the cart stops.",
+      "file": "af_bella-m18-intro.mp3",
+      "duration": 6.61
+    },
+    {
+      "id": "m18-fact",
+      "voice": "af_bella",
+      "text": "A successful delivery meets the stopping condition, not simply the greatest distance.",
+      "file": "af_bella-m18-fact.mp3",
+      "duration": 5.59
+    },
+    {
+      "id": "m18-step0",
+      "voice": "af_bella",
+      "text": "Test a setting that stops inside the target zone.",
+      "file": "af_bella-m18-step0.mp3",
+      "duration": 2.99
+    },
+    {
+      "id": "m18-step1",
+      "voice": "af_bella",
+      "text": "Why does the middle setting meet the brief? A. It stops at 20, within 18–22. B. It travels the farthest.",
+      "file": "af_bella-m18-step1.mp3",
+      "duration": 8.28
+    },
+    {
+      "id": "m18-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m18-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m18-sentence",
+      "voice": "af_bella",
+      "text": "I chose the braking setting that stopped the cart inside the target zone.",
+      "file": "af_bella-m18-sentence.mp3",
+      "duration": 4.39
+    },
+    {
+      "id": "m19-intro",
+      "voice": "af_bella",
+      "text": "The previous trial stopped at 28 and overshot an 18–22 target. Keep the cart and route fixed; adjust braking.",
+      "file": "af_bella-m19-intro.mp3",
+      "duration": 8.34
+    },
+    {
+      "id": "m19-fact",
+      "voice": "af_bella",
+      "text": "Use a failed trial as evidence for the next test.",
+      "file": "af_bella-m19-fact.mp3",
+      "duration": 3.05
+    },
+    {
+      "id": "m19-step0",
+      "voice": "af_bella",
+      "text": "Test an adjustment and compare with the overshoot.",
+      "file": "af_bella-m19-step0.mp3",
+      "duration": 3.03
+    },
+    {
+      "id": "m19-step1",
+      "voice": "af_bella",
+      "text": "Which change addresses this overshoot? A. Brake earlier, keeping other conditions the same. B. Change the cart, route, and braking all at once.",
+      "file": "af_bella-m19-step1.mp3",
+      "duration": 9.86
+    },
+    {
+      "id": "m19-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m19-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m19-sentence",
+      "voice": "af_bella",
+      "text": "The first cart overshot. I changed the braking point and kept the other conditions the same.",
+      "file": "af_bella-m19-sentence.mp3",
+      "duration": 5.78
+    },
+    {
+      "id": "m20-intro",
+      "voice": "af_bella",
+      "text": "Delivery brief: stop in the receiving zone, 18–22 units along the route. Two different model plans can meet this requirement.",
+      "file": "af_bella-m20-intro.mp3",
+      "duration": 9.02
+    },
+    {
+      "id": "m20-fact",
+      "voice": "af_bella",
+      "text": "More than one plan can work when each meets the stated conditions.",
+      "file": "af_bella-m20-fact.mp3",
+      "duration": 4.2
+    },
+    {
+      "id": "m20-step0",
+      "voice": "af_bella",
+      "text": "Choose and test a plan that meets the brief.",
+      "file": "af_bella-m20-step0.mp3",
+      "duration": 2.69
+    },
+    {
+      "id": "m20-step1",
+      "voice": "af_bella",
+      "text": "Which explanation uses evidence? A. My tested plan stopped inside the required zone. B. My favorite color proves the plan works.",
+      "file": "af_bella-m20-step1.mp3",
+      "duration": 9.92
+    },
+    {
+      "id": "m20-step2",
+      "voice": "af_bella",
+      "text": "Build your explanation.",
+      "file": "af_bella-m20-step2.mp3",
+      "duration": 1.45
+    },
+    {
+      "id": "m20-sentence",
+      "voice": "af_bella",
+      "text": "I tested a delivery plan. The cart stopped inside the target zone. The record supports my choice.",
+      "file": "af_bella-m20-sentence.mp3",
+      "duration": 6.53
+    }
+  ]
+}
