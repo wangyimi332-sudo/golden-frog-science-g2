@@ -1,0 +1,63 @@
+name: Publish G2 to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify package and populate website files
+        if: ${{ hashFiles('dist/index.html') == '' }}
+        shell: bash
+        run: |
+          cat package/g2.tar.gz.part* > "$RUNNER_TEMP/g2.tar.gz"
+          echo "ffeb340bb3711d7d7d152575fd33eed95c360d055b929e6a6b5222d733074be7  $RUNNER_TEMP/g2.tar.gz" | sha256sum -c -
+          tar --exclude='dist/.openai' -xzf "$RUNNER_TEMP/g2.tar.gz"
+          test -f dist/index.html
+          git add dist
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add complete G2 v10 website files'
+          git push origin HEAD:main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Verify published website and media
+        shell: python
+        env:
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          import hashlib, os, time, urllib.request
+          from pathlib import Path
+          from urllib.parse import urljoin
+          base = os.environ["SITE_URL"].rstrip("/") + "/"
+          for name in ["index.html", "learning.js", "assets/golden-frog.webp", "audio/af_bella-a1-intro.mp3"]:
+              expected = hashlib.sha256((Path("dist") / name).read_bytes()).hexdigest()
+              for attempt in range(6):
+                  try:
+                      req = urllib.request.Request(urljoin(base, name), headers={"Cache-Control": "no-cache"})
+                      with urllib.request.urlopen(req, timeout=30) as response:
+                          body = response.read()
+                          assert response.status == 200
+                      assert hashlib.sha256(body).hexdigest() == expected, "Content mismatch"
+                      print(f"OK {name}: {len(body)} bytes, SHA-256 matches")
+                      break
+                  except Exception:
+                      if attempt == 5:
+                          raise
+                      time.sleep(5)
+          print(f"Verified live website: {base}")
