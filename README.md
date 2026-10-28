@@ -43,6 +43,6 @@ GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g2
 
 GitHub Pages 已实测可访问。学习记录只保存在当前浏览器；更换设备或网址前需导出备份。
 
-网站文件在 `dist/`；技术验证见 `VALIDATION.md`。
+网站文件位于本仓库的 `dist/`。
 
 
